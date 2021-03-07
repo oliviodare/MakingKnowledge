@@ -1,0 +1,36 @@
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 600;
+}
+
+
+.markdown-preview-view h1 {
+	font-size: 50px;
+	color: #ffb703;
+	line-height: 48px; }
+
+
+.markdown-preview-view h2 {
+	font-size: 35px;
+	color: #e07a5f;
+	line-height: 2em;
+ }
+
+
+.markdown-preview-view h3 {
+	font-size: 20px;
+	color: #56A3A6;
+	text-decoration: underline;
+	line-height: 2em;
+}
+
+
+.markdown-preview-view .internal-link {
+	color: #FFB703;
+
+}
+
+
+.external-link {
+	color: #FFB703
+}
