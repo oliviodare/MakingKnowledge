@@ -1,0 +1,2 @@
+Today I am moving to [[Brussels]]. Big-day. I am listening a lot to dj poolboi. Feels certainly like a short, thick, and dense roadtrip. I saw Docky today, said goodbye to Maura and Martijn yesterday, and Thomas a couple of days ago. It feels as if I am leaving through the back-door. Which helps increase the feeling of unreality of it all. I haven't seen Alicia in so long, that it feels as though jumping into a pool with your eyes closed. I  want to get there already. Swim, finally. 
+
