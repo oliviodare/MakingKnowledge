@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biodiversity/Soulé 1985.md",
+            "file": "Biodiversity/Myers et al 2000.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biodiversity/Soulé 1985.md",
+                "file": "Biodiversity/Myers et al 2000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Biodiversity/Myers et al 2000.md",
     "Biodiversity/Soulé 1985.md",
     "Templates and Resources/Book.md",
     "Templates and Resources/Journal article.md",
@@ -110,7 +111,6 @@
     "Biodiversity/Pritchard and Zimring 2020.md",
     "Biodiversity/Robin 2011.md",
     "Biodiversity/biodiveristy.md",
-    "Biodiversity/Justus 2010.md",
-    "Biodiversity/Myers et al 2000.md"
+    "Biodiversity/Justus 2010.md"
   ]
 }
