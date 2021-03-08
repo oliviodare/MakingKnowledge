@@ -44,6 +44,7 @@
 	- [ ] Vanpaemel
 	- [x] Von der Goltz
 - [ ] Back-editing 
+	- [ ] Footnotes: ." or ". ?
 	- [ ] Page reference between chapters?
 	- [ ] DOIs
 	- [ ] Uncomplete first name. Delete double `..` 
@@ -64,12 +65,13 @@
 	- [ ] Unpublished (master and PhD) thesis
 	- [ ] Translations.
 		<br>Von Pettenkofer, Max. _Over olieverven en het conserveeren van schilderijen door de regeneratie-behandeling,_ translation by W. A. Hopman (Amsterdam: C. L. Brinkman, 1871).<br><br>
-- [ ] Pagination: chapter by chapter, starting at 1 per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 45) 
+- [ ] Pagination: chapter by chapter, starting at 1 per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making%20of%20Art%20Expertise/3.%20Routledge%20Documents/Author+Guidelines+2019.pdf>), page 45) 
 - [ ] Send all documents.
-	- [ ] Front matter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 29)
-		- [x] List of Contributions ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 45)
-		- [ ] Image list
+	- [ ] [Front matter](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/1. Text Files/4. Final Version/0.FrontMattter.docx>) ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 29)
+		- [ ] Title page
 		- [ ] Table of Contents
+		- [ ] Image list
+		- [ ] List of Contributions ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 45)
 		- [ ] Acknowledgments
 	- [ ] Images
 		- [ ] Artlog

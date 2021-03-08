@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aff5b0876b09f431",
+        "id": "d7531f8434d11193",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "08 March 2021.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"1. Literature.xlsx\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 March 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "08 March 2021.md",
-    "Biodiversity/biodiveristy.md",
-    "Biodiversity/Honeybun-Arnolda 2019.md",
-    "Biodiversity/Myers et al 2000.md",
-    "Biodiversity/Soulé 1985.md",
-    "Templates and Resources/Book.md",
-    "Templates and Resources/Journal article.md",
-    "Biodiversity/Questions arising.md",
-    "Biodiversity/Koselleck 2004.md",
-    "Biodiversity/Pritchard and Zimring 2020.md"
+    "ARTECHNE.md",
+    "Open Projects.md",
+    "Checklist per chapter.md",
+    "Biodiversity/Readings.md",
+    "Attachments/Captura de pantalla 2021-02-03 a las 14.32.07.png",
+    "Attachments/Captura de pantalla 2021-02-03 a las 14.48.46.png",
+    "Attachments/EnQhTQAXMAEfC4d.jpeg",
+    "Attachments/Captura de pantalla 2021-02-03 a las 23.08.28.png",
+    "Attachments/Soulé 1985 analogy medicine and conservation biology.md",
+    "08 March 2021.md"
   ]
 }

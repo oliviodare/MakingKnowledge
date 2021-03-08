@@ -3,26 +3,6 @@
 
 # <br>
 
-### Backedits
-- Change from 
-	Atkinson, Richard J. C.. _Field Archaeology_ (London: Methuen & Co. Ltd, 1946).
-	
-	<br><br>to<br><br>
-	
-	Atkinson, Richard J. C. _Field Archaeology_ (London: Methuen & Co. Ltd, 1946).
-	
-- Reference to Chicago Press and other Universities Presses.
-- Archetype Publications Ltd?
-- Edited books: comma or and?
--  Bewer, Francesca G. _A Laboratory for Art: Harvard’s Fogg Museum and the Emergence of Conservation in America, 1900–1950_ (New Haven and Cambridge, MA: Yale University Press, 2010).
--   Burroughs, Alan. _Art Criticism From a Laboratory_ (Boston: Little Brown, 1938).
--   forthcoming?
--  Master thesis, unpublished?
--   DOI?
--  Translation?: Von Pettenkofer, Max. _Over olieverven en het conserveeren van schilderijen door de regeneratie-behandeling,_ translation by W. A. Hopman (Amsterdam: C. L. Brinkman, 1871).
-
-
-
 
 ### Main formating
 - [x] Is the font Times New Roman?
