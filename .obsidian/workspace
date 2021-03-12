@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d7531f8434d11193",
+        "id": "66ec205d5842b5ce",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LIFE TO DO LIST.md",
-            "mode": "preview"
+            "file": "Thesis Roadmap.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"1. Literature.xlsx\"",
+                "query": "todo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIFE TO DO LIST.md",
+                "file": "Thesis Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Thesis Roadmap.md",
+    "Biodiversity/Robin 2011.md",
     "LIFE TO DO LIST.md",
+    "Biodiversity/Justus 2010.md",
+    "JOTE TASKS.md",
     "Open Projects.md",
     "Groceires Bruxelles.md",
     "Looking for fysios.md",
     "11 March 2021.md",
-    "10 March 2021.md",
-    "ARTECHNE.md",
-    "Checklist per chapter.md",
-    "JOTE TASKS.md",
-    "Biodiversity/Readings.md"
+    "10 March 2021.md"
   ]
 }

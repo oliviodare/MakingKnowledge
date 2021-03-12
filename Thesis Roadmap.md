@@ -7,7 +7,6 @@
 ---
 
 ## Upcoming Concrete Goals 
-#todo 
 - [x] Application école doctorale
 - [x] Submit FNRS
 	- [x] **Monday 15 Feb 14h**: Create application on E-Space: 
@@ -23,7 +22,7 @@
 		- [x] Ranking completed by the faculty / faculties awarding Bachelor’s and Master’s degrees or equivalent: 
 		- [x] Publications accepted after the deadline of validation by the applicant: 1 May
 - [x] Goal weekend 6-7 March: read conceptual history
-- [ ] Goal week 8-13 March: read history of biodiversity, take full notes of [[Pritchard and Zimring 2020]]
+
 
 
 ---

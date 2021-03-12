@@ -1,15 +1,3 @@
-#todo 
-- [x] PCR test brussels
-- [x] tell someone from Sweelinckstraat to pick film from fotowereld
-- [x] send 9 € tikkie to Lotte
-- [x] check when is the JOTE HPS course: Period 4, 3-hour/week.
-- [x] fix room
-- [ ] find pictures for frames
-- [ ] find out how to make wall holes in ceramic
-- [ ] taxes (from March 1st to May 1st)
-- [ ] [SIM card Belgique](https://www.vivireuropa.com/elegir-tarjeta-sim-de-prepago-para-movil-en-belgica/)
-- [x] find attractive insurance
-
 
 # Expecting Books
 - James Maclaurin and Kim Sterelny, *What is Biodiversity?* (The University of Chicago Press, 2008). **Arrived in Utrecht, Lotte will ship it**.
