@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "LIFE TO DO LIST.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LIFE TO DO LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +103,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "ARTECHNE.md",
+    "LIFE TO DO LIST.md",
     "Open Projects.md",
+    "Groceires Bruxelles.md",
+    "Looking for fysios.md",
+    "11 March 2021.md",
+    "10 March 2021.md",
+    "ARTECHNE.md",
     "Checklist per chapter.md",
-    "Biodiversity/Readings.md",
-    "Attachments/Captura de pantalla 2021-02-03 a las 14.32.07.png",
-    "Attachments/Captura de pantalla 2021-02-03 a las 14.48.46.png",
-    "Attachments/EnQhTQAXMAEfC4d.jpeg",
-    "Attachments/Captura de pantalla 2021-02-03 a las 23.08.28.png",
-    "Attachments/Soulé 1985 analogy medicine and conservation biology.md",
-    "08 March 2021.md"
+    "JOTE TASKS.md",
+    "Biodiversity/Readings.md"
   ]
 }
