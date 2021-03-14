@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thesis Roadmap.md",
+            "file": "Archive/Elizabeth Anderson, 2020, 'Let's Talk'.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis Roadmap.md",
+                "file": "Archive/Elizabeth Anderson, 2020, 'Let's Talk'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "14 March 2021.md",
+    "LIFE TO DO LIST.md",
+    "MaxBarna2021/Max_Barna2021-1.jpg",
+    "MaxBarna2021/Max_Barna2021-2.jpg",
+    "MaxBarna2021/Max_Barna2021-3.jpg",
+    "MaxBarna2021/Max_Barna2021-4.jpg",
+    "MaxBarna2021/Max_Barna2021-5.jpg",
     "Thesis Roadmap.md",
     "Biodiversity/Robin 2011.md",
-    "LIFE TO DO LIST.md",
-    "Biodiversity/Justus 2010.md",
-    "JOTE TASKS.md",
-    "Open Projects.md",
-    "Groceires Bruxelles.md",
-    "Looking for fysios.md",
-    "11 March 2021.md",
-    "10 March 2021.md"
+    "Biodiversity/Justus 2010.md"
   ]
 }
