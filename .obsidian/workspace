@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "66ec205d5842b5ce",
+        "id": "393988e557ac2ab3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Archive/Elizabeth Anderson, 2020, 'Let's Talk'.md",
-            "mode": "source"
+            "file": "Archive/Silier 2020.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Elizabeth Anderson, 2020, 'Let's Talk'.md",
+                "file": "Archive/Silier 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +103,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Archive/Silier 2020.md",
+    "Silier.md",
     "14 March 2021.md",
-    "LIFE TO DO LIST.md",
-    "MaxBarna2021/Max_Barna2021-1.jpg",
-    "MaxBarna2021/Max_Barna2021-2.jpg",
-    "MaxBarna2021/Max_Barna2021-3.jpg",
-    "MaxBarna2021/Max_Barna2021-4.jpg",
-    "MaxBarna2021/Max_Barna2021-5.jpg",
-    "Thesis Roadmap.md",
-    "Biodiversity/Robin 2011.md",
-    "Biodiversity/Justus 2010.md"
+    "Biodiversity/Soulé 1985.md",
+    "Archive/Fernández Carro 2020.md",
+    "Archive/Gingras 2020.md",
+    "Archive/Job applications.md",
+    "Archive/February 2021 applications draft.md",
+    "Archive/Classics in the Sociology of Scientific Knowledge.md",
+    "Archive/10 March 2021.md"
   ]
 }
