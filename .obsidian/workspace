@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Turning (part of) my thesis into a publication or communication.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Turning (part of) my thesis into a publication or communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +103,14 @@
   },
   "lastOpenFiles": [
     "Turning (part of) my thesis into a publication or communication.md",
-    "bautistaperpinyaBeMolecularScientist2020.md",
-    "Open Projects.md",
-    "ISHPSSB Biennial Meeting 2021 (Virtual).md",
-    "Checklist per chapter.md",
-    "LIFE TO DO LIST.md",
-    "Thesis Roadmap.md",
-    "Things to add to CV.md",
-    "Archive/Taking notes about Obsidian.md",
-    "Templates and Resources/ΩΩ Link Cloud.md"
+    "TBMS-ChapterFour.md",
+    "collinsThirdWaveScience2002 - Annotations (15032021, 190410).md",
+    "collinsThirdWaveScience2002.md",
+    "TBMS-ChapterOne.md",
+    "TBMS-Introduction.md",
+    "bautistaperpinyaBeMolecularScientist2020 - Annotations of 'Chapter Four' (15032021, 181329).md",
+    "bautistaperpinyaBeMolecularScientist2020 - Sections, subsections, and themes of Chapter One.md",
+    "bautistaperpinyaBeMolecularScientist2020 - Annotations of 'Introduction' (15032021, 140616).md",
+    "bautistaperpinyaBeMolecularScientist2020 - Annotations of 'Chapter One' (15032021, 170200).md"
   ]
 }
