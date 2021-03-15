@@ -2,13 +2,13 @@
 
 ## Metadata
 
-**Authors**: [[]]
+**Authors**: [[Surname]]
 **Year**: [[]]
 **Title**: [](zotero link)
-**Kind**: [[Article]] [[Book review]] [[Commentary Article]]
+**Kind**: [[Article]] [[Book review]] [[Commentary Article]] [[Webpage]]
 **Journal**: **
 **Date read**: [[{{date}}]]
-**Tags**: [[]],
+**Tags**: #
 **Take-home message**: 
 
 ---

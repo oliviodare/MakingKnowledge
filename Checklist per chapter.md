@@ -5,88 +5,88 @@
 
 
 ### Main formating
-- [x] Is the font Times New Roman?
-- [x] Is the spacing 1.5?
-- [x] Are section titles following these formats **MAIN TITLE**, *SECTION TITLE*, and <ins>*Subtitle*</ins>?
-- [x] Is there *no* dot after the title, sections, and subsections?
+- [ ] Is the font Times New Roman?
+- [ ] Is the spacing 1.5?
+- [ ] Are section titles following these formats **MAIN TITLE**, *SECTION TITLE*, and <ins>*Subtitle*</ins>?
+- [ ] Is there *no* dot after the title, sections, and subsections?
 
-- [x] Are all paragraphs indented? (Are there any empty lines)?
-- [x] Is there only **one** empty space after a full stop (rather than two)?
+- [ ] Are all paragraphs indented? (Are there any empty lines)?
+- [ ] Is there only **one** empty space after a full stop (rather than two)?
 ---
 
 ### Details
-- [x] Are aconyms unpointed (`USA`)?
-- [x] Do the use of dashes follow the *spaced em dash unspaced* format? <br>
+- [ ] Are aconyms unpointed (`USA`)?
+- [ ] Do the use of dashes follow the *spaced em dash unspaced* format? <br>
 	`The essay —first published in 1960— addresses this question.`
 	<br>
 	
-- [x] Are numbers spelled out to ten, and using Arabic numbers thereafter?
-- [x] Are centuries spelled out (`nineteenth century`, rather than `19th century`)?
-- [x] Are `th`, `nd`, `rd` of dates superscripted? (([1-9])th)
-- [x] Do dates follow this format? <br>
+- [ ] Are numbers spelled out to ten, and using Arabic numbers thereafter?
+- [ ] Are centuries spelled out (`nineteenth century`, rather than `19th century`)?
+- [ ] Are `th`, `nd`, `rd` of dates superscripted? (([1-9])th)
+- [ ] Do dates follow this format? <br>
 		`June 7th, 1918`<br>
 		
-- [x] Are date ranges separated by an en dash and *no* space? <br>
+- [ ] Are date ranges separated by an en dash and *no* space? <br>
 		`1918–1937`<br>
 		
-- [x]  Is there a lower case after a colon? <br>
+- [ ]  Is there a lower case after a colon? <br>
 		`all the nice things: cars, houses`<br>
 		
-- [x]  Do bulleted and numbered list follow this format? <br>
+- [ ]  Do bulleted and numbered list follow this format? <br>
 		` - Each line begins with a capital letter;`
 		` - Each line ends with a semi-colon;` <br>
 		
-- [x]  Do reference to figure follow this format? <br>
+- [ ]  Do reference to figure follow this format? <br>
 		`see Figure 7.9` <br>
 		
-- [x]  Are author intials pointed and spaced (`M. F. K. Fisher`)?
-- [x]  Is `PhD`spelled without dots and without spaces?
-- [x]  Is `World War II` spelled like this (not e.g., `Second World War`)?
-- [x]  Is ``X-ray`` spelled with a hyphen, capital X, and lower-case r?
+- [ ]  Are author intials pointed and spaced (`M. F. K. Fisher`)?
+- [ ]  Is `PhD`spelled without dots and without spaces?
+- [ ]  Is `World War II` spelled like this (not e.g., `Second World War`)?
+- [ ]  Is ``X-ray`` spelled with a hyphen, capital X, and lower-case r?
 
 
 ---
 
 ### Images
-- [x] Are images found in separate files (**not** within the word document)?
-- [x] Is there a preferred placement of the image in the text, using this `<FIGURE 1.1 HERE>` form?
+- [ ] Are images found in separate files (**not** within the word document)?
+- [ ] Is there a preferred placement of the image in the text, using this `<FIGURE 1.1 HERE>` form?
 
 ---
 
 ### Quotations
-- [x] Are idiomatic expression between 'single quotation marks'?
-- [x] Are internal quotations within "double quoatation between 'single quotation marks'"?
-- [x] Are quotations using "double quotes"?
-- [x] Are three dots represented in quotations without brackets and with spaces?<br>
+- [ ] Are idiomatic expression between 'single quotation marks'?
+- [ ] Are internal quotations within "double quoatation between 'single quotation marks'"?
+- [ ] Are quotations using "double quotes"?
+- [ ] Are three dots represented in quotations without brackets and with spaces?<br>
 		`second computations of concepts ... mosaic-like combinations` <br>
 		           
-- [x]  Are double quotation marks *outside* after **full stop** and **comma**?<br>
+- [ ]  Are double quotation marks *outside* after **full stop** and **comma**?<br>
 		`example."`
 		`example,"`
 		<br>
-- [x]  Are double quotation marks *inside* after **colon** and **double point**?<br>
+- [ ]  Are double quotation marks *inside* after **colon** and **double point**?<br>
 		`example";`
 		`example":`
 		<br>
-- [x] Are long quatations (three or more lines) indented (1cm) and and separated with double spaces?
+- [ ] Are long quatations (three or more lines) indented (1cm) and and separated with double spaces?
 
 ---
 
 ### Latin and foreing languages
-- [x] Are foreing institutions and events *italicised*?
-- [x] Are Latin and other foreing languages *italicised*?
-- [x] Are English titles and subtitles captialized (e.g., `The Merry Collector: Ludic Aspects in Early Modern Museums`)?
-- [x] Are Latin titles **not** capitalized (aside from proper names, place names and the first word of title names, e.g. `Alexandri Campanella Basiliensis Expositio super duodecim libros De arte venatoria Castoris Venatoris`)?
-- [x] Are Latin words with accents removed `De anguillâ → De anguilla`)?
-- [x] Are there translations for passages of more than a few words?
+- [ ] Are foreing institutions and events *italicised*?
+- [ ] Are Latin and other foreing languages *italicised*?
+- [ ] Are English titles and subtitles captialized (e.g., `The Merry Collector: Ludic Aspects in Early Modern Museums`)?
+- [ ] Are Latin titles **not** capitalized (aside from proper names, place names and the first word of title names, e.g. `Alexandri Campanella Basiliensis Expositio super duodecim libros De arte venatoria Castoris Venatoris`)?
+- [ ] Are Latin words with accents removed `De anguillâ → De anguilla`)?
+- [ ] Are there translations for passages of more than a few words?
 
 ---
 
 ### Citations and bibliography
-- [x] Do page spans use the minimum number format, i.e. `36–7, 207–8`, but for teens repeat the teen digit, i.e. `114–15`? Does the format use a single hyphen?
-- [x] Is the author using endnotes, not footnotes?
-- [x] Are all endnotes placed after the end of sentences? (^e)
-- [x]  Does the bibliography follow this style? 
+- [ ] Do page spans use the minimum number format, i.e. `36–7, 207–8`, but for teens repeat the teen digit, i.e. `114–15`? Does the format use a single hyphen?
+- [ ] Is the author using endnotes, not footnotes?
+- [ ] Are all endnotes placed after the end of sentences? (^e)
+- [ ]  Does the bibliography follow this style? 
 	<br>	
 	
 	### BOOKS

@@ -2,14 +2,14 @@
 
 ## Metadata
 
-**Authors**: [[]]
+**Authors**: [[Surname]]
 **Year**: [[]]
 **Title**: [](zotero link)
 **Kind**: [[Whole Book]] [[Book chapter]]
 **Publisher**: 
 **ISBN**: 
 **Date read**: [[{{date}}]]
-**Tags**: [[]],
+**Tags**: #
 **Take-home message**: 
 
 ---
