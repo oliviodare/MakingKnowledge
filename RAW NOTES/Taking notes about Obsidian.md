@@ -32,7 +32,7 @@
 
 ## Most used tags and links
 ```
-egrep -ohsr --exclude-dir='.*' "\[\[[A-Za-z0-9 _@ÄÖÜäöüß\'\!\?\.\(\)\-]+\]\]" -- * | sed -e 's/[[:space:]]#/#/' | sort | uniq -c | sort -r -t# -k2  > "Templates and Resources/ΩΩ Link Cloud.md"
+egrep -ohsr --exclude-dir='.*' "\[\[[A-Za-z0-9 _@ÄÖÜäöüß\'\!\?\.\(\)\-]+\]\]" -- * | sed -e 's/[[:space:]]#/#/' | sort | uniq -c | sort -r -t# -k2  > "0. Templates and Resources/ΩΩ Link Cloud.md"
 ```
 
 > doesn't work with tags! have to look for alternative

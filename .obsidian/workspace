@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates and Resources/ΩΩ Link Cloud.md",
+            "file": "Biodiversity/RAW NOTES/Daru 2021.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[",
+                "query": "obsidian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 371
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates and Resources/ΩΩ Link Cloud.md",
+                "file": "Biodiversity/RAW NOTES/Daru 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Templates and Resources/ΩΩ Link Cloud.md",
-    "RAW NOTES/Taking notes about Obsidian.md",
+    "Biodiversity/RAW NOTES/Daru 2021.md",
+    "Biodiversity/questions arising.md",
     "ARTECHNE.md",
-    "Biodiversity/Readings.md",
-    "Open Projects.md",
-    "RAW NOTES/UCM escuela doctoral, charla y debate sobre publicaciones científicas y open science.md",
+    "Checklist per chapter.md",
     "Turning (part of) my thesis into a publication or communication.md",
+    "Open Projects.md",
     "Thesis Roadmap.md",
-    "TBMS-Introduction.md",
-    "Biodiversity/Soulé 1985.md"
+    "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
+    "Biodiversity/biodiveristy.md",
+    "1. RAW NOTES/Taking notes about Obsidian.md"
   ]
 }
