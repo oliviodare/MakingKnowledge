@@ -2,12 +2,12 @@
 
 ## Metadata
 
-**Authors**: [[Collins]] and [[Evans]]
-**Year**: [[2002]]
+**Authors**: Collins and Evans
+**Year**: 2002
 **Title**: * [The Third Wave of Science Studies: Studies of Expertise and Experience](zotero://select/items/1_E39G85QP)
-**Kind**: [[Article]]
+**Kind**: Article
 **Journal**: *Social Studies of Science*
-**Date read**: [[Mar 2021]]
+**Date read**: Mar 2021
 **Tags**: #sts #expertise #historiography 
 
 ---

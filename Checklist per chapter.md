@@ -1,5 +1,5 @@
 
-# Chapter checklist for [[ARTECHNE]]
+# Chapter checklist for [ARTECHNE](ARTECHNE.md)
 
 # <br>
 

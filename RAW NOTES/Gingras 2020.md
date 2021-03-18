@@ -4,21 +4,21 @@ tags: #journalpublishing #OpenScience #publishing #scientificpaper #peerreview
 
 # Extracted Annotations (2021-03-02)
 
-> "Each of these three major processes (the internet revolution, the economic transformation of [[journal publishing]], and the evaluation turn)" ([ 2020:2](zotero://open-pdf/library/items/42KSYS5H?page=2))
+> "Each of these three major processes (the internet revolution, the economic transformation of #journalpublishing, and the evaluation turn)" ([ 2020:2](zotero://open-pdf/library/items/42KSYS5H?page=2))
 
 *The three processes since the 1990s that provoked the ‘scholarly publishing crisis’ and the rise of the #OpenScience movement. Argument: it was “their mututal interactions” that created a “perfect storm.” ([note on p.2](zotero://open-pdf/library/items/42KSYS5H?page=2))*
 
  
 
-> "In this chapter, I propose a global macrostructural analysis that aims at showing how these different transformations have become connected as a consequence of the transformation of the paper from a [[knowledge]] unit to an accounting unit used to evaluate researchers and research organizations (departments, laboratories, and universities)" ([ 2020:2](zotero://open-pdf/library/items/42KSYS5H?page=2))
+> "In this chapter, I propose a global macrostructural analysis that aims at showing how these different transformations have become connected as a consequence of the transformation of the paper from a #knowledge unit to an accounting unit used to evaluate researchers and research organizations (departments, laboratories, and universities)" ([ 2020:2](zotero://open-pdf/library/items/42KSYS5H?page=2))
 
-*main claim, as in [[Fernández Carro 2020]] paper. ([note on p.2](zotero://open-pdf/library/items/42KSYS5H?page=2))*
+*main claim, as in [Fernández Carro 2020](Fern%C3%A1ndez%20Carro%202020.md) paper. ([note on p.2](zotero://open-pdf/library/items/42KSYS5H?page=2))*
 
  
 
 > "This cycle is premised on the fundamental but implicit idea that the scientific paper is the embodiment of what we can call a "unit of knowledge,"" ([ 2020:3](zotero://open-pdf/library/items/42KSYS5H?page=3))
 
-*recognition cycle ([[Merton]], [[Latour]] & Woolgar) implies science as a knowledge-making community, and the paper as one of its units. ([note on p.3](zotero://open-pdf/library/items/42KSYS5H?page=3))*
+*recognition cycle (Merton, Latour & Woolgar) implies science as a knowledge-making community, and the paper as one of its units. ([note on p.3](zotero://open-pdf/library/items/42KSYS5H?page=3))*
 
  
 
@@ -30,11 +30,11 @@ tags: #journalpublishing #OpenScience #publishing #scientificpaper #peerreview
 
  
 
-> "In this system, the obvious crucial step is "[[peer review]]," for it is at this very point in the process that the paper will exist or not as a socially recognized unit of knowledge circulating in the scientific field." ([ 2020:4](zotero://open-pdf/library/items/42KSYS5H?page=4))
+> "In this system, the obvious crucial step is #peerreview for it is at this very point in the process that the paper will exist or not as a socially recognized unit of knowledge circulating in the scientific field." ([ 2020:4](zotero://open-pdf/library/items/42KSYS5H?page=4))
 
 > "gatekeeping" ([ 2020:4](zotero://open-pdf/library/items/42KSYS5H?page=4))
 
-> "When the [[scientific paper]] will have been transformed into a simple accounting unit used for the evaluation of researchers and their institutions, we will observe the emergence and growth of various more or less deviant behaviors trying to cope with the multiplications of metrics through manipulating them or even the peerreview process itself." ([ 2020:4](zotero://open-pdf/library/items/42KSYS5H?page=4))
+> "When the sientific paper will have been transformed into a simple accounting unit used for the evaluation of researchers and their institutions, we will observe the emergence and growth of various more or less deviant behaviors trying to cope with the multiplications of metrics through manipulating them or even the peerreview process itself." ([ 2020:4](zotero://open-pdf/library/items/42KSYS5H?page=4))
 
 *the so-called malpractices (“predatory journals,” faked peer review, the manipulation of citations to raise impact factors of journals and positions in academic rankings, and the rise in the number of “corrections” to and “retraction” of scientific papers) are the product of the scientific paper becoming an accounting unit ([note on p.4](zotero://open-pdf/library/items/42KSYS5H?page=4))*
 

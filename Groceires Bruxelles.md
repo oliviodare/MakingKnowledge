@@ -1,4 +1,4 @@
-Groceires Bruxelles = Groceries [[Brussels]]
+Groceires Bruxelles = Groceries Brussels
 
 | Item     	   | Proxy Chaussée de Waterloo           |  The Barn | Super Monkey| Alimentation Géniale| Carrefour|Terrabio |
 |:-------- |:--------:|:--------:|:--------: |:--------:|:--------:|:--------:| 

@@ -6,12 +6,12 @@
 
 ## Metadata
 
-**Authors**: [[Fyfe]], [[Coate]], [[Curry]], [[Lawson]], [[Moxham]], [[Røstvik]]
-**Year**: [[2017]]
+**Authors**: Fyfe, Coate, Curry, Lawson, Moxham, Røstvik
+**Year**: 2017
 **Title**: [Untangling Academic Publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research](zotero://open-pdf/library/items/7FR5LWQJ)
-**Kind**: [[Report]]
+**Kind**: Report
 **Journal**: *Zenodo*
-**Date read**: [[Mar 2021]]
+**Date read**: Mar 2021
 **Tags**: #journalpublishing #publishing #historyofscience #OpenScience #peerreview #OpenAccess #capitalism 
 **Take-home message**: This paper hopes to understand the relation between prestige and open access, putting the emphasis on the role of commercial publishing houses in molding this relation to the point of having become indispensable partners in the research efforts as proxys of prestige. Argues for the difference (yet porous relation) between value-driven and profit-driven publishing. As well, it points to the historical continuities and discontinuities between the current tension between a non-commercial, older ethos of the gentelmanly-based scientific societies in which the current academic culture is still based on, and the commercial system for which they collaborate and do not benefit from (anymore) due to the decreased funding since 1970s yet the continuous growth of university research.
 
@@ -284,7 +284,7 @@ Tension between the ideal of science (circulating knowledge widely) and concrete
 
 > “In addition, efforts to use the Web to create alternative, non-profit-driven models of academic publishing have been stymied by the inertia of the academic prestige culture For valid historical and cultural reasons, academic systems of reward and recognition privilege the established forms of academic publication This includes the emphasis on the peer review process as a sine qua non, as well as the name-recognition and prestige attached to papers in particular journals or books from particular presses In the online world as in the printed world, publishing research with a familiar journal or press brings more prestige to its author; publishing in a new online journal or repository – as in a typescript journal in the 1960s – may be seen as a career risk It would still take significant moral courage for a UK academic now to publish their work outside the traditional publishing structures, although there are variations between academic communities As long as prestige is associated with established journals and presses, most academic publishing will continue to be done under the auspices of the big publishers, despite the now well-established tension between commercial goals and effective systems of research communication ” (Fyfe et al., 2017, p. 16)  
 
-This is the main tension that [[Fyfe]] points at: between, on the one hand, prestige as a central mechanism of employment in science and the use of journal recognition as proxy's for prestige, which lead to the creation and maintenance of a publishing oligarchy; and on the other, the ideas of a non-profit, wide-circulation of knowledge kind of academia
+This is the main tension that Fyfe]] points at: between, on the one hand, prestige as a central mechanism of employment in science and the use of journal recognition as proxy's for prestige, which lead to the creation and maintenance of a publishing oligarchy; and on the other, the ideas of a non-profit, wide-circulation of knowledge kind of academia
 
 > “We are not the first to wonder why academics continue to give their labour – as authors, referees and editors – to publishing firms that do not, in fact, circulate knowledge widely and affordably The answer lies in a lack of detailed understanding among academics of the historical and economic forces at play in academic publishing; and in the success with which big publishers have learned how to make themselves apparently indispensable to the academic prestige economy We hope this paper will help to address the former problem, and might at least stimulate debate about the latter ” (Fyfe et al., 2017, p. 17)  
 

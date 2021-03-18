@@ -3,11 +3,11 @@
 
 ## Metadata
 
-**Authors**: [[Bautista Perinyà]]
-**Year**: [[2020]]
+**Authors**: Bautista Perinyà
+**Year**: 2020
 **Title**: Chapter One. The advertised scientific self. Epistemic virtues of scientific instruments in *Nature*, and the material culture of advertisements (1970-1979). 
 **Thesis**: [To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace](zotero://select/items/1_MANBHFK2)
-**Date read**: [[Mar 2021]]
+**Date read**: Mar 2021
 **Tags**: #journalpublishing #publishing #historyofscience #politics #capitalism #epistemicvirtues
 	
 

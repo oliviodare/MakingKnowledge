@@ -1,6 +1,6 @@
 # A Roadmap to my thesis
 
-**Tags**: #biodiveristy [[Readings]] #historyofscience #philosophyofbiology #history
+**Tags**: #biodiveristy [Readings](Readings.md) #historyofscience #philosophyofbiology #history
 
 
 ---
@@ -31,6 +31,6 @@
 
 In terms of reading, my main objectives now would be to learn more about conceptal history as my theoretical approach, and the science of biodiversity and conservation as my object of study. 
 - A good approach towards this could be to use [ConnectedPapers](https://www.connectedpapers.com/) inputing the literature that I read so far to discover new links.
-- I could of course also use the planned [[Readings]] of things I thought could be interesting. 
+- I could of course also use the planned [Readings](Readings.md) of things I thought could be interesting. 
 
 I would also like to begin seeking out potential case-studies, for which

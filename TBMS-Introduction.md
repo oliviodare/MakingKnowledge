@@ -1,13 +1,13 @@
-# Introduction. On why and how studying _Nature_, epistemic virtues, advertisements, and politics to tell a story about molecular biology.
+e# Introduction. On why and how studying _Nature_, epistemic virtues, advertisements, and politics to tell a story about molecular biology.
 
 
 ## Metadata
 
-**Authors**: [[Bautista Perinyà]]
-**Year**: [[2020]]
+**Authors**: Bautista Perinyà
+**Year**: 2020
 **Title**: Introduction. On why and how studying *Nature*, epistemic virtues, advertisements, and politics to tell a story about molecular biology. 
 **Thesis**: [To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace](zotero://select/items/1_MANBHFK2)
-**Date read**: [[Mar 2021]]
+**Date read**: Mar 2021
 **Tags**: #journalpublishing #publishing #historyofscience #politics #capitalism #epistemicvirtues
 	
 
@@ -96,17 +96,17 @@ Unclear whether this will be the question and frame to address, specially unsure
 
 > The recent work in the history of journals and scientific publishing serve as backbone for the understanding of the media in which my sources lay. Within this nascent field that promises to bring some historical awareness to current discussions on the problematics of scientific communications, two works are key. I have already introduced Baldwin’s Making ‘Nature’, and of the second one I have only mentioned its name. Alex Csiszar’s The Scientific Journal is the first monograph on the history of the specialist scientific press. His contribution reveals the interlacing of the political and epistemic status of what came to be the epitome of scientific media.14 ” (Bautista Perpinyà, 2020, p. 20) 
 
-I shall add Aileen [[Fyfe]] also. 
+I shall add Aileen Fyfe also. 
 
 
 > Csiszar’s book tells the story about how the worlds of academics and journal publishers were in fact, different worlds. ” (Bautista Perpinyà, 2020, p. 20) 
 
-Using [[Fyfe et al 2017]], I could add to Csiszar's story how progressively (specially in the twentieth century), the academic community came to actually depend not only on journal publishers, but increasingly more on commercial journal publishers. 
+Using [Fyfe et al 2017](Fyfe%20et%20al%202017.md), I could add to Csiszar's story how progressively (specially in the twentieth century), the academic community came to actually depend not only on journal publishers, but increasingly more on commercial journal publishers. 
 
 
 > Then, Csiszar goes a step further by showing that while the distance between journals and academics was large, it was even more so between commercial publishers and the Royal Societies. He traces a similar movement during the century as with journal publishing per se, through which publishing science in a for-profit press or becoming a paid author became increasingly (not without tensions) a more recognised and respected way of transmitting about one’s scientific studies.16 ” (Bautista Perpinyà, 2020, p. 20) 
 
-While Csiszar is useful for the 19th century and the beginning of commercial publishers for academic works, [[Fyfe]] seems more relevant for the 20th. 
+While Csiszar is useful for the 19th century and the beginning of commercial publishers for academic works, Fyfe seems more relevant for the 20th. 
 
 
 > While his chapter does not attend specifically to the commercial content within scientific journals as I try to do here with the scientific advertisement, his chapter illuminates the ways by which commercial ventures interact with public credibility of science through the particularities of media format. ” (Bautista Perpinyà, 2020, p. 20) 

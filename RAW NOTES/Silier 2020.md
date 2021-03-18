@@ -2,12 +2,12 @@
 
 ## Metadata
 
-**Authors**: [[Siler]]
-**Year**: [[2020]]
+**Authors**: Siler
+**Year**: 2020
 **Title**: [There is no black and white definition of predatory publishing | Impact of Social Sciences](https://blogs.lse.ac.uk/impactofsocialsciences/2020/05/13/there-is-no-black-and-white-definition-of-predatory-publishing/)
-**Kind**: [[Webpage]]
+**Kind**: Webpage
 **Webiste**: *Impact of Social Sciences, LSE*
-**Date read**: [[Mar 2021]]
+**Date read**: Mar 2021
 **Tags**: #publishing #journalpublishing #peerreview #sociology 
 **Take-home message**: the author argues for a a blury line between predatory and non-predatory journals, providing philosophical, and most importantly, empirical evidence. He brings as evidence the different methods of so-called predatory journals, and how there is an overlap between them. However, I am uncertain whether this is good-enough evidence: he already has a category which he analyses (he picks the journals in the Cabells blacklist). Wouldn't the point be more convicing if he uses also: 1) controversial journals (such as Frontiers and MDPI, which he does acknowledge); and 2) widely acknolwedged non-pretatory journals and see precisely the blury line between the two? A good source could be a whitelist of journals!
 He also highlights the role of peer-review in constructing the notion of legimitacy. 
@@ -30,7 +30,7 @@ He also highlights the role of peer-review in constructing the notion of legimit
 >  Given the wide variety of individual and institutional values in academia, it is unsurprising that there have been [fierce debates](https://www.triple-c.at/index.php/tripleC/article/view/867) and [political maneuvering](https://www.chronicle.com/article/Why-Beall-s-List-Died-/241171) regarding predatory publishing.
 
 >  To illustrate this point, I analysed 11,450 journals on the Cabells Journal Blacklist to assess the varying degrees of predatory activity undertaken by different journals, from examples of obvious illegitimacy with numerous severe violations of academic norms, such as fraudulently claiming editors and impact factors, to more moderate or minor violations, such as sloppy copyediting and poorly maintained webpages.
-![[Fig-2.png]]
+![Fig-2.png](Fig-2.png)
 
 >  Due to the variety and complexity in the degrees and types of predatory publishing, this makes empirically and normatively drawing lines between legitimate and illegitimate publishing a significant challenge.
 

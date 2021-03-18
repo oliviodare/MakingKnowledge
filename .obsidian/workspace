@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "01ac37e30074bb09",
+        "id": "bba3c3042c301b5a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biodiversity/Robin 2011.md",
+            "file": "Templates and Resources/ΩΩ Link Cloud.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garnet",
+                "query": "[[",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 205
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biodiversity/Robin 2011.md",
+                "file": "Templates and Resources/ΩΩ Link Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +103,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Biodiversity/Robin 2011.md",
-    "Biodiversity/Daru 2021.md",
-    "Biodiversity/Garnett and Christidis 2017.md",
-    "Attachments/Soulé 1985 analogy medicine and conservation biology.md",
-    "Attachments/Fig-2.png",
-    "Fyfe et al 2017.md",
+    "Templates and Resources/ΩΩ Link Cloud.md",
+    "RAW NOTES/Taking notes about Obsidian.md",
+    "ARTECHNE.md",
+    "Biodiversity/Readings.md",
+    "Open Projects.md",
+    "RAW NOTES/UCM escuela doctoral, charla y debate sobre publicaciones científicas y open science.md",
+    "Turning (part of) my thesis into a publication or communication.md",
+    "Thesis Roadmap.md",
     "TBMS-Introduction.md",
-    "fyfeUntanglingAcademicPublishing2017 - Annotations (18032021, 104848).md",
-    "fyfeUntanglingAcademicPublishing2017.md",
-    "Turning (part of) my thesis into a publication or communication.md"
+    "Biodiversity/Soulé 1985.md"
   ]
 }

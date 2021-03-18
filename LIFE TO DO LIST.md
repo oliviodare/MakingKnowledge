@@ -8,12 +8,4 @@
 - Immanuel Kant's *Prolegomena to Any Future Metaphysics* (Cambridge University Press, 1783/2004). **Arriving at Chaussée de Waterloo, 122 on March 24th, 2021**.
 
 
-## Physios in Brussels
-| Name | Address & commute | Session Price | Plan | Email | Phone | Website |
-|:-------- |:--------:|:--------:|:--------: |:--------:|:--------:|:--------:| 
-|Kine sport Brussles | Avenue Marcel Thiry 180 (42 minutes public transport) |  |  | [email](info@kinesportbrussels.be) | +32(0)476 47 58 99 | [web](https://kine-sport-brussels.be/revalidation-post-operatoire/) |
-| Centre de Médecine et d'Etudes, Wagdan Chakib | Rue Victor Allard 120 (29 minutes public transport) |  |  | [contact form](https://www.cme-uccle.be/rendez-vous-docteur-en-ligne/) | +320484957385 |[web](https://www.cme-uccle.be/kine-post-operatoire/) |
-| Brice Grandjean | Avenue Louise 193 (20 minutes public transport) / Square Marie-Louise 18  (24 minutes public transport) | 30€ / 30' | 6 months; 0-16 weeks: 3x/week; 16-24 weeks: 2x/week | [email](grandjeanbrice@gmail.com) | +320486787016 | [web](https://www.doctoranytime.be/en/d/physiotherapist/brice-grandjean) |
-| English Speaking Physio | Avenue Michel-Ange 12 (26 minutes public transport) | 40€ / 30' | 2-3x/week | [email](englishspeakingphysio@gmail.com) | +32(0)483481141 | [web](https://www.englishspeakingphysio.com/) |
-| Kinesitherapie Brussels | Handelskaai 27 (21 minutes public transport) | 28€ / 30' | 2-3 months; 6 weeks: 3x/week; +6 weeks: 2x/week | [email](kinesitherapie.brussels@hotmail.com) | +32 0470 04 41 89 | [web](https://www.kinesitherapie.brussels/) |
 

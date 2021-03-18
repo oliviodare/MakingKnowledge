@@ -1,6 +1,6 @@
 # Turning (part of) my thesis into a publication or communication
 
-~~
+
 
 [My thesis](zotero://select/items/1_MANBHFK2)
 
@@ -23,8 +23,8 @@
 		<br>
 
 - **What are the elements I want to discuss, and how do they relate to standing research?**
-	- Notion of porosity ([[Pritchard and Zimring 2020]]): how commercial players placed themselves as partners in the resaerch effort, and the porous (not simply vague) relation between university science and commercial partners.
-	- In my case, not only the obvious manufacturers were commercial, but the context itself (*Nature*), which ubiqutuously presented it as a neutral forum "*of* and *for* the scientific community" (praphrasing). Here tying with the notion of 'forum' in [[Baldwin 2015]]
+	- Notion of porosity ([Pritchard and Zimring 2020](Pritchard%20and%20Zimring%202020.md): how commercial players placed themselves as partners in the resaerch effort, and the porous (not simply vague) relation between university science and commercial partners.
+	- In my case, not only the obvious manufacturers were commercial, but the context itself (*Nature*), which ubiqutuously presented it as a neutral forum "*of* and *for* the scientific community" (praphrasing). Here tying with the notion of 'forum' in [Baldwin 2015](Baldwin%202015.md)
 		- *Nature* as forum, identity of the community, but mediated by *Nature*'s editorial decisions. ``unclear about this, especially in terms of evidencial support from sources``
 	- Missing indexation of advertisements
 		- indexation as mechanism of construction of the professionalisation and legitimasy of research (no index, no science). ``not sure whether this is relevant for the main argument; literature could maybe be found in 'Gaming the Metrics'``
@@ -64,7 +64,7 @@ Event: July 13, 14, 15, 19, & 20
 - If I want to address the question of 'how did commercial manufactuerers placed themselves as partners in the resaerch effort' (and how did this come about), perhaps not only a synchronic analysis is important, but a diachronic: what changed before the advertisements of the 1970s? Was there a difference? 
 
 ### Already written and fresh readings
-- [[TBMS-Introduction]]
-- [[TBMS-ChapterOne]]
-- [[TBMS-ChapterFour]]
+- [TBMS-Introduction](TBMS-Introduction.md)
+- [TBMS-ChapterOne](TBMS-ChapterOne.md)
+- [TBMS-ChapterFour](TBMS-ChapterFour.md)
 

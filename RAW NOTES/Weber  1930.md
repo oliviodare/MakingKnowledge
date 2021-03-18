@@ -1,10 +1,10 @@
-**Authors**: [[Weber]]
-**Year**: [[1930]]/[[2001]]
+**Authors**: Weber
+**Year**: 1930/2001
 **Title**: The Protestant Ethic and the Spirit of Capitalism
-**Kind**: [[Whole Book]]
+**Kind**:  Whole book
 **Publisher**: Routledge
 **ISBN**: 0-415-25406-X (paperback, secondhand) 
-**Date read**: [[Feb 2021]]
+**Date read**: Feb 2021
 **Tags**:  #history #capitalism #sociology #religion #Christianity #protestantethic
 **Take-home message**: The argument is pretty simple: protestantism (starting with Luther and the Calvin) set the ground for the establishment of an ethical paradigm to which capitalism is indebted. This paradigm contains: a method for self-discipline and tailoring human behaviour and though, a rationalist approach to the fullfilment of a God-given calling, and a negation of emotion and enjoyment as detrimental to that calling. 
 Aside the historical relevance of the book, I may also want to futher have a look at the historiographical and methodological contribution of Weber, namely it's approach to historical actors and analysis using 'ideal types', and the possible links of ideal types to to a conceptual history approach. 
@@ -33,13 +33,13 @@ The set-up of the book.
 ### CHAPTER 2. THE SPIRIT OF CAPITALISM
 > If any object can be found to which this term [spirit of capitalism] can be applied which any understandable meaning, it can only be an historical individual, i.e. a complex of elements associated in historical reality which we unite into a conceptual whole from the standpoint of their cultural significance. (p13)
 
-This is how he defines a 'historical concept' of sorts, interesting bringing up "cultural significance." He aims to provide a 'definition' of spirit in cultural historical terms --> what influcence did this have on [[Koselleck]]'s conceptual history?
+This is how he defines a 'historical concept' of sorts, interesting bringing up "cultural significance." He aims to provide a 'definition' of spirit in cultural historical terms --> what influcence did this have on Koselleck's conceptual history?
 <br>
 <br>
 
 > The result of this is that it is by no means necessary to understand by the spirit of capitalism only what it will come to mean to *us* for the purpose of our analysis. This is a necessary result of the nature of historical concepts which atttempt for their methodological purposes not to grasp historical reality in abstract general formulae, but in concrete genetic sets of relations which are inevitably of a specifically unique and individual chracter. (p14)
 
-This is nice, but I am still unclear of the meaning of 'unique' and 'individual' here. Is he being somewhat normative about what historical concepts should do? E.g., saying that concepts should be able to gather historical individuality into some "genetic sets"? Seems relevant for any study using [[ideal types]] and maybe also [[conceptual history]]. More on this on a quote below. 
+This is nice, but I am still unclear of the meaning of 'unique' and 'individual' here. Is he being somewhat normative about what historical concepts should do? E.g., saying that concepts should be able to gather historical individuality into some "genetic sets"? Seems relevant for any study using #idealtypes ad maybe also #conceptualhistory. More on this on a quote below. 
 <br>
 <br>
 
