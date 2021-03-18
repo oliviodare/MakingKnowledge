@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f450545d6b04a6",
+        "id": "01ac37e30074bb09",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biodiversity/Garnett and Christidis 2017.md",
+            "file": "Biodiversity/Robin 2011.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biodiversity/Garnett and Christidis 2017.md",
+                "file": "Biodiversity/Robin 2011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Biodiversity/Robin 2011.md",
+    "Biodiversity/Daru 2021.md",
     "Biodiversity/Garnett and Christidis 2017.md",
     "Attachments/Soulé 1985 analogy medicine and conservation biology.md",
     "Attachments/Fig-2.png",
@@ -109,8 +111,6 @@
     "TBMS-Introduction.md",
     "fyfeUntanglingAcademicPublishing2017 - Annotations (18032021, 104848).md",
     "fyfeUntanglingAcademicPublishing2017.md",
-    "Turning (part of) my thesis into a publication or communication.md",
-    "Biodiversity/Daru 2021.md",
-    "daruExploringNewWay2021 - Take-home message This study supports the idea that climate does not interact with every living organism in the same wa.md"
+    "Turning (part of) my thesis into a publication or communication.md"
   ]
 }
