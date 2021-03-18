@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c3cb9f298967d53",
+        "id": "b2f450545d6b04a6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Turning (part of) my thesis into a publication or communication.md",
+            "file": "Biodiversity/Garnett and Christidis 2017.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "garnet",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turning (part of) my thesis into a publication or communication.md",
+                "file": "Biodiversity/Garnett and Christidis 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Turning (part of) my thesis into a publication or communication.md",
-    "TBMS-ChapterFour.md",
-    "collinsThirdWaveScience2002 - Annotations (15032021, 190410).md",
-    "collinsThirdWaveScience2002.md",
-    "TBMS-ChapterOne.md",
+    "Biodiversity/Garnett and Christidis 2017.md",
+    "Attachments/Soulé 1985 analogy medicine and conservation biology.md",
+    "Attachments/Fig-2.png",
+    "Fyfe et al 2017.md",
     "TBMS-Introduction.md",
-    "bautistaperpinyaBeMolecularScientist2020 - Annotations of 'Chapter Four' (15032021, 181329).md",
-    "bautistaperpinyaBeMolecularScientist2020 - Sections, subsections, and themes of Chapter One.md",
-    "bautistaperpinyaBeMolecularScientist2020 - Annotations of 'Introduction' (15032021, 140616).md",
-    "bautistaperpinyaBeMolecularScientist2020 - Annotations of 'Chapter One' (15032021, 170200).md"
+    "fyfeUntanglingAcademicPublishing2017 - Annotations (18032021, 104848).md",
+    "fyfeUntanglingAcademicPublishing2017.md",
+    "Turning (part of) my thesis into a publication or communication.md",
+    "Biodiversity/Daru 2021.md",
+    "daruExploringNewWay2021 - Take-home message This study supports the idea that climate does not interact with every living organism in the same wa.md"
   ]
 }

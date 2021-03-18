@@ -17,7 +17,7 @@
 ### I. Capitalised: Bought space, free catalogues
 *This section provides a good introduction to adverts, some of which I'd like to maintain.*
 
-- Short history of adverts in Nature
+- Short history of adverts in *Nature*
 - Prices increase in the 1970s
 - Administration by TG Scott, then within Macmillan
 - Newly on the market

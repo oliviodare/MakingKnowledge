@@ -35,35 +35,35 @@
 	- [x] Burmester
 	- [x] Cardinali
 	- [x] Etienne
-	- [ ] Hoeniger
-	- [ ] Kinseher
-	- [ ] Kornmeier
-	- [ ] OGrady
-	- [ ] Van Dam
-	- [ ] Van Duijn
-	- [ ] Vanpaemel
+	- [x] Hoeniger
+	- [x] Kinseher
+	- [x] Kornmeier
+	- [x] OGrady
+	- [x] Van Dam
+	- [x] Van Duijn
+	- [x] Vanpaemel
 	- [x] Von der Goltz
-- [ ] Back-editing 
-	- [ ] Footnotes: ." or ". ?
+- [ ] Back-editing, last ammendments
+	- [x] Footnotes: all must be `` ." `` and ``,"``, not ``".`` or ``",``.
 	- [ ] Page reference between chapters?
-	- [ ] DOIs
-	- [ ] Uncomplete first name. Delete double `..` 
+	- [x] Add DOIs. 
+	- [x] Uncomplete first name. Delete double `..` 
 			<br>**from**<br>
 			Atkinson, Richard J. C.. _Field Archaeology_ (London: Methuen & Co. Ltd, 1946).
 			<br>**to*<br>
 			Atkinson, Richard J. C. _Field Archaeology_ (London: Methuen & Co. Ltd, 1946).<br><br>
-	- [ ] Reference to university presses?
-		- [ ] The University of Chicago Press
-		- [ ] ...
-	- [ ] Reference to commercial presses?
-		- [ ] Archetype Publications ~~Ltd~~
-	- [ ] Edited books: comma or and?
-	- [ ] Repeating citations
-		- [ ] Bewer, Francesca G. _A Laboratory for Art: Harvard’s Fogg Museum and the Emergence of Conservation in America, 1900–1950_ (New Haven and Cambridge, MA: Yale University Press, 2010).
-		- [ ] Burroughs, Alan. _Art Criticism From a Laboratory_ (Boston: Little Brown, 1938).
-	- [ ] Forthcoming titles
-	- [ ] Unpublished (master and PhD) thesis
-	- [ ] Translations.
+	- [x] Reference to university presses?
+		- [x] The University of Chicago Press
+		- [x] ...
+	- [x] Reference to commercial presses?
+		- [x] Archetype Publications ~~Ltd~~
+	- [x] Edited books: comma or and?
+	- [x] Repeating citations
+		- [x] Bewer, Francesca G. _A Laboratory for Art: Harvard’s Fogg Museum and the Emergence of Conservation in America, 1900–1950_ (New Haven and Cambridge, MA: Yale University Press, 2010).
+		- [x] Burroughs, Alan. _Art Criticism From a Laboratory_ (Boston: Little Brown, 1938).
+	- [x] Forthcoming titles
+	- [x] Unpublished (master and PhD) thesis
+	- [x] Translations.
 		<br>Von Pettenkofer, Max. _Over olieverven en het conserveeren van schilderijen door de regeneratie-behandeling,_ translation by W. A. Hopman (Amsterdam: C. L. Brinkman, 1871).<br><br>
 - [ ] Pagination: chapter by chapter, starting at 1 per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making%20of%20Art%20Expertise/3.%20Routledge%20Documents/Author+Guidelines+2019.pdf>), page 45) 
 - [ ] Send all documents.
