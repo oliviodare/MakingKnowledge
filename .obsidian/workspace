@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biodiversity/RAW NOTES/Daru 2021.md",
+            "file": "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "political motivation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biodiversity/RAW NOTES/Daru 2021.md",
+                "file": "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
+    "Biodiversity/RAW NOTES/Robin 2011.md",
+    "0. Templates and Resources/ΩΩ Link Cloud.md",
     "Biodiversity/RAW NOTES/Daru 2021.md",
     "Biodiversity/questions arising.md",
     "ARTECHNE.md",
     "Checklist per chapter.md",
     "Turning (part of) my thesis into a publication or communication.md",
     "Open Projects.md",
-    "Thesis Roadmap.md",
-    "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
-    "Biodiversity/biodiveristy.md",
-    "1. RAW NOTES/Taking notes about Obsidian.md"
+    "Thesis Roadmap.md"
   ]
 }
