@@ -6,7 +6,7 @@
 What alternatives can we find (for academia)?
 
 - [Etienne P LeBel](https://etiennelebel.com/), independent scientist, meta-scientist, psychologist. 
-- [Chris Lorenz](https://scholar.google.be/citations?user=o7tCChsAAAAJ&hl=en), professor of historical theory, Institute for Social Movements (ISB), Ruhr-University Bochum. Author of 'If You're So Smart, Why Are You under Surveillance? Universities, Neoliberalism, and New Public Management' ([[Lorenz 2012]])
+- [Chris Lorenz](https://scholar.google.be/citations?user=o7tCChsAAAAJ&hl=en), professor of historical theory, Institute for Social Movements (ISB), Ruhr-University Bochum. Author of 'If You're So Smart, Why Are You under Surveillance? Universities, Neoliberalism, and New Public Management' ([Lorenz 2012](Lorenz%202012.md))
 - Representative from a low-income country
 
 

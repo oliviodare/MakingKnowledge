@@ -24,7 +24,7 @@ Management modulates the meanings of conceps such as efficiency, accountability,
 
 > “This is tellingly illustrated by the present crisis in private financial markets in the US and Europe, which only keep on functioning through continual massive injections of public funds (in other words, taxpayers’ money) by the state.5 ” (Lorenz, 2012, p. 601)
 
-[[academics' political pressure is relegated to asking for more money]] Just as the financial crisis can only keep on functioning through massive injections of public funds, university researchers (since they are inserted in the same financial world), can only keep on functioning by demanding more money to the state.
+[academics' political pressure is relegated to asking for more money](academics'%20political%20pressure%20is%20relegated%20to%20asking%20for%20more%20money.md) Just as the financial crisis can only keep on functioning through massive injections of public funds, university researchers (since they are inserted in the same financial world), can only keep on functioning by demanding more money to the state.
 
 > “In neoliberalism collective goods don’t exist, in contrast with classical liberalism. ” (Lorenz, 2012, p. 602)
 

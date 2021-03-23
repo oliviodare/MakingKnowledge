@@ -5,7 +5,10 @@
 
 **Take-home message**: This is nice, but this is not quite as the #conceptualhistory of [Koselleck 2004](Koselleck%202004.md), since the 'concept' here is not one used by the historical actors themselves, but a *philosophical* concept that needs to be contrasted with historical case studies.
 
-It's a method used for "empirical justification of *philosophical* concepts"
+It's a method used for "empirical justification of *philosophical* concepts."
+
+[[what is the relation between iHPS approach and conceptual history?]]. 
+
 
 ---
 

@@ -3,9 +3,6 @@
 ## Metadata
 
 
-
-## Metadata
-
 **Authors**: Fyfe, Coate, Curry, Lawson, Moxham, Røstvik
 **Year**: 2017
 **Title**: [Untangling Academic Publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research](zotero://open-pdf/library/items/7FR5LWQJ)
@@ -136,9 +133,9 @@ Important!
 > “From the 1950s to the 1970s, publishers of all types developed increasingly sophisticated sales and marketing strategies; and they also recognised that certain costs could be reduced by sharing them between multiple journals or book series ” (Fyfe et al., 2017, p. 9)
 
 
-> “Mission-driven publishing organisations, such as learned society publishers and university presses, were significantly affected by the emergence of a viable commercial model of academic publishing Adopting the new strategies meant that subsidising the publication of research could become a choice, rather than the necessity it once had been (Fyfe, 2015a) During the 1950s and 1960s, mission-driven publishers focused on the modest goal of trying to break-even, but by the 1990s, income-generation was increasingly seen as the goal, especially in journal divisions. These organisations have not abandoned their scholarly missions, but have sought ways to adopt commercial strategies alongside the mission The role of society publishing and university presses in relation to their parent institutions has been tacitly recast: rather than a direct service to scholarship, publishing has become a tool for generating income that can be put to good purpose (for instance, by funding conferences, travel grants or student bursaries) ” 
+> “Mission-driven publishing organisations, such as learned society publishers and university presses, were significantly affected by the emergence of a viable commercial model of academic publishing Adopting the new strategies meant that subsidising the publication of research could become a choice, rather than the necessity it once had been (Fyfe, 2015a) During the 1950s and 1960s, mission-driven publishers focused on the modest goal of trying to break-even, but by the 1990s, income-generation was increasingly seen as the goal, especially in journal divisions. These organisations have not abandoned their scholarly missions, but have sought ways to adopt commercial strategies alongside the mission The role of society publishing and university presses in relation to their parent institutions has been tacitly recast: rather than a direct service to scholarship, publishing has become a tool for generating income that can be put to good purpose (for instance, by funding conferences, travel grants or student bursaries) ” (Fyfe et al., 2017, p. 9)  
 
-(Fyfe et al., 2017, p. 9)  Very interesting! The commercialisation of learned societies and the reason behind travel grants and student bursaries!
+Very interesting! The commercialisation of learned societies and the reason behind travel grants and student bursaries!
 
 
 Mission-driven can also be called value-based publishing.

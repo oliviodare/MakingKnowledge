@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌱 READING NOTES/Justus 2010.md",
+            "file": "Notes to process.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[[",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 347
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱 READING NOTES/Justus 2010.md",
+                "file": "Notes to process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,18 +98,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233
   },
   "lastOpenFiles": [
-    "🌱 READING NOTES/Justus 2010.md",
     "Notes to process.md",
-    "🌲 CONCEPT NOTES/conservation is a management science that has to deal with uncertainty.md",
-    "🌲 CONCEPT NOTES/conservation biolgy is a mission-driven science.md",
-    "🌲 CONCEPT NOTES/how does the temporal dimension mediate understandings of biodiversity?.md",
-    "🌱 READING NOTES/Pritchard and Zimring 2020.md",
-    "'porosity' is a productive analytic concept.md",
-    "Open Projects.md",
-    "🌱 READING NOTES/Linquist Varner Newman 2020.md",
-    "environmental philosophers argue that there is no single environmental argument that works to defend biodiversity conservation.md"
+    "🌱 READING NOTES/Fyfe et al 2017.md",
+    "malpractices are a product of the scientific paper becoming an accounting unit.md",
+    "🌱 READING NOTES/Weber  1930.md",
+    "🌱 READING NOTES/Herfeld 2021.md",
+    "what is the relation between iHPS approach and conceptual history?.md",
+    "🌱 READING NOTES/Herfeld 2020.md",
+    "the meaning of 'concept' in integrated HPS refers to the philosophical analytical concept, not the concept as situated historically.md",
+    "🌱 READING NOTES/Gingras 2020.md",
+    "🌲 CONCEPT NOTES/there is no one definition of predatory publishing.md"
   ]
 }

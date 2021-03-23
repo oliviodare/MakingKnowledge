@@ -10,7 +10,7 @@
 
 There isn't much to say in terms of content, as this is far from what I will probably study. But there may be some historiographical insights that are worth noting. 
 
-[['porosity' is a productive analytic concept]] 
+['porosity' is a productive analytic concept]('porosity'%20is%20a%20productive%20analytic%20concept.md) 
 
 
 

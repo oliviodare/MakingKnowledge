@@ -9,10 +9,14 @@
 **Webiste**: *Impact of Social Sciences, LSE*
 **Date read**: Mar 2021
 **Tags**: #publishing #journalpublishing #peerreview #sociology 
-**Take-home message**: the author argues for a a blury line between predatory and non-predatory journals, providing philosophical, and most importantly, empirical evidence. He brings as evidence the different methods of so-called predatory journals, and how there is an overlap between them. However, I am uncertain whether this is good-enough evidence: he already has a category which he analyses (he picks the journals in the Cabells blacklist). Wouldn't the point be more convicing if he uses also: 1) controversial journals (such as Frontiers and MDPI, which he does acknowledge); and 2) widely acknolwedged non-pretatory journals and see precisely the blury line between the two? A good source could be a whitelist of journals!
+**Take-home message**: the author argues for a a blury line between predatory and non-predatory journals, providing philosophical, and most importantly, empirical evidence. He brings as evidence the different methods of so-called predatory journals, and how there is an overlap between them. 
+[[there is no one definition of predatory publishing]] 
+
+However, I am uncertain whether this is good-enough evidence: he already has a category which he analyses (he picks the journals in the Cabells blacklist). Wouldn't the point be more convicing if he uses also: 1) controversial journals (such as Frontiers and MDPI, which he does acknowledge); and 2) widely acknolwedged non-pretatory journals and see precisely the blury line between the two? A good source could be a whitelist of journals!
 He also highlights the role of peer-review in constructing the notion of legimitacy. 
 
 ---
+
 
 ## Highlights and notes
 
