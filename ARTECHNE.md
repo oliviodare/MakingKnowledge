@@ -25,7 +25,7 @@
 - [x] Make style decisions and/or consult with SD.
 - [x] Read the the [Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>).
 - [x] Establish a [[Checklist per chapter]]
-- [ ] Double-check images permissions, quality, captions.
+- [x] Double-check images permissions, quality, captions.
 - [x] Make/update masterfile
 - [x] Send captions to BJ.
 - [ ] Cleaning and clearing:
@@ -43,9 +43,9 @@
 	- [x] Van Duijn
 	- [x] Vanpaemel
 	- [x] Von der Goltz
-- [ ] Back-editing, last ammendments
+- [x] Back-editing, last ammendments
 	- [x] Footnotes: all must be `` ." `` and ``,"``, not ``".`` or ``",``.
-	- [ ] Page reference between chapters?
+	- [x] Page reference between chapters: reference them as ‘p.XX’ and highlight them in yellow, this way once the book has been typeset you can just add in the correct page numbers. Our typesetters are used to authors doing this so it is not a problem at all.
 	- [x] Add DOIs. 
 	- [x] Uncomplete first name. Delete double `..` 
 			<br>**from**<br>
@@ -65,7 +65,7 @@
 	- [x] Unpublished (master and PhD) thesis
 	- [x] Translations.
 		<br>Von Pettenkofer, Max. _Over olieverven en het conserveeren van schilderijen door de regeneratie-behandeling,_ translation by W. A. Hopman (Amsterdam: C. L. Brinkman, 1871).<br><br>
-- [ ] Pagination: chapter by chapter, starting at 1 per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making%20of%20Art%20Expertise/3.%20Routledge%20Documents/Author+Guidelines+2019.pdf>), page 45) 
+- [x] Pagination: chapter by chapter, starting at 1 per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making%20of%20Art%20Expertise/3.%20Routledge%20Documents/Author+Guidelines+2019.pdf>), page 45) 
 - [ ] Send all documents.
 	- [ ] [Front matter](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/1. Text Files/4. Final Version/0.FrontMattter.docx>) ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 29)
 		- [ ] Title page
@@ -81,6 +81,7 @@
 		- [x] Resolution: 300 dpi minimum ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 41)
 	- [ ] Clean texts, separate files per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 33 for details on file naming).
 - [ ] Proofs ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 51)
+	- [ ] For page references you can just reference them as ‘p.XX’ and highlight them in yellow, this way once the book has been typeset you can just add in the correct page numbers. Our typesetters are used to authors doing this so it is not a problem at all.
 - [ ] Index ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 54)
 
 ---

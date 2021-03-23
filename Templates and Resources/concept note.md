@@ -1,0 +1,12 @@
+# {title}
+
+
+---
+Sources: 
+- 
+
+---
+
+Related notes
+- 
+

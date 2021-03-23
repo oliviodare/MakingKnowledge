@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bba3c3042c301b5a",
+        "id": "7c21e56dd48b70ec",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
+            "file": "🌱 READING NOTES/Justus 2010.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "political motivation",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 250
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
+                "file": "🌱 READING NOTES/Justus 2010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +98,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Biodiversity/biodiversity is not an analytic concept but a political motivation.md",
-    "Biodiversity/RAW NOTES/Robin 2011.md",
-    "0. Templates and Resources/ΩΩ Link Cloud.md",
-    "Biodiversity/RAW NOTES/Daru 2021.md",
-    "Biodiversity/questions arising.md",
-    "ARTECHNE.md",
-    "Checklist per chapter.md",
-    "Turning (part of) my thesis into a publication or communication.md",
+    "🌱 READING NOTES/Justus 2010.md",
+    "Notes to process.md",
+    "🌲 CONCEPT NOTES/conservation is a management science that has to deal with uncertainty.md",
+    "🌲 CONCEPT NOTES/conservation biolgy is a mission-driven science.md",
+    "🌲 CONCEPT NOTES/how does the temporal dimension mediate understandings of biodiversity?.md",
+    "🌱 READING NOTES/Pritchard and Zimring 2020.md",
+    "'porosity' is a productive analytic concept.md",
     "Open Projects.md",
-    "Thesis Roadmap.md"
+    "🌱 READING NOTES/Linquist Varner Newman 2020.md",
+    "environmental philosophers argue that there is no single environmental argument that works to defend biodiversity conservation.md"
   ]
 }
