@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌱 READING NOTES/Soulé 1985.md",
-            "mode": "preview"
+            "file": "🌲 CONCEPT NOTES/The proportion of OA papers has been progressively increasing since the 2000s.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱 READING NOTES/Soulé 1985.md",
+                "file": "🌲 CONCEPT NOTES/The proportion of OA papers has been progressively increasing since the 2000s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "a25bacde4ca330f4",
   "lastOpenFiles": [
+    "🌲 CONCEPT NOTES/The proportion of OA papers has been progressively increasing since the 2000s.md",
+    "19 July 2021.md",
+    "Checklist per chapter (Brepols).md",
+    "Templates and Resources/Book.md",
+    "Templates and Resources/Journal article.md",
+    "Templates and Resources/concept note.md",
     "🌱 READING NOTES/Soulé 1985.md",
     "🌲 CONCEPT NOTES/biodiversity is not an analytic concept but a political motivation.md",
     "🌲 CONCEPT NOTES/diversity is at the core of conservation biology but its meanings have changed.md",
-    "🌱 READING NOTES/Silier 2020.md",
-    "Attachments/Fig-2.png",
-    "Turning (part of) my thesis into a publication or communication.md",
-    "Open Projects.md",
-    "🌱 READING NOTES/TBMS-Introduction.md",
-    "🌱 READING NOTES/Pritchard and Zimring 2020.md",
-    "🌲 CONCEPT NOTES/'porosity' is a productive analytic concept.md"
+    "🌱 READING NOTES/Silier 2020.md"
   ]
 }
