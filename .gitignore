@@ -1,9 +1,7 @@
 .DS_Store
-.obsidian/cache
+obsidian/
 .trash/
 .obsidian
 /Biodiversity
 .attempt
-.obsidian/config
-.obsidian/workspace
-/Templates and Resources
+Templates and Resources/
