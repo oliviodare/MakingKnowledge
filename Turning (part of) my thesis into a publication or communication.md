@@ -48,17 +48,6 @@
 
 ### Once those questions are addressed: what is the best platform to achieve these goals?
 
-**[ISHPSSB Biennial Meeting 2021 (Virtual)](https://meetings.cshl.edu/meetings.aspx?meet=ISH&year=21)**
-Registration needed (300$), subsidies possible.
-
-First impression: not very fitting, seems to be much internalistic biology researh.  
-
-**Dates**
-Abstract Deadline: April 1  
-Decisions: May 1  
-Full Program available: June 1  
-Practice Day: July 12
-Event: July 13, 14, 15, 19, & 20
 
 ### Approach
 - If I want to address the question of 'how did commercial manufactuerers placed themselves as partners in the resaerch effort' (and how did this come about), perhaps not only a synchronic analysis is important, but a diachronic: what changed before the advertisements of the 1970s? Was there a difference? 

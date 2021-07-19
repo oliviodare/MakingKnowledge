@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7c21e56dd48b70ec",
+        "id": "a25bacde4ca330f4",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes to process.md",
+            "file": "🌱 READING NOTES/Soulé 1985.md",
             "mode": "preview"
           }
         }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 371
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -85,12 +84,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes to process.md",
+                "file": "🌱 READING NOTES/Soulé 1985.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -100,16 +101,17 @@
     "direction": "horizontal",
     "width": 233
   },
+  "active": "a25bacde4ca330f4",
   "lastOpenFiles": [
-    "Notes to process.md",
-    "🌱 READING NOTES/Fyfe et al 2017.md",
-    "malpractices are a product of the scientific paper becoming an accounting unit.md",
-    "🌱 READING NOTES/Weber  1930.md",
-    "🌱 READING NOTES/Herfeld 2021.md",
-    "what is the relation between iHPS approach and conceptual history?.md",
-    "🌱 READING NOTES/Herfeld 2020.md",
-    "the meaning of 'concept' in integrated HPS refers to the philosophical analytical concept, not the concept as situated historically.md",
-    "🌱 READING NOTES/Gingras 2020.md",
-    "🌲 CONCEPT NOTES/there is no one definition of predatory publishing.md"
+    "🌱 READING NOTES/Soulé 1985.md",
+    "🌲 CONCEPT NOTES/biodiversity is not an analytic concept but a political motivation.md",
+    "🌲 CONCEPT NOTES/diversity is at the core of conservation biology but its meanings have changed.md",
+    "🌱 READING NOTES/Silier 2020.md",
+    "Attachments/Fig-2.png",
+    "Turning (part of) my thesis into a publication or communication.md",
+    "Open Projects.md",
+    "🌱 READING NOTES/TBMS-Introduction.md",
+    "🌱 READING NOTES/Pritchard and Zimring 2020.md",
+    "🌲 CONCEPT NOTES/'porosity' is a productive analytic concept.md"
   ]
 }

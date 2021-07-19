@@ -1,29 +1,32 @@
-- [x] [Soulé 1985](Soulé%201985.md)
-- [ ] ~~[Robin 2011](Robin%202011.md)~~
-- [x] [Reydon 2013](Reydon%202013.md)
-- [x] [Myers et al 2000](Myers%20et%20al%202000.md)
+- [ ] [Fyfe et al 2017](Fyfe%20et%20al%202017.md)
 - [ ] [Garnett and Christidis 2017](Garnett%20and%20Christidis%202017.md)
 - [ ] [Conix 2019](Conix%202019.md)
-- [x] [Linquist Varner Newman 2020](Linquist%20Varner%20Newman%202020.md)
 - [ ] [Koselleck 1989](Koselleck%201989.md)
-- [ ] ~~[Koselleck 2004](Koselleck%202004.md)~~
+- [ ] [Sarkar 2002](Sarkar%202002.md)
+- [ ] [Lorenz 2012](Lorenz%202012.md)
+- [ ] [TBMS-Introduction](TBMS-Introduction.md)
+- [ ] [TBMS-ChapterOne](TBMS-ChapterOne.md)
+- [ ] [TBMS-ChapterFour](TBMS-ChapterFour.md)
+
+
+
+- [x] [Soulé 1985](Soulé%201985.md)
+- [x] [Robin 2011](Robin%202011.md)
+- [x] [Reydon 2013](Reydon%202013.md)
+- [x] [Myers et al 2000](Myers%20et%20al%202000.md)
+- [x] [Linquist Varner Newman 2020](Linquist%20Varner%20Newman%202020.md)
+- [x] [Koselleck 2004](Koselleck%202004.md)
 - [x] [Pritchard and Zimring 2020](Pritchard%20and%20Zimring%202020.md)
 - [x] [Justus 2010](Justus%202010.md)
 - [x] [Honeybun-Arnolda 2019](Honeybun-Arnolda%202019.md)
-- [ ] [Sarkar 2002](Sarkar%202002.md)
 - [x] [Daru 2021](Daru%202021.md)
-- [ ] [Lorenz 2012](Lorenz%202012.md)
 - [x] [Taking notes about Obsidian](Taking%20notes%20about%20Obsidian.md)
 - [x] [UCM escuela doctoral, charla y debate sobre publicaciones científicas y open science](UCM%20escuela%20doctoral,%20charla%20y%20debate%20sobre%20publicaciones%20científicas%20y%20open%20science.md)
-- [ ] [TBMS-Introduction](TBMS-Introduction.md)
 - [x] [Silier 2020](Silier%202020.md)
 - [x] [Gingras 2020](Gingras%202020.md)
 - [x] [Herfeld 2021](Herfeld%202021.md)
-- [ ] [TBMS-ChapterOne](TBMS-ChapterOne.md)
 - [x] [Weber  1930](Weber%20%201930.md)
-- [ ] [Fyfe et al 2017](Fyfe%20et%20al%202017.md)
-- [ ] ~~[Collins and Evans 2002](Collins%20and%20Evans%202002.md)~~
-- [ ] [TBMS-ChapterFour](TBMS-ChapterFour.md)
-- [ ] ~~[Elizabeth Anderson, 2020, 'Let's Talk'](Elizabeth%20Anderson,%202020,%20'Let's%20Talk'.md)~~
-- [ ] ~~[Anthropocene and descriptive knowledge](Anthropocene%20and%20descriptive%20knowledge.md)~~
-- [ ] ~~[Fernández Carro 2020](Fernández%20Carro%202020.md)~~
+- [x] [Collins and Evans 2002](Collins%20and%20Evans%202002.md)
+- [x] [Elizabeth Anderson, 2020, 'Let's Talk'](Elizabeth%20Anderson,%202020,%20'Let's%20Talk'.md)
+- [x] [Anthropocene and descriptive knowledge](Anthropocene%20and%20descriptive%20knowledge.md)
+- [x] [Fernández Carro 2020](Fernández%20Carro%202020.md)

@@ -10,7 +10,7 @@ In the context of the 1980s environmental crisis, 'biodiversity' arose
 ---
 Sources: 
 - [Robin 2011](Robin%202011.md)
-- [Soulé 1985](Soulé%201985.md)
+- [Soulé 1985](Soul%C3%A9%201985.md)
 
 --- 
 Related notes: 

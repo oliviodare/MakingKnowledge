@@ -11,6 +11,8 @@
 	1. [[#General rules of copyediting, discussed with Dupré|General rules of copyediting, discussed with Dupré]]
 	1. [[#Making all ready for submission|Making all ready for submission]]
 1. [[#'The Making of Technique in the Art’ (Brepols)|'The Making of Technique in the Art’ (Brepols)]]
+	1. [[#Current Issues|Current Issues]]
+	1. [[#Roadmap|Roadmap]]
 
 
 ---
@@ -24,7 +26,7 @@
 - [x] See which style decisions have been made (style sheet, author guidelines) and which haven't.
 - [x] Make style decisions and/or consult with SD.
 - [x] Read the the [Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>).
-- [x] Establish a [[Checklist per chapter]]
+- [x] Establish a [[Checklist per chapter (Routledge)]]
 - [x] Double-check images permissions, quality, captions.
 - [x] Make/update masterfile
 - [x] Send captions to BJ.
@@ -67,19 +69,19 @@
 		<br>Von Pettenkofer, Max. _Over olieverven en het conserveeren van schilderijen door de regeneratie-behandeling,_ translation by W. A. Hopman (Amsterdam: C. L. Brinkman, 1871).<br><br>
 - [x] Pagination: chapter by chapter, starting at 1 per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making%20of%20Art%20Expertise/3.%20Routledge%20Documents/Author+Guidelines+2019.pdf>), page 45) 
 - [ ] Send all documents.
-	- [ ] [Front matter](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/1. Text Files/4. Final Version/0.FrontMattter.docx>) ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 29)
-		- [ ] Title page
-		- [ ] Table of Contents
-		- [ ] Image list
-		- [ ] List of Contributions ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 45)
+	- [x] [Front matter](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/1. Text Files/4. Final Version/0.FrontMattter.docx>) ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 29)
+		- [x] Title page
+		- [x] Table of Contents
+		- [x] Image list
+		- [x] List of Contributions ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 45)
 		- [ ] Acknowledgments
-	- [ ] Images
-		- [ ] Artlog
-		- [ ] Captions in a separate file
+	- [x] Images
+		- [x] Artlog
+		- [x] Captions in a separate file
 		- [x] Save each figure/table/box in a separate file and name them by chapter – i.e., Figure 1.1, 1.2; Table 2.1, 2.2, etc.
-		- [ ] Save each image in CMYK colour ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), pages 40, 41)
+		- [x] Save each image in CMYK colour ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), pages 40, 41)
 		- [x] Resolution: 300 dpi minimum ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 41)
-	- [ ] Clean texts, separate files per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 33 for details on file naming).
+	- [x] Clean texts, separate files per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 33 for details on file naming).
 - [ ] Proofs ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 51)
 	- [ ] For page references you can just reference them as ‘p.XX’ and highlight them in yellow, this way once the book has been typeset you can just add in the correct page numbers. Our typesetters are used to authors doing this so it is not a problem at all.
 - [ ] Index ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/3. Routledge Documents/Author+Guidelines+2019.pdf>), page 54)
@@ -157,6 +159,18 @@ They need a polished text files, and images (need to check author guidelines for
  
 
 ## 'The Making of Technique in the Art’ (Brepols)
+
+
+### Current Issues
+-   No transition document
+-   Images: 
+	-   double check list of illustrations, clearing status not known
+	-   Some images actually missing
+  
+### Roadmap
+
+-   Submit to Brepols by May 1st. Chapters (text and images) should be clean are clear by then.
+-    Alexander Sterkens (alexander.sterkens@brepols.net), Acquisitions Editor at Brepols) will probably would send it to peer-review. 
 
 
 
