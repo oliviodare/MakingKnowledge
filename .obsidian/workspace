@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a25bacde4ca330f4",
+        "id": "e8f153ea8cf050e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🌲 CONCEPT NOTES/biodiversity is not an analytic concept but a political motivation.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌲 CONCEPT NOTES/biodiversity is not an analytic concept but a political motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +95,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 100,
+    "collapsed": true
   },
-  "active": "a25bacde4ca330f4",
+  "active": "e8f153ea8cf050e6",
   "lastOpenFiles": [
+    "🌱 READING NOTES/Iyandemye 2019.md",
+    "🌱 READING NOTES/Gingras 2020.md",
+    "🌱 READING NOTES/TBMS-ChapterOne.md",
+    "🌱 READING NOTES/TBMS-ChapterFour.md",
     "🌲 CONCEPT NOTES/biodiversity is not an analytic concept but a political motivation.md",
     "🌲 CONCEPT NOTES/The proportion of OA papers has been progressively increasing since the 2000s.md",
     "19 July 2021.md",
     "Checklist per chapter (Brepols).md",
     "Templates and Resources/Book.md",
-    "Templates and Resources/Journal article.md",
-    "Templates and Resources/concept note.md",
-    "🌱 READING NOTES/Soulé 1985.md",
-    "🌲 CONCEPT NOTES/diversity is at the core of conservation biology but its meanings have changed.md",
-    "🌱 READING NOTES/Silier 2020.md"
+    "Templates and Resources/Journal article.md"
   ]
 }
