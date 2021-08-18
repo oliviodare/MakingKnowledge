@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f153ea8cf050e6",
+        "id": "54dcae75ff6f4206",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "liability",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 259
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +99,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 276
   },
-  "active": "e8f153ea8cf050e6",
+  "active": "54dcae75ff6f4206",
   "lastOpenFiles": [
-    "🌱 READING NOTES/Iyandemye 2019.md",
-    "🌱 READING NOTES/Gingras 2020.md",
-    "🌱 READING NOTES/TBMS-ChapterOne.md",
-    "🌱 READING NOTES/TBMS-ChapterFour.md",
-    "🌲 CONCEPT NOTES/biodiversity is not an analytic concept but a political motivation.md",
-    "🌲 CONCEPT NOTES/The proportion of OA papers has been progressively increasing since the 2000s.md",
-    "19 July 2021.md",
-    "Checklist per chapter (Brepols).md",
-    "Templates and Resources/Book.md",
-    "Templates and Resources/Journal article.md"
+    "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
+    "🌱 nursing/2020-Yanai and Lercher.md",
+    "🌱 nursing/~ questions arising.md",
+    "2020-Yanai and Lercher.md",
+    "Scientific Method, according to the Stanford Encyclopedia of Philosophy.md",
+    "🧶 project management/Scientific Method, some literature.md",
+    "🧶 project management/Scientific Method, some ideas about how to teach it.md",
+    "🧶 project management/ARTECHNE--Checklist per chapter (Brepols).md",
+    "🧶 project management/👾 Projects August 2021.md",
+    "🧶 project management/Settling in Brussels.md"
   ]
 }

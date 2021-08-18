@@ -1,36 +1,27 @@
+.view-header {
+    writing-mode: horizontal-tb;}
 
-h1, h2, h3, h4, h5, h6 {
-	font-weight: 600;
+.markdown-preview-view p, .markdown-preview-view ul, .markdown-preview-view ol, .markdown-preview-view blockquote {
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.nav-buttons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;}
+
+.view-header-title-container {
+    width: 40px;
+    height: unset;
+    padding-left: unset;
+    padding-top: 4px;
+}
+
+.view-header {
+display:none
 }
 
 
-.markdown-preview-view h1 {
-	font-size: 50px;
-	color: #ffb703;
-	line-height: 48px; }
 
 
-.markdown-preview-view h2 {
-	font-size: 35px;
-	color: #e07a5f;
-	line-height: 2em;
- }
-
-
-.markdown-preview-view h3 {
-	font-size: 20px;
-	color: #56A3A6;
-	text-decoration: underline;
-	line-height: 2em;
-}
-
-
-.markdown-preview-view .internal-link {
-	color: #FFB703;
-
-}
-
-
-.external-link {
-	color: #FFB703
-}

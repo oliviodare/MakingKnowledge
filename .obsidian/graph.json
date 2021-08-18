@@ -1,1 +1,22 @@
-{"collapse-filter":true,"search":"path:\"🌲 CONCEPT NOTES\"","showTags":false,"showAttachments":false,"hideUnresolved":false,"showOrphans":true,"collapse-color-groups":false,"colorGroups":[],"collapse-display":false,"showArrow":false,"textFadeMultiplier":-1.2,"nodeSizeMultiplier":2.78301171605789,"lineSizeMultiplier":5,"collapse-forces":false,"centerStrength":0.582998853211009,"repelStrength":19.3498736503561,"linkStrength":1,"linkDistance":260,"scale":0.603238010695488,"close":true}
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7460583914369285,
+  "close": true
+}
