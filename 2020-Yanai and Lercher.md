@@ -10,14 +10,14 @@
 **Date read**: 18 Aug 2021
 **Tags**: #scientificpaper #scientificmethod
 **Zotero link**: [](zotero link)
-**Responses**: 
+**Responses**: [2021-Felin et al](2021-Felin%20et%20al)
 **General remark**: 
 
 A good question for the students could be:  
 
 Despite a defence of exploratory science, does the article imply a specific hierarchy between exploratory and hypothesis-driven science? 
 
-Because it seems it does imply that eventually you would need a hypothesis to make a discovery or proof a point. Also in a related note, the way they argue for the existence of a difference between the two groups is by the authors posing a hypothesis (and then testing it with statistics).
+Because it seems it does imply that eventually you would need a hypothesis to make a discovery or proof a point. Also, in a related note, the way they argue for the existence of a difference between the two groups is by posing a hypothesis and then testing it with statistics, an irony also mentioned in [[2021-Felin et al]].
 
 ---
 

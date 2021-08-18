@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
+            "file": "2021-Felin et al.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 369
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
+                "file": "2021-Felin et al.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "54dcae75ff6f4206",
   "lastOpenFiles": [
-    "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
+    "2021-Felin et al.md",
     "🌱 nursing/2020-Yanai and Lercher.md",
-    "🌱 nursing/~ questions arising.md",
-    "2020-Yanai and Lercher.md",
-    "Scientific Method, according to the Stanford Encyclopedia of Philosophy.md",
-    "🧶 project management/Scientific Method, some literature.md",
-    "🧶 project management/Scientific Method, some ideas about how to teach it.md",
-    "🧶 project management/ARTECHNE--Checklist per chapter (Brepols).md",
-    "🧶 project management/👾 Projects August 2021.md",
-    "🧶 project management/Settling in Brussels.md"
+    "Templates/reading note (metadata).md",
+    "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
+    "🧶 project management/JOTE--Heidelberg Seminar.md",
+    "🧶 project management/BXL--Settling.md",
+    "🧶 project management/PhD--Notes to process.md",
+    "🌱 nursing/Taking notes about Obsidian.md",
+    "🌱 nursing/JOTE--Heidelberg seminar-Scientific Method, some ideas about how to teach it.md",
+    "🌱 nursing/☝️ questions arising.md"
   ]
 }

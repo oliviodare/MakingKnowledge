@@ -37,7 +37,7 @@ Inspirations and literature
 
 ## Current developments
 [[JOTE--Heidelberg Seminar, some literature]]
-[[Scientific Method, some ideas about how to teach it]]
+[[JOTE--Heidelberg seminar-Scientific Method, some ideas about how to teach it]]
 
 
 
