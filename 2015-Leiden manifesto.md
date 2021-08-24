@@ -7,7 +7,7 @@
 **Title**: [Bibliometrics: The Leiden Manifesto for research metrics](zotero://open-pdf/library/items/465ZD8U6)
 **Kind**: Manifesto
 **Journal**: *Nature*
-**Date read**: [May 2021](%7B%7Bdate%7D%7D.md)
+**Date read**: May 2021
 **Tags**: #publishing #expertise #scientificgovernance #metrics
 **Take-home message**:   The Leiden manifesto: 10 rules known by bibliometricians about how to avoid misuse of metrics and to allow professional expertise and judgment lead evaluation rather than data.
 

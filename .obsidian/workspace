@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "54dcae75ff6f4206",
+        "id": "58e14ef0613cecc8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-Felin et al.md",
-            "mode": "preview"
+            "file": "🧶 project management/JOTE--AESTHETIC finale.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liability",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369
+    "width": 273,
+    "collapsed": true
   },
   "right": {
     "id": "63eaedfcab11fb9d",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-Felin et al.md",
+                "file": "🧶 project management/JOTE--AESTHETIC finale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +100,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
-  "active": "54dcae75ff6f4206",
+  "active": "58e14ef0613cecc8",
   "lastOpenFiles": [
-    "2021-Felin et al.md",
-    "🌱 nursing/2020-Yanai and Lercher.md",
-    "Templates/reading note (metadata).md",
-    "🧶 project management/JOTE--Heidelberg Seminar, some literature.md",
-    "🧶 project management/JOTE--Heidelberg Seminar.md",
-    "🧶 project management/BXL--Settling.md",
-    "🧶 project management/PhD--Notes to process.md",
-    "🌱 nursing/Taking notes about Obsidian.md",
-    "🌱 nursing/JOTE--Heidelberg seminar-Scientific Method, some ideas about how to teach it.md",
-    "🌱 nursing/☝️ questions arising.md"
+    "🧶 project management/JOTE--AESTHETIC finale.md",
+    "24 August 2021.md",
+    "🧶 project management/👾 Projects August 2021.md",
+    "🧶 project management/🦶🏼 BXL--Settling in.md",
+    "🧶 project management/biodiv--A Roadmap to my thesis.md",
+    "it.md",
+    "unresolved links output.md",
+    "unlinked files output.md",
+    "there is no one definition of predatory publishing.md",
+    "products/UCM escuela doctoral, charla y debate sobre publicaciones científicas y open science.md"
   ]
 }

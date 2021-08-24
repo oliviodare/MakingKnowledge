@@ -25,9 +25,9 @@
 	
 
 ### What are the elements I want to discuss, and how do they relate to standing research?
-- ~~Notion of porosity ([Pritchard and Zimring 2020](Pritchard%20and%20Zimring%202020.md): how commercial players placed themselves as partners in the resaerch effort, and the porous (not simply vague) relation between university science and commercial partners~~
+- ~~Notion of porosity ([2020-Pritchard and Zimring](2020-Pritchard%20and%20Zimring.md): how commercial players placed themselves as partners in the resaerch effort, and the porous (not simply vague) relation between university science and commercial partners~~
 
-- In my case, not only the obvious manufacturers were commercial, but the context itself (*Nature*), which ubiqutuously presented it as a neutral forum "*of* and *for* the scientific community" (praphrasing). Here tying with the notion of 'forum' in [Baldwin 2015](Baldwin%202015.md)
+- In my case, not only the obvious manufacturers were commercial, but the context itself (*Nature*), which ubiqutuously presented it as a neutral forum "*of* and *for* the scientific community" (praphrasing). Here tying with the notion of 'forum' in [[2015-Baldwin]]
 	- *Nature* as forum, identity of the community, but mediated by *Nature*'s editorial decisions. ``unclear about this, especially in terms of evidencial support from sources``
 - Missing indexation of advertisements
 	- indexation as mechanism of construction of the professionalisation and legitimasy of research (no index, no science). ``not sure whether this is relevant for the main argument; literature could maybe be found in 'Gaming the Metrics'``

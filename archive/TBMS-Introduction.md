@@ -101,7 +101,7 @@ I shall add Aileen Fyfe also.
 
 > Csiszar’s book tells the story about how the worlds of academics and journal publishers were in fact, different worlds. ” (Bautista Perpinyà, 2020, p. 20) 
 
-Using [Fyfe et al 2017](Fyfe%20et%20al%202017.md), I could add to Csiszar's story how progressively (specially in the twentieth century), the academic community came to actually depend not only on journal publishers, but increasingly more on commercial journal publishers. 
+Using [2017-Fyfe et al](2017-Fyfe%20et%20al.md), I could add to Csiszar's story how progressively (specially in the twentieth century), the academic community came to actually depend not only on journal publishers, but increasingly more on commercial journal publishers. 
 
 
 > Then, Csiszar goes a step further by showing that while the distance between journals and academics was large, it was even more so between commercial publishers and the Royal Societies. He traces a similar movement during the century as with journal publishing per se, through which publishing science in a for-profit press or becoming a paid author became increasingly (not without tensions) a more recognised and respected way of transmitting about one’s scientific studies.16 ” (Bautista Perpinyà, 2020, p. 20) 

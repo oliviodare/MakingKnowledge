@@ -11,10 +11,11 @@
 **Tags**: #scientificpaper #scientificmethod
 **Zotero link**: [](zotero link)
 **Weblink**: https://doi.org/10.1186/s13059-021-02276-4
-**A response to**: [2020-Yanai and Lercher](2020-Yanai%20and%20Lercher.md)
-**Response**: [[2021-Yanai and Lercher]]
 **Take-home message**: 
 There are various points that critique [2020-Yanai and Lercher](2020-Yanai%20and%20Lercher.md)'s editorial. The two main points is 1) that Yanai and Lercher are reductionist and naïve in that they equate data to information, and 2) that the hypothesis come in different forms and shapes, and together with theories, conjectures, and suppositions, they mediate our understanding of data and frame research projects. 
+
+**A response to**: [2020-Yanai and Lercher](2020-Yanai%20and%20Lercher.md).
+**Responses**: after this response, there are two more (one by each group): 'The data-hypothesis conversation' by [2021-Yanai and Lercher](2021-Yanai%20and%20Lercher.md), and 'Data bias', by [2021b-Felin et al](2021b-Felin%20et%20al.md).
 
 ---
 

@@ -1,7 +1,4 @@
-
-[ARTECHNE--Editorial Assistantship](ARTECHNE--Editorial%20Assistantship.md)
-
-http://www.mhra.org.uk/style/contents.html
+Original style to follow: http://www.mhra.org.uk/style/contents.html
 
 
 # STATUS
@@ -84,7 +81,7 @@ TEXTS:
 
 ### Numbers
 - [ ] Are centuries spelled out (`nineteenth century`, rather than `19th century`)?
-- [ ] Are numbers spelled out to hundred, and using Arabic numbers thereafter (101+) **except for the beginning of a sentence**? `comodín: ([0-9])`
+- [ ] Are numbers spelled out to hundred, and using Arabic numbers thereafter (101+) **except for the beginning of a sentence**? `Word search wildcard: ([0-9])`
 - [ ] Are percentages spelled out using Arabic numbers (e.g., `50 per cent`)?
 - [ ] Are chapter numbers, journal numbers, series numbers, figure and plate numbers speled out using Arabic numerals?
 - [ ] Are volume numbers, book numbers, acts in plays and other major subdivisions of books referred to it in Roman numbers small capitals? 
@@ -116,8 +113,7 @@ TEXTS:
 		
 	
 ### Images and image references
-- [ ]  Do reference to figure follow this format? <br>
-		`see Figure 7.9` <br>
+- [ ]  Do reference to figure follow this format? <br>`see Figure 7.9` <br>
 - [ ] Are images found in separate files (**not** within the word document)?
 - [ ] Is there a preferred placement of the image in the text, using this `<FIGURE 1.1 HERE>` form?
 
@@ -262,7 +258,7 @@ Subsequent reference: *Aura*, p. 93.
 	- [x] Costa
 	- [x] Stols-Witlox
 	- [x] Schürkmann
-	- [ ] Murphy
+	- [x] Murphy
 	- [x] Osnabrugge
 				   
 				   
@@ -277,27 +273,26 @@ Subsequent reference: *Aura*, p. 93.
 	- [x] Costa
 	- [x] Marcaida
 
-- [ ] Word count
+- [x] Word count
 	- [x] Bernardoni
 	- [x] Marcaida
 	- [x] Nègre
 	- [x] Costa
 	- [x] Stols-Witlox
 	- [x] Schürkmann
-	- [ ] Murphy
+	- [x] Murphy
 	- [x] Osnabrugge
 				   
-- [ ] Image count
+- [x] Image count
 	- [x] Bernardoni
 	- [x] Marcaida
 	- [x] Nègre
 	- [x] Costa
 	- [x] Stols-Witlox
 	- [x] Schürkmann
-	- [ ] Murphy
+	- [x] Murphy
 	- [x] Osnabrugge
-- [ ] Murphy's (bibliography)
-- [ ] Manageable early modern  titles: Osnabrugge
+- [x] Murphy's (bibliography)
 	
 
 

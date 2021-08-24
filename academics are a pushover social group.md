@@ -5,4 +5,3 @@ Their lack of awarness that they belong to a social group is a direct consequenc
 
 ---
 
-Sources: https://twitter.com/NathanielProf/status/1369404614148292611

@@ -34,7 +34,7 @@ He also highlights the role of peer-review in constructing the notion of legimit
 >  Given the wide variety of individual and institutional values in academia, it is unsurprising that there have been [fierce debates](https://www.triple-c.at/index.php/tripleC/article/view/867) and [political maneuvering](https://www.chronicle.com/article/Why-Beall-s-List-Died-/241171) regarding predatory publishing.
 
 >  To illustrate this point, I analysed 11,450 journals on the Cabells Journal Blacklist to assess the varying degrees of predatory activity undertaken by different journals, from examples of obvious illegitimacy with numerous severe violations of academic norms, such as fraudulently claiming editors and impact factors, to more moderate or minor violations, such as sloppy copyediting and poorly maintained webpages.
-![Fig-2.png](Fig-2.png)
+
 
 >  Due to the variety and complexity in the degrees and types of predatory publishing, this makes empirically and normatively drawing lines between legitimate and illegitimate publishing a significant challenge.
 

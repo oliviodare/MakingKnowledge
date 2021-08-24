@@ -8,7 +8,7 @@ Interest for us to explain:
 - keep it simple and practical: what are hypothesis, and how to formulate them.
 - different needs for the different students: med students need to learn and implement structure (e.g., hypothesis, testing, methodology) in their research; natural scientists need to understand the more practical dimension and nuanced aspects of the so-called 'scientific method'. The main challenge, however, will be to "getting med students to think more scientifically."
 - what is a negative result, what can we learn from them?
-- what are the different platform for negative results (and other interesting platforms)? F1000, PubPeer, PubPub.
+- what are the different platform for negative results (and other interesting platforms)? *[F1000](https://f1000research.com/)*, [PubPeer](https://pubpeer.com/), *[Experimental Results](https://www.cambridge.org/core/journals/experimental-results)*, *[microPublication](https://www.micropublication.org/)*. 
 - p-values and confidence intervals.
 - difficulties of peer-review of negative results.
 - context is cellurar/molecular biology, examples of those science is a preference.

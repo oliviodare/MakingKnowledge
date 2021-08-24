@@ -67,13 +67,13 @@
 	- [x] Translations.
 		<br>Von Pettenkofer, Max. _Over olieverven en het conserveeren van schilderijen door de regeneratie-behandeling,_ translation by W. A. Hopman (Amsterdam: C. L. Brinkman, 1871).<br><br>
 - [x] Pagination: chapter by chapter, starting at 1 per chapter ([Author Guidelines](<file:///Users/max/Documents/Dropbox/Making%20of%20Art%20Expertise/3.%20Routledge%20Documents/Author+Guidelines+2019.pdf>), page 45) 
-- [ ] Send all documents.
+- [x] Send all documents.
 	- [x] [Front matter](<file:///Users/max/Documents/Dropbox/Making of Art Expertise/1. Text Files/4. Final Version/0.FrontMattter.docx>) ([Author Guidelines](https://www.dropbox.com/sh/xmuuhnazkj8haot/AACDCxTZiUK9M94QU8d2hxtMa/3.%20Routledge%20Documents?dl=0&preview=Author%2BGuidelines%2B2019.pdf&subfolder_nav_tracking=1), page 29)
 		- [x] Title page
 		- [x] Table of Contents
 		- [x] Image list
 		- [x] List of Contributions ([Author Guidelines](https://www.dropbox.com/sh/xmuuhnazkj8haot/AACDCxTZiUK9M94QU8d2hxtMa/3.%20Routledge%20Documents?dl=0&preview=Author%2BGuidelines%2B2019.pdf&subfolder_nav_tracking=1), page 45)
-		- [ ] Acknowledgments
+		- [x] Acknowledgments
 	- [x] Images
 		- [x] Artlog
 		- [x] Captions in a separate file

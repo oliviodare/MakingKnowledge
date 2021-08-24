@@ -1,4 +1,22 @@
-[Scientific Method (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/scientific-method/)
+# Scientific Method (Stanford Encyclopedia of Philosophy)
+
+## Metadata
+
+**Authors**: Hepburn and Andersen
+**Year**: 2021
+**Title**: Scientific Method
+**Kind**:Encyclopedia entry
+**Journal/Publisher**: *The Stanford Encyclopedia of Philosophy*
+**Date read**: 17 Aug 2021
+**Tags**: #scientificmethod #philosophy #knowledge #epistemicvirtues 
+**Zotero link**: [](zotero link)
+**Weblink**: https://plato.stanford.edu/entries/scientific-method/
+**Take-home message**: 
+
+---
+
+## Reading notes
+
 
 > Among the activities often identified as characteristic of science are systematic observation and experimentation, inductive and deductive reasoning, and the formation and testing of hypotheses and theories. How these are carried out in detail can vary greatly, but characteristics like these have been looked to as a way of demarcating scientific activity from non-science, where only enterprises which employ some canonical form of scientific method or methods should be considered science (see also the entry on science and pseudo-science).
 
