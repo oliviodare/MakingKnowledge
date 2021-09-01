@@ -17,6 +17,6 @@ Sources:
 
 Related thoughts:
 
-- [what are ideal types?](what%20are%20ideal%20types?.md)
+- ['Ideal type' is an analytical unit for comparative historical analysis.]('Ideal%20type'%20is%20an%20analytical%20unit%20for%20comparative%20historical%20analysis..md)
 - [environmental philosophers argue that there is no single environmental argument that works to defend biodiversity conservation](environmental%20philosophers%20argue%20that%20there%20is%20no%20single%20environmental%20argument%20that%20works%20to%20defend%20biodiversity%20conservation.md)
 - [biodiv--☝️ questions arising](biodiv--☝️%20questions%20arising.md)

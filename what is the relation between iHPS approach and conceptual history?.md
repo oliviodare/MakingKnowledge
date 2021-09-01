@@ -19,6 +19,6 @@ Sources:
 ---
 
 Related notes
-- [what are ideal types?](what%20are%20ideal%20types?.md)
+- ['Ideal type' is an analytical unit for comparative historical analysis.]('Ideal%20type'%20is%20an%20analytical%20unit%20for%20comparative%20historical%20analysis..md)
 - [biodiv--☝️ questions arising](biodiv--☝️%20questions%20arising.md)
 

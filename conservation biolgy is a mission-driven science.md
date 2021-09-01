@@ -9,7 +9,7 @@ Understanding that conservation biology was from the outset a mission-driven ent
 
 The idealistic political motivation of conservation biologists, despite knowing that it was an unrealistic ambitious aim, was to shift the state of nature towards a preindustrial balance. A more modest aim, however, was to "modify significantly the rate" of the destruction of diversity. Technology and industrialisation were seen as the enemy that cannot be avoided, the discipline of biology as the value-neutral enterprise that would generate theories and evidence, and conservation biology as the translator of those idealistic scenarios into practical managerial realities. 
 
---
+---
 
 Sources:
 - [1985-Soulé](1985-Soulé.md)

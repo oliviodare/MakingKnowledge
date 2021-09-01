@@ -1,5 +1,4 @@
-# what are ideal types?
-
+# 'Ideal type' is an analytical unit for comparative historical analysis.
 
 ---
 Sources: 
