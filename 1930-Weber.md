@@ -1,3 +1,5 @@
+#readingnote 
+
 **Authors**: Weber
 **Year**: 1930/2001
 **Title**: The Protestant Ethic and the Spirit of Capitalism

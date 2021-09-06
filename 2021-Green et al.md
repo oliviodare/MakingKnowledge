@@ -1,4 +1,6 @@
 # Adapting practice-based philosophy of science to teaching of science students
+#readingnote 
+
 
 ## Metadata
 

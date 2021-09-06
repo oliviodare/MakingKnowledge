@@ -1,4 +1,5 @@
 # diversity is at the core of conservation biology but its meanings have changed
+#conceptnote 
 
 Early on ([1985-Soulé](1985-Soulé.md)), biological diversity was posed as a inherently yet unfoundedly so good thing in Nature. Soulé said that while diversity cannot be "proven" to be 'good' nor we can understand why seemingly all biologists think so, we must retain it as a central "normative postulate" of conservation biology. He pretty much equated the normative postulates to the "individual's philosophy" as a sort of personal preference, something that could not be theoretically or empirically substantiated, but rather a sort of inherently good *a priori*. We can see this vision from:
 

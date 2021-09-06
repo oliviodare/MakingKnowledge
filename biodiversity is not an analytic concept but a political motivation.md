@@ -1,4 +1,5 @@
 # biodiversity is not an analytic concept but a political motivation
+#conceptnote 
 
 - What do I mean by analytic concept?
 - What do I mean by 'political'?

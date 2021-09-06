@@ -1,4 +1,6 @@
 # The Transformation of the Scientific Paper: From Knoweldge to Accounting Unit
+#readingnote 
+
 
 ## Metadata
 

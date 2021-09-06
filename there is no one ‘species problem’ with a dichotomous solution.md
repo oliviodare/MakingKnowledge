@@ -1,5 +1,7 @@
  # there is no one ‘species problem’ with a dichotomous solution
- 
+ #conceptnote 
+
+
  
  The debates in philosophy of biology, and specially, in regard to the  speciesproblem are varied. In fact, there is no one ‘species problem’ with a dichotomous solution, and shouldn't be lumped together. 
  

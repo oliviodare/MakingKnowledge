@@ -1,4 +1,6 @@
 # Scientific Method (Stanford Encyclopedia of Philosophy)
+#readingnote 
+
 
 ## Metadata
 

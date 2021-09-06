@@ -1,4 +1,6 @@
 # “Excellence R Us”: university research and the fetishisation of excellence
+#readingnote 
+
 
 ## Metadata
 

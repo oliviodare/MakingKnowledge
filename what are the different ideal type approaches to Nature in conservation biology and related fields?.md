@@ -1,4 +1,5 @@
 # what are the different ideal type approaches to Nature in conservation biology and related fields?
+#conceptnote 
 
 [1985-Soulé](1985-Soulé.md) argued that conseration biology differs from other existing disciplines such as fisheries biology and forestry in that the latter ones do not operate on aesthetic or intrinsic values but on "commercial" and "recreational" incentives, as well as being narrowed to natural resources that are relevant for human use; while conservation biology aims for a more holistic approach.
 
@@ -17,6 +18,6 @@ Sources:
 
 Related thoughts:
 
-- ['Ideal type' is an analytical unit for comparative historical analysis.]('Ideal%20type'%20is%20an%20analytical%20unit%20for%20comparative%20historical%20analysis..md)
+- [The 'Ideal type' is an analytical unit for comparative historical analysis.](The%20'Ideal%20type'%20is%20an%20analytical%20unit%20for%20comparative%20historical%20analysis..md)
 - [environmental philosophers argue that there is no single environmental argument that works to defend biodiversity conservation](environmental%20philosophers%20argue%20that%20there%20is%20no%20single%20environmental%20argument%20that%20works%20to%20defend%20biodiversity%20conservation.md)
-- [biodiv--☝️ questions arising](biodiv--☝️%20questions%20arising.md)
+- [☝️ biodiv--questions arising](☝️%20biodiv--questions%20arising.md)

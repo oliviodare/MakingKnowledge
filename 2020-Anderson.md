@@ -1,4 +1,5 @@
-Tags: #philosophy #politics #environmentalphilosophy 
+#readingnote 
+
 
 Philosophy bites podcast
 

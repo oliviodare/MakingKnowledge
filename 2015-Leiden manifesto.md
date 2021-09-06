@@ -1,4 +1,6 @@
 # Bibliometrics: The Leiden Manifesto for research metrics
+#readingnote 
+
 
 ## Metadata
 

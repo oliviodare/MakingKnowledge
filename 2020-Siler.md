@@ -1,4 +1,6 @@
 # There is no black and white definition of predatory publishing
+#readingnote 
+
 
 ## Metadata
 

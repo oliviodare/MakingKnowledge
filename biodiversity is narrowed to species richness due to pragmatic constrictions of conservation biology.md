@@ -1,4 +1,5 @@
 # biodiversity is narrowed to species richness due to pragmatic constrictions of conservation biology
+#conceptnote
 
 The contexts in which species richness is defended as a good measure of biodiversity are those that take into account the constrictions of conservation biology, such as the financial constrictions in [2000-Myers et al](2000-Myers%20et%20al.md).
 

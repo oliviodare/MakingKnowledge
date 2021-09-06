@@ -1,4 +1,6 @@
 # Openness as Tool for Acceleration and Measurement: Reflections on Problem Representations Underpinning Open Access and Open Science
+#readingnote 
+
 
 
 ## Metadata

@@ -1,4 +1,6 @@
 # The data-hypothesis conversation
+#readingnote 
+
 
 ## Metadata
 

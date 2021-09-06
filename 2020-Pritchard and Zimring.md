@@ -1,3 +1,6 @@
+# Technology and the environment in history
+#readingnote 
+
 **Authors**: Pritchard and Zimring
 **Year**: 2020
 **Title**: [Technology and the environment in history](zotero://select/items/1_XSKPRF4Y)

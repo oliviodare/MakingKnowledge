@@ -1,4 +1,6 @@
-What is a scientific article? A principal-agent explanation
+# What is a scientific article? A principal-agent explanation
+#readingnote 
+
 
 El artículo no es sólo una unidad de comunicación, sino también una unidad del sistema de recompensa, evaluativo y económico la ciencia. 
 

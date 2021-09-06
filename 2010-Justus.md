@@ -1,4 +1,6 @@
 # The diversities of biodiversity: James Maclaurin and Kim Sterelny: What is Biodiversity? The University of Chicago Press, Chicago, 2008, xii + 217 pp, US$ 24 PB
+#readingnote 
+
 
 # Metadata
 **Authors**: Justus

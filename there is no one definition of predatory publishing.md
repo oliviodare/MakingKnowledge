@@ -1,4 +1,6 @@
 # there is no one definition of predatory publishing
+#conceptnote 
+
 
 There are different methods that predatory publishers use to pass as legitimate publishers. That plurality undermines (or at least, difficults) finding one-size fits all definitions of what counts as predatory publisher. 
 

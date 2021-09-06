@@ -1,6 +1,6 @@
 
 # environmental philosophers argue that there is no single environmental argument that works to defend biodiversity conservation
-
+#conceptnote 
 
 There are several arguments for the defence of biodiversity, which forms one of the major axis of the debate of environmental philosophers, environmentalists, and conservation biologists. According to Linquist, Varner and Newman in their book *Defending biodiversity: environmental science and ethics* (2007), we can divide them in two camps:
 

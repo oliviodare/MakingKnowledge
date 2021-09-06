@@ -1,4 +1,5 @@
 # how did the social sciences enter conservation biology?
+#conceptnote 
 How did understandings of social factors (political, institutional, cultural) interact or influence efforts in the more biological side of conservation science?
 
 
@@ -9,7 +10,7 @@ Sources:
 ---
 
 Related notes
-- [biodiv--☝️ questions arising](biodiv--☝️%20questions%20arising.md)
+- [☝️ biodiv--questions arising](☝️%20biodiv--questions%20arising.md)
 
 
 

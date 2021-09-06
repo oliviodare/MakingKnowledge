@@ -1,5 +1,5 @@
 # conservation biolgy is a mission-driven science
-
+#conceptnote
 
 From the outset, as we can see in the landmark paper 'What is Conservation Biology', Soulé argued that conservation biology is a "mission- or crisis-oriented discipline". At its core, was the preservation of biological diversty and protecting it from the "human activites or other agents." Thus, the relation of humans with their environment was explicitly put at the center of conservation biology, the main problem was framed as a loss of biodiveristy, and the solution as a preservation of it through a multidisciplinary (yet predominantly biological) understanding of the dynamics of the environment. 
 

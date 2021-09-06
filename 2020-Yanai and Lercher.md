@@ -1,4 +1,6 @@
 # A hypothesis is a liability
+#readingnote 
+
 
 ## Metadata
 

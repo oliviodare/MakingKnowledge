@@ -1,4 +1,6 @@
 # Data bias
+#readingnote 
+
 
 ## Metadata
 

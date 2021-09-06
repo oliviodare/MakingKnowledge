@@ -1,4 +1,5 @@
 # conservation is a management science that has to deal with uncertainty
+#conceptnote 
 
 Conservation efforts are based on theoretical and empirical evidence to design artifical management approaches to the "longterm viability of natural communities". This is the aim of conservation biolgy ([conservation biolgy is a mission-driven science](conservation%20biolgy%20is%20a%20mission-driven%20science.md)). Artificial management is necessary to mantain biodiversity, as "bening neglect" is not a possibility "for the foreseeable future." And although [1985-Soulé](1985-Soulé.md) does not provide evidence of why management is so important, we can assume it's due to the way humans have interacted with natural resources for the recent centuries ([conservation biologists are aware and critical of industrialisation](conservation%20biologists%20are%20aware%20and%20critical%20of%20industrialisation.md))). 
 

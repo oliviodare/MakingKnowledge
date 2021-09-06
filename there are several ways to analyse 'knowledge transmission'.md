@@ -1,4 +1,6 @@
 # there are several ways to analyse 'knowledge transmission'
+#conceptnote 
+
 
 In *The Evolution of Knowledge*, by Jürgen Renn, we find a chapter on 'knowledge economies', which has an interesting framework for analysing different ways knowledge 'moves', according to the extension and directionality of the transfer: 
 - dissemenation,

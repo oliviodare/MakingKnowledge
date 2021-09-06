@@ -1,4 +1,5 @@
 # where can conceptual flexibility of 'biodiveristy' come from?
+#conceptnote 
 
 Biodiversity both means different things and is measured in different ways. This flexibility can come from:
 - What in biology is diverse about (the argument of looking for the 'surrogate' in [2002-Sarkar](2002-Sarkar.md) ). As he put it, diversity can be at "every level of complexity" ("entities and processes"), it can refer to:

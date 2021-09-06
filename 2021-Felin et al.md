@@ -1,4 +1,6 @@
 # The data-hypothesis relationship
+#readingnote 
+
 
 ## Metadata
 

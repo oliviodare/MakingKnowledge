@@ -1,3 +1,5 @@
+#readingnote 
+
 **Authors**: Koselleck
 **Year**: 2004
 **Title**: ['Begriffsgeschichte' and Social History](zotero://open-pdf/library/items/VJG6WPIT?page=98)

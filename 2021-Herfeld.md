@@ -1,5 +1,6 @@
-
 # What empirical network analysis could offer to research in Integrated HPS – Catherine Herfeld (University of Zurich)
+#readingnote 
+
 
 ## DSDS Conference
 

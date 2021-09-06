@@ -1,4 +1,5 @@
 # thought-notes should have condensed titles and self-contained and referentiable content
+#conceptnote 
 
 ## the title
 - title should be a claim or, if question, a very specifc question. 
