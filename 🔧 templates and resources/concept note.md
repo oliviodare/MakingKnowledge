@@ -1,9 +1,6 @@
 # {what's the claim}
 #conceptnote
 
----
-Sources: 
-- 
 
 ---
 

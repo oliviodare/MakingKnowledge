@@ -1,3 +1,4 @@
+# The Protestant Ethic and the Spirit of Capitalism
 #readingnote 
 
 **Authors**: Weber
@@ -58,6 +59,7 @@ This is the immediate commentary of the long quotation of Benjamin Franklin, and
 <br>
 
 > And in truth this peculiar idea, so familiar to su to-day, but in reality so little a matter of course, of one's duty in a calling, is what is most characteristic of the social ehtic of capitalistic cutlure, and is ina sense the fundamental basis of it. (p19)
+
 <br>
 <br>
 
