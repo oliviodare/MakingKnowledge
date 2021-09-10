@@ -34,6 +34,11 @@ This authors are interested in describing the 'endargerment regime', a set of "p
 
 This book is about the historical emergence of the "endargerment sensibility", a certain collective perception of a wide array of entities in danger of destruction and extincition, and a certain preserving attitude to prevent this from happening.
 
+> a network of concepts, values and practices dealing with objects considered threatened by extinction and evanescence, and with the techniques aimed at preserving them
+
+A straight-forward definition of the '[[endargerment sensibility]]'.
+
+
 > Most societies seem not to have known anything analogous until recent times (see for example the overviews in McNeill and Mauldin 2012). It is nevertheless a basic principle of environmental history that humans have always transformed the “natural communities” to which they belong and that inhabited spaces are to a large measure shaped by human action (see for example Hughes 2009). It should therefore come as no surprise that environmental reflexivity and awareness of anthropogenic impact did not arise suddenly around the mid-20th century. Such reflexivity, however, was not the same as a sensibility dominated by a concern for endangerment.
 
 [The second part of the twentieth century is special and unique for the "reflexivity" and "sensibility" that arose among the scientific community and the general public](the%20second%20half%20of%20the%20twentieth%20century%20was%20unique%20in%20a%20rise%20in%20the%20collective%20environmental%20reflexivity%20and%20sensibility.md), however, this did not come out of the blue, and has a long history in the West. What follows is a short history of the endargerment sensibility, from Ancient Greece to the World War I.
