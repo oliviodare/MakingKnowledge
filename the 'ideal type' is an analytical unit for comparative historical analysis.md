@@ -1,4 +1,4 @@
-# The 'Ideal type' is an analytical unit for comparative historical analysis.
+# the 'Ideal type' is an analytical unit for comparative historical analysis.
 #conceptnote 
 
 

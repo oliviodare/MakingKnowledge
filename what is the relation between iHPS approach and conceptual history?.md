@@ -20,6 +20,6 @@ Sources:
 ---
 
 Related notes
-- [The 'Ideal type' is an analytical unit for comparative historical analysis.](The%20'Ideal%20type'%20is%20an%20analytical%20unit%20for%20comparative%20historical%20analysis..md)
+- [the 'ideal type' is an analytical unit for comparative historical analysis](the%20'ideal%20type'%20is%20an%20analytical%20unit%20for%20comparative%20historical%20analysis.md)
 - [☝️ biodiv--questions arising](☝️%20biodiv--questions%20arising.md)
 
