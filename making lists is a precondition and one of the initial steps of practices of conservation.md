@@ -1,4 +1,4 @@
-# making lists is a precondition and one of the inital steps of practices of conservation
+# making lists is a precondition and one of the initial steps of practices of conservation
 #conceptnote
 
 Making lists of those entities that are 'endangered' allows for the identification of value, and for the development of policies. 
