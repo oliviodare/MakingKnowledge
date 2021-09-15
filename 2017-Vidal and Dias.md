@@ -33,7 +33,7 @@ This authors are interested in describing the 'endangerment regime', a set of "p
 
 > we are interested in the emergence and features of the perception that vast portions of the human and non-human world are in danger of extinction or destruction: how, and in which contexts and circumstances, did the adjective “endangered” come to be so widely applied – to biological and cultural entities, to species and peoples, to languages and buildings? *That* perception is widespread and recurrent, and the historical overtones of “sensibility” capture some of its central features: a certain sentimental impulse, empathy extending to animals, landscapes and marginalized humans, as well as attention to one’s own affective experience.
 
-This book is about the historical emergence of the "endangerment sensibility", a certain collective perception of a wide array of entities in danger of destruction and extincition, and a certain preserving attitude to prevent this from happening.
+This book is about the historical emergence of the "endangerment sensibility", a certain collective perception of a wide array of entities in danger of destruction and extincition, and a certain preserving attitude to prevent this from happening. 
 
 > a network of concepts, values and practices dealing with objects considered threatened by extinction and evanescence, and with the techniques aimed at preserving them
 
