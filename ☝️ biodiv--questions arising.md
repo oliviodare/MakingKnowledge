@@ -21,10 +21,14 @@
 ---
 ## History
 
-### Synchronic, diachronic historical analysis?
+### Synchronic, diachronic historical analysis - definition and differences?
 According to [1989-Koselleck](1989-Koselleck.md), in the context of doing conceptual history:
 
 > **Diachrony**: study of *language* (and in more general terms, of a specific analytical category) through time, thorough several of historical contexts. This is the history of structure, and the conditions that allow for speech. This is the main interest of social and conceptual history.
 > **Synchrony**: study of *language*  (and as before, could refer here also of any specific analytic category) at a given historical point. This is the history of events, particulars, part of but not unique or main interest of social and conceptual history. 
+
+
+### Social network analysis used in historical epistemic networks
+- [how do the different dimensions in social network analysis map onto each other?](how%20do%20the%20different%20dimensions%20in%20social%20network%20analysis%20map%20onto%20each%20other?.md)
 
 
