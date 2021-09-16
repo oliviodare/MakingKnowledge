@@ -4,8 +4,7 @@
 
 ## Metadata
 
-
-|                |
+|        | |
 |:--------------|:-----------|
 | **Author**			| Curry     | 
 | **Year**				| 		2017	 | 
@@ -14,6 +13,16 @@
 | **Journal/Publisher**				| 	*Global Environment*		 | 
 | **Date read**				| 	31 Aug 2021	 | 
 | **Weblink**				| https://www.ingentaconnect.com/content/10.3197/ge.2017.100104		 | 
+
+Hello
+
+ Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
+
 **Take-home message**: The history of seed banks tells the paradoxical position of plant breeders and scientists. Their concers of diminshing crop diversity emerged in the context of plans for furthering an industrial approach to agriculture. The reflexivity of the knowledge about diversity, in this case, looks like this: the knowledge that helped create higher yield crops (i.e., industrial agriculture) is also the knowledge that contributes to the understanding that reliance on them is dangerous. In a larger, institutional sense, we see that the field of conservation and the process of industrialisation are entangled: the advancement of both depended on each other (industrial agriculture depended of on conservation activities and tools, and conservation activities were funded in the context of projects that aimed at developing agricultural practice into an industrial approach).
 
 
