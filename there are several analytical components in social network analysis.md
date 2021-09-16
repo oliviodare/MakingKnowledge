@@ -15,6 +15,8 @@
 | **Degree distribution of a network**			|  The probability distribution of degree over the entire network    | 
 | **Strong ties**			|  Relationships between nodes in a network, high degree of interaction, designed to hold in the long-term. Such connectivity is ensured by high investments (economic and social)   | 
 | **Weak ties**			|  Lower degrees of interaction, needs less investment, can dissipate quickly    | 
+| **Rich data**			|  Data characterised by a high number of attributes, heteregenous and refereing to multilevel relations, and highly contextualised, obtained (for instance) through "thick descriptions" of history   | 
+| **Poor data**			|  Data defined by low number of attributes, uncontextualised and not very refined   | 
 
 
 ### Two kinds of network
