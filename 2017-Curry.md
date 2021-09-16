@@ -10,7 +10,7 @@
 | **Year**				| 		2017	 | 
 | **Title**				| 	'Breeding uniformity and banking diversity: The genescapes of industrial agriculture, 1935-1970'		 | 
 | **Kind**				| Article	 | 
-| **Journal/Publisher**				| 	*Global Environment*		 | 
+| **Journal**				| 	*Global Environment*		 | 
 | **Date read**				| 	31 Aug 2021	 | 
 | **Weblink**				| https://www.ingentaconnect.com/content/10.3197/ge.2017.100104		 | 
 
