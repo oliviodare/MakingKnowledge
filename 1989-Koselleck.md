@@ -1,16 +1,22 @@
 # 'Social History and Conceptual History'
 #readingnote 
 
-**Authors**: Koselleck
-**Year**: 1989
-**Title**: [Social History and Conceptual History](zotero://open-pdf/library/items/QI5XY8WR)
-**Kind**: Article
-**Journal**: *Politics, Culture, and Society*
-**Date read**: Mar 2021
-**Tags**: #conceptualhistory #history #language #historiography #idealtypes
-**Take-home message**: 
+
+## Metadata
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Koselleck     | 
+| **Year**				| 	1989		 | 
+| **Title**				| 	'Social History and Conceptual History'		 | 
+| **Kind**				| Article	 | 
+| **Journal/Publisher**				| 	*Politics, Culture, and Society*		 | 
+| **Date read**				| 	Mar 2021	 | 
 
 ---
+
+## Reading notes
+
 
 > “It is otherwise for social and conceptual histories. From their theoretical self-foundation, there arises a general claim which can be extended and applied to all special histories. ” (Koselleck, 1989, p. 308)
 
