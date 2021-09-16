@@ -1,15 +1,18 @@
-# Biodiversity hotspots for conservation priorities
+# 'Biodiversity hotspots for conservation priorities'
 #readingnote 
 
 ## Metadata
 
-**Authors**: Myers, Russell Mittermeier, Cristina Mittermeier, da Fonseca, Kent
-**Year**: 2000
-**Title**: [Biodiversity hotspots for conservation priorities](zotero://open-pdf/library/items/5PQDA8XG)
-**Kind**: Article
-**Journal**: *Nature*
-**Date read**: Mar 2021
-**Tags**: #conservationbiology #biodiveristy #biodiversitymeasures #prioritization
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Myers, Russell Mittermeier, Cristina Mittermeier, da Fonseca, Kent     | 
+| **Year**				| 	2000		 | 
+| **Title**				| 	'Biodiversity hotspots for conservation priorities'		 | 
+| **Kind**				| Article | 
+| **Book**				| 	*Nature*		 | 
+| **Date read**				| 	Mar 2021	 | 
+
+
 **Take-home message**: This paper has an overview of the hotspots throughout the world. It may be a good starting point to look for case-studies, perhaps by comparing the situation between non-hotspot to hotspot. It has a very specific and pragmatic understanding of biodiversity, being open about its connection to funding, and the need for prioritization
 
 
