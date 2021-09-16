@@ -1,4 +1,4 @@
-# The Protestant Ethic and the Spirit of Capitalism
+# *The Protestant Ethic and the Spirit of Capitalism*
 #readingnote 
 
 ## Metadata
