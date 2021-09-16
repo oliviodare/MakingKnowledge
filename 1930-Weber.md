@@ -11,6 +11,7 @@
 | **Kind**				| Whole Book | 
 | **Journal/Publisher**				| 	Routledge		 | 
 | **Date read**				| 	Feb 2021	 | 
+
 **Take-home message**: The argument is pretty simple: protestantism (starting with Luther and the Calvin) set the ground for the establishment of an ethical paradigm to which capitalism is indebted. This paradigm contains: a method for self-discipline and tailoring human behaviour and though, a rationalist approach to the fullfilment of a God-given calling, and a negation of emotion and enjoyment as detrimental to that calling. 
 Aside the historical relevance of the book, I may also want to futher have a look at the historiographical and methodological contribution of Weber, namely it's approach to historical actors and analysis using 'ideal types', and the possible links of ideal types to to a conceptual history approach. 
 
