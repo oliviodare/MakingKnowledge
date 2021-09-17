@@ -1,21 +1,23 @@
 # Species as Gene Flow Communities. Werner Kunz: *Do Species Exist? Principles of Taxonomic Classification* (Weinheim: Wiley-Blackwell, 2012; ISBN 978-3-527-33207-6, xxxiii + 245 pp, €79.90)
 #readingnote 
 
-
-
 ## Metadata
-**Authors**: Reydon
-**Year**: 2013
-**Title**: [Species as Gene Flow Communities. Werner Kunz: *Do Species Exist? Principles of Taxonomic Classification* (Weinheim: Wiley-Blackwell, 2012; ISBN 978-3-527-33207-6, xxxiii + 245 pp, €79.90)](zotero://select/items/1_5VVWYSZ7)
-**Journal**: *Acta Biotheoretica*
-**Kind**: Book review
-**Date read**: Jan 2021
-**Tags**: #speciesproblem #philosophyofbiology #realism-antirealism
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Reydon     | 
+| **Year**				| 	2013		 | 
+| **Title**				| 	'Species as Gene Flow Communities. Werner Kunz: *Do Species Exist? Principles of Taxonomic Classification* (Weinheim: Wiley-Blackwell, 2012; ISBN 978-3-527-33207-6, xxxiii + 245 pp, €79.90)'		 | 
+| **Kind**				| Book Review| 
+| **Journal/Publisher**				| 	*Acta Biotheoretica*		 | 
+| **Date read**				| 	Jan 2021	 | 
+| **Weblink**				| 			 | 
+
 **Take-home message**: the debates in philosophy of biology, and specially, in regard to the #speciesproblem  are varied. In fact, [there is no one ‘species problem’ with a dichotomous solution](there%20is%20no%20one%20%E2%80%98species%20problem%E2%80%99%20with%20a%20dichotomous%20solution.md). There are at least two: the realism of species as a concept (is Nature ordered in species?) and the realism about a single definition of species (can we come up with a single definition of what counts as species?). The former seems to be more complex, of the latter, most people are pluralist.
 
 ---
 
-## Notes
+## Reading Notes
 
 Book apparently a good introduction to the philosophical issues of species. Meant for biologists to think philosophically.
 

@@ -4,14 +4,17 @@
 
 ## Metadata
 
-**Authors**: Samuel Moore, Cameron Neylon, Martin Paul Eve, Daniel Paul O’Donnell, Damian Pattinson
-**Year**: 2017
-**Title**: [“Excellence R Us”: university research and the fetishisation of excellence](zotero://open-pdf/library/items/EMTDEVEU)
-**Kind**: Article
-**Journal**: *Palgrave Communications*
-**Date read**: 11 Jun 2021
-**Tags**: #scientificgovernance #expertise #peerreview #metrics 
-**Take-home message**: 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Moore, Neylon, Eve, O’Donnell, Pattinson     | 
+| **Year**				| 	2017		 | 
+| **Title**				| 	'“Excellence R Us”: university research and the fetishisation of excellence'		 | 
+| **Kind**				| Article| 
+| **Journal/Publisher**				| 	*Palgrave Communications*		 | 
+| **Date read**				| 	11 Jun 2021	 | 
+| **Weblink**				| 			 | 
+
+**Take-home message**:
 
 ---
 

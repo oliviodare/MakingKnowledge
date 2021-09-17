@@ -1,4 +1,4 @@
-# 'Biodiversity hotspots for conservation priorities'
+# Biodiversity hotspots for conservation priorities
 #readingnote 
 
 ## Metadata

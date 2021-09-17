@@ -4,15 +4,16 @@
 
 ## Metadata
 
-**Authors**: Green, Andersen, Danielsen, Emmeche, Joas, Johansen, Nagayoshi, Witteveen, Sørensen
-**Year**: 2021
-**Title**: 'Adapting practice-based philosophy of science to teaching of science students'
-**Kind**: Article
-**Journal/Publisher**: *European Journal for Philosophy of Science*
-**Date read**: 19 Aug 2021
-**Tags**: #philosophyofscience #teaching 
-**Zotero link**: [](zotero link)
-**Weblink**: 10.1007/s13194-021-00393-2
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Green, Andersen, Danielsen, Emmeche, Joas, Johansen, Nagayoshi, Witteveen, Sørensen     | 
+| **Year**				| 	2021		 | 
+| **Title**				| 	'Adapting practice-based philosophy of science to teaching of science students'		 | 
+| **Kind**				| Article|
+| **Journal/Publisher**				| 	*European Journal for Philosophy of Science*		 | 
+| **Date read**				| 	19 Aug 2021 | 
+| **Weblink**				| 	http://doi.org/10.1007/s13194-021-00393-2		 | 
+
 **Take-home message**: Optimistic outlook on what is like to teach philosophy of science to science students of several discipline. Resourcefull, in the sense of being explicit about the attitude that teachers can have in order to get students involved. 
 
 ---

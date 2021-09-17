@@ -2,14 +2,16 @@
 
 ## Metadata
 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Fyfe, Coate, Curry, Lawson, Moxham, Røstvik     | 
+| **Year**				| 	2017		 | 
+| **Title**				| 	'Untangling Academic Publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research'		 | 
+| **Kind**				| Report | 
+| **Journal/Publisher**				| 	Zenodo		 | 
+| **Date read**				| 	Mar 2021	 | 
+| **Weblink**				| 			 | 
 
-**Authors**: Fyfe, Coate, Curry, Lawson, Moxham, Røstvik
-**Year**: 2017
-**Title**: [Untangling Academic Publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research](zotero://open-pdf/library/items/7FR5LWQJ)
-**Kind**: Report
-**Journal**: *Zenodo*
-**Date read**: Mar 2021
-**Tags**: #journalpublishing #publishing #historyofscience #OpenScience #peerreview #OpenAccess #capitalism 
 **Take-home message**: This paper hopes to understand the relation between prestige and open access, putting the emphasis on the role of commercial publishing houses in molding this relation to the point of having become indispensable partners in the research efforts as proxys of prestige. Argues for the difference (yet porous relation) between value-driven and profit-driven publishing. As well, it points to the historical continuities and discontinuities between the current tension between a non-commercial, older ethos of the gentelmanly-based scientific societies in which the current academic culture is still based on, and the commercial system for which they collaborate and do not benefit from (anymore) due to the decreased funding since 1970s yet the continuous growth of university research.
 
 

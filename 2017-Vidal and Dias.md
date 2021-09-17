@@ -4,18 +4,18 @@
 
 ## Metadata
 
-**Authors**: Vidal, Dias
-**Year**: 2016
-**Title**: 'Introduction: The Endangerment Sensibility'
-**Kind**: Book chapter
-**Book**: *Endangerment, Biodiversity and Culture*
-**Journal/Publisher**: *Routledge*
-**Date read**: 06 Sep 2021
-**Tags**: #biodiversity  
-**Zotero link**: [](zotero link)
-**Weblink**: https://www.routledge.com/Endangerment-Biodiversity-and-Culture/Vidal-Dias/p/book/9781138743564
-**Take-home message**: 
-It draws a history of the notion of ‘endangerment’ as central to the project of preserving diversity, and focuses the attention not only on biological but also in cultural diversity.
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Vidal, Dias     | 
+| **Year**				| 		2016	 | 
+| **Title**				| 	'Introduction: The Endangerment Sensibility'		 | 
+| **Kind**				| Book chapter | 
+| **Book**				| 	*Endangerment, Biodiversity and Culture*		 | 
+| **Journal/Publisher**				| 	Routledge		 | 
+| **Date read**				| 	06 Sep 2021	 | 
+| **Weblink**				| 		https://www.routledge.com/Endangerment-Biodiversity-and-Culture/Vidal-Dias/p/book/9781138743564 | 
+
+**Take-home message**: This book draws a history of the notion of ‘endangerment’ as central to the project of preserving diversity, and focuses the attention not only on biological but also in cultural diversity.
 
 They depart from the (generally held) claim that 'diversity' (both cultural and biological) is not a descriptive term, but one heavily embedded with values and politics. Their unique contribution is claiming that diversity is seens as valuable *because* it is at risk, and that its opposite force, endangerment, is "incorporated into its very definition."
 

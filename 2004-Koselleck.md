@@ -1,17 +1,23 @@
+# 'Begriffsgeschichte' and Social History
 #readingnote 
 
-**Authors**: Koselleck
-**Year**: 2004
-**Title**: ['Begriffsgeschichte' and Social History](zotero://open-pdf/library/items/VJG6WPIT?page=98)
-**Kind**: Book chapter
-**Publisher**: Columbia University Press
-**ISBN**: 978-0-231-12770-7
-**Date read**: Feb 2021
-**Tags**:  #conceptualhistory #history #historyofscience #language #historiography 
-**Take-home message**: 
+
+## Metadata
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Koselleck     | 
+| **Year**				| 		2004	 | 
+| **Title**				| 	'Begriffsgeschichte' and Social History'		 | 
+| **Kind**				|  Book chapter	 | 
+| **Book**				| 	*Futures Past. On the Semantics of Historical Time*		 | 
+| **Journal/Publisher**				|  Columbia University Press | 
+| **Date read**				| 	Feb 2021	 | 
+
 
 ---
 
+## Reading notes
 > "'Begriffsgeschichte' and Social History" ([Koselleck 2004:172](zotero://open-pdf/library/items/VJG6WPIT?page=98))
 
 Begriffsgeschichte = conceptual history ([note on p.172](zotero://open-pdf/library/items/VJG6WPIT?page=98))

@@ -4,16 +4,16 @@
 
 ## Metadata
 
-**Authors**: Hepburn and Andersen
-**Year**: 2021
-**Title**: Scientific Method
-**Kind**:Encyclopedia entry
-**Journal/Publisher**: *The Stanford Encyclopedia of Philosophy*
-**Date read**: 17 Aug 2021
-**Tags**: #scientificmethod #philosophy #knowledge #epistemicvirtues 
-**Zotero link**: [](zotero link)
-**Weblink**: https://plato.stanford.edu/entries/scientific-method/
-**Take-home message**: 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Hepburn and Andersen     | 
+| **Year**				| 		2021	 | 
+| **Title**				| 	'Scientific Method (Stanford Encyclopedia of Philosophy)'		 | 
+| **Kind**				| Encyclopedia entry| 
+| **Journal/Publisher**				| 	*The Stanford Encyclopedia of Philosophy*		 | 
+| **Date read**				| 	17 Aug 2021	 | 
+| **Weblink**				| 		https://plato.stanford.edu/entries/scientific-method/	 | 
+
 
 ---
 

@@ -2,20 +2,21 @@
 #readingnote 
 
 
-# Metadata
-**Authors**: Justus
-**Year**: 2010
-**Title**: [The diversities of biodiversity: James Maclaurin and Kim Sterelny: What is Biodiversity? The University of Chicago Press, Chicago, 2008, xii + 217 pp, US$ 24 PB](zotero://open-pdf/library/items/AXCBRAFX)
-**Kind**: Book review
-**Journal**: *Metascience*
-**Date read**: 2021-02-09
-**Tags**: #speciesproblem #biodiveristy #biodiversitymeasures #biodiversitysurrogates #philosophyofbiology 
-**Take-home message**: 
+## Metadata
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Justus     | 
+| **Year**				| 	2010		 | 
+| **Title**				| 	'The diversities of biodiversity: James Maclaurin and Kim Sterelny: What is Biodiversity? The University of Chicago Press, Chicago, 2008, xii + 217 pp, US$ 24 PB'		 | 
+| **Kind**				| Book review	 | 
+| **Journal/Publisher**				| 	*Metascience*		 | 
+| **Date read**				| 	09 Feb 2021	 | 
 
 
 ---
 
-# Highlights and Notes
+## Reading notes
 
 > "Helping rectify this, Maclaurin and Sterelny make a novel and valuable contribution to the growing scientifically oriented philosophical literature on biodiversity" ([Justus 2010:247](zotero://open-pdf/library/items/AXCBRAFX?page=1))
 

@@ -1,14 +1,19 @@
 # Book Review: Paul Warde, Libby Robbin and Sverker Sörlin The Environment – A History of the Idea
 #readingnote 
 
-**Authors**: Honeybun-Arnolda
-**Year**: 2019
-**Title**: [Book Review: Paul Warde, Libby Robbin and Sverker Sörlin The Environment – A History of the Idea](zotero://open-pdf/library/items/5GZRWRXD?)
-**Kind**: Book review
-**Journal**: *Public Understanding of Science*
-**Date read**: 2021-02-11
-**Tags**: #environmentalscience #conservationbiology 
-**Take-home message**:  Just a short book review on the book that I am reading.
+## Metadata
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Honeybun-Arnolda     | 
+| **Year**				| 			 | 
+| **Title**				| 	'Book Review: Paul Warde, Libby Robbin and Sverker Sörlin The Environment – A History of the Idea'		 | 
+| **Kind**				| Book review | 
+| **Journal/Publisher**				| 	*Public Understanding of Science*		 | 
+| **Date read**				| 	11 Feb 2021	 | 
+| **Weblink**				| 			 | 
+
+**Take-home message**: Just a short book review on the book that I am reading.
 
 
 ---

@@ -1,10 +1,19 @@
-**Authors**: Garnett and Christidis
-**Year**: 2017
-**Title**: [Taxonomy anarchy hampers conservation](zotero://open-pdf/library/items/MJSUN2UK?)
-**Journal**: *Nature News*
-**Kind**: Commentary Article
-**Date read**: 2021-02-08
-**Tags**: #conservationbiology #scientificgovernance #standarization #speciesproblem #biodiveristy 
+# Taxonomy anarchy hampers conservation
+#readingnote 
+
+
+## Metadata
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Garnett and Christidis     | 
+| **Year**				| 	2017		 | 
+| **Title**				| 	'Taxonomy anarchy hampers conservation'		 | 
+| **Kind**				| Commentary Article| 
+| **Journal/Publisher**				| 	*Nature News*		 | 
+| **Date read**				| 	08 Feb 2021	 | 
+| **Weblink**				| 			 | 
+
 **Take-home message**: This is one of the reference texts in the current debate, focused on the species problem and a lack of governance at the scientific level, in which scientists have too much freedom. Argues for standarisation mediated by the IUBS.
 
 ---

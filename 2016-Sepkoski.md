@@ -1,17 +1,21 @@
-# 'Extinction, diversity, and endangerment'
+# Extinction, diversity, and endangerment
 #readingnote 
 
 
 ## Metadata
 
-**Authors**: Sepkoski
-**Year**: 2016
-**Title**: 'Sepkoski'
-**Kind**: Book chapter
-**Book**: *Endangerment, Biodiversity and Culture*
-**Date read**: 15 Sep 2021
-**Weblink**: https://www.routledge.com/Endangerment-Biodiversity-and-Culture/Vidal-Dias/p/book/9781138743564
-**Take-home message**: 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Sepkoski     | 
+| **Year**				| 	2016		 | 
+| **Title**				| 	'Extinction, diversity, and endangerment'	 | 
+| **Kind**				| Book chapter	 | 
+| **Book**				| 	*Endangerment, Biodiversity and Culture*		 | 
+| **Journal/Publisher**				| 	Routledge		 | 
+| **Date read**				| 	15 Sep 2021	 | 
+| **Weblink**				| 	https://www.routledge.com/Endangerment-Biodiversity-and-Culture/Vidal-Dias/p/book/9781138743564		 | 
+
+**Take-home message**:
 
 ---
 

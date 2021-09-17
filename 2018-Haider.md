@@ -2,18 +2,19 @@
 #readingnote 
 
 
-
 ## Metadata
 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Haider     | 
+| **Year**				| 	2018		 | 
+| **Title**				| 	'Openness as Tool for Acceleration and Measurement: Reflections on Problem Representations Underpinning Open Access and Open Science'		 | 
+| **Kind**				| Article| 
+| **Journal/Publisher**				| 	*Open Divide. Critical Studies on Open Access*		 | 
+| **Date read**				| 	May 2021	 | 
+| **Weblink**				| 			 | 
 
-**Authors**: Jutta Haider
-**Year**: 2018
-**Title**: 	[Openness as Tool for Acceleration and Measurement: Reflections on Problem Representations Underpinning Open Access and Open Science](zotero://open-pdf/library/items/YA8JX2Q7)
-**Kind**: Article
-**Journal**: *Open Divide. Critical Studies on Open Access*
-**Date read**: May 2021
-**Tags**: #OpenAccess #OpenScience #metrics #scientificgovernance 
-**Take-home message**:  This article traces the history of the term 'open' through seminal pieces, manifestos, and reports about Open Access: the Budapest OA Initiatie (2001), Berlin Declaration (2003), the Finch report (2012), OA2020 Initiative (2015), and the European Commission’s 2016 publication on “Open innovation, open science, open to the world – a vision for Europe”. It traces several movements: 
+**Take-home message**: This article traces the history of the term 'open' through seminal pieces, manifestos, and reports about Open Access: the Budapest OA Initiatie (2001), Berlin Declaration (2003), the Finch report (2012), OA2020 Initiative (2015), and the European Commission’s 2016 publication on “Open innovation, open science, open to the world – a vision for Europe”. It traces several movements: 
 1. the **narrowing of the problem** that OA is trying to solve: from inequality in access to research to a reframing of the publishing bussiness model (i.e., establishing gold OA, forgetting diamond OA)
 2. the reframing of OA and OS concepts such as 'transparency' as **tools for accountability** of individual researchers,  
 3. the **flip of the role of the individual researcher** in the OS movement: from the driver of change with agency and responsibility to the object that needs to change and the subject of surveillance. The individual is has come to be seen as the obstacle for change

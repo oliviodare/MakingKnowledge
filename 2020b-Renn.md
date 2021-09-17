@@ -1,4 +1,4 @@
-# 'Epistemic Networks'
+# Epistemic Networks
 #readingnote 
 
 
@@ -67,6 +67,6 @@ The combined SNA and global history of knowledge evolutions suggested by Renn ha
 
 The idea of 'rich data', as multifaceted ("high number of attributes", "thick descriptions") data points, is very interesting, and serves as a way to justify and explain how SNA is able to track dynamic relations in between nodes and edges at levels of analysis with changing timescales. 
 
-> An intriguing feature of epistemic networks is their self-referential character, that is, the historical actors' realizations that they participate in a specific network activity may shape their thinking and acting, and  thus influence, in turn, the network activity itself. This realization can act as a turning point in the emergence of regulative structures operating on a network, as the examples of calendar reform and the renaissance of general relativity illustrate. It may be considered an acto of collective relfexivity. The understanding of such acts typically require a mixed approach: a combinatino of traditional scholarly analysis and interpretation with novel quantitiative methods directed at dealing with the complexity of the underlying interactions. 
+> An intriguing feature of epistemic networks is their self-referential character, that is, the historical actors' realizations that they participate in a specific network activity may shape their thinking and acting, and  thus influence, in turn, the network activity itself. This realization can act as a turning point in the emergence of regulative structures operating on a network, as the examples of calendar reform and the renaissance of general relativity illustrate. It may be considered an acto of collective relfexivity. The understanding of such acts typically require a mixed approach: a combination of traditional scholarly analysis and interpretation with novel quantitiative methods directed at dealing with the complexity of the underlying interactions. 
 
 Renn argues that SNA can shed light on how [[collective reflexivity can be a mechanism of regulation of (epistemic) social networks]]. He argues that *awareness* of belonging to a given network (e.g., to a collective identity or a given social strucutre with several labor-differentiation aimed at a particular goal) can modulate the network itself (by, for instance, strenghtening some social connections, or encouraging the pursuit of certain material or semiotic elements).  

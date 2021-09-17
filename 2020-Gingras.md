@@ -4,19 +4,23 @@
 
 ## Metadata
 
-**Authors**: Gringas
-**Year**: 
-**Title**: [The Transformation of the Scientific Paper: From Knoweldge to Accounting Unit](zotero://open-pdf/library/items/42KSYS5H?)
-**Kind**: Article Book review, Commentary Article, Webpage
-**Journal**: **
-**Date read**: Mar 2021
-**Tags**: #journalpublishing #OpenScience #publishing #scientificpaper #peerreview
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Gringas     | 
+| **Year**				| 			 | 
+| **Title**				| 	'The Transformation of the Scientific Paper: From Knoweldge to Accounting Unit'		 | 
+| **Kind**				| Article, Book review, Commentary Article, Webpage, Whole Book, Book chapter	 | 
+| **Book**				| 	*Gaming the Metrics: Misconduct and Manipulation in Academic Research*		 | 
+| **Journal/Publisher**				| 	The MIT Press		 | 
+| **Date read**				| 	Mar 2021	 | 
+| **Weblink**				| 	https://direct.mit.edu/books/book/4598/chapter/211130/The-Transformation-of-the-Scientific-Paper-From		 | 
+
+**Take-home message**:
+
 
 ---
 
-## Highlights and notes
-
-
+## Reading Notes
 
 > "Each of these three major processes (the internet revolution, the economic transformation of #journalpublishing, and the evaluation turn)" ([ 2020:2](zotero://open-pdf/library/items/42KSYS5H?page=2))
 
@@ -27,8 +31,6 @@ The three processes since the 1990s that provoked the ‘scholarly publishing cr
 > "In this chapter, I propose a global macrostructural analysis that aims at showing how these different transformations have become connected as a consequence of the transformation of the paper from a #knowledge unit to an accounting unit used to evaluate researchers and research organizations (departments, laboratories, and universities)" ([ 2020:2](zotero://open-pdf/library/items/42KSYS5H?page=2))
 
 main claim, as in [2020-Fernández Carro](2020-Fernández%20Carro.md) paper. ([note on p.2](zotero://open-pdf/library/items/42KSYS5H?page=2))
-
- 
 
 > "This cycle is premised on the fundamental but implicit idea that the scientific paper is the embodiment of what we can call a "unit of knowledge,"" ([ 2020:3](zotero://open-pdf/library/items/42KSYS5H?page=3))
 

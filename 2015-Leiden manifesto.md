@@ -4,18 +4,21 @@
 
 ## Metadata
 
-**Authors**: Diana Hicks, Paul Wouters, Ludo Waltman, Sarah de Rijcke, Ismael Rafols
-**Year**: 2015
-**Title**: [Bibliometrics: The Leiden Manifesto for research metrics](zotero://open-pdf/library/items/465ZD8U6)
-**Kind**: Manifesto
-**Journal**: *Nature*
-**Date read**: May 2021
-**Tags**: #publishing #expertise #scientificgovernance #metrics
-**Take-home message**:   The Leiden manifesto: 10 rules known by bibliometricians about how to avoid misuse of metrics and to allow professional expertise and judgment lead evaluation rather than data.
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Hicks, Wouters, Waltman, de Rijcke, Rafols     | 
+| **Year**				| 	2015		 | 
+| **Title**				| 	'Bibliometrics: The Leiden Manifesto for research metrics'		 | 
+| **Kind**				| Manifesto| 
+| **Journal/Publisher**				| 	*Nature*		 | 
+| **Date read**				| 	May 2021	 | 
+| **Weblink**				| 			 | 
+
+**Take-home message**: The Leiden manifesto: 10 rules known by bibliometricians about how to avoid misuse of metrics and to allow professional expertise and judgment lead evaluation rather than data.
 
 ---
 
-## Highlights and notes
+## Reading Notes
 
 > "The problem is that evaluation is now led by the data rather than by judgement.” (Hicks et al., 2015, p. 429)
 

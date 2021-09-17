@@ -4,17 +4,17 @@
 
 ## Metadata
 
-**Authors**: Yanai and Lercher
-**Year**: 2020
-**Title**: A hypothesis is a liability
-**Kind**: Commentary Article
-**Journal/Publisher**: *Genome Biology*
-**Date read**: 18 Aug 2021
-**Tags**: #scientificpaper #scientificmethod
-**Zotero link**: [](zotero link)
-**Take-home message**: 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Yanai and Lercher    | 
+| **Year**				| 	2020		 | 
+| **Title**				| 	'A hypothesis is a liability'		 | 
+| **Kind**				| Commentary Article	|
+| **Journal/Publisher**				| 	*Genome Biology*		 | 
+| **Date read**				| 	18 aUG 2021	 | 
+| **Weblink**				| 			 | 
 
-A good question for the students could be:  
+**Take-home message**: A good question for the students could be:  
 
 Despite a defence of exploratory science, does the article imply a specific hierarchy between exploratory and hypothesis-driven science? 
 

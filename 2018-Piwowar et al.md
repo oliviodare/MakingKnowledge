@@ -1,18 +1,20 @@
 # The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles
 #readingnote 
 
-
 ## Metadata
 
-**Authors**: Heather Piwowar, Jason Priem, Vincent Larivière, Juan Pablo Alperin, Lisa Matthias, Bree Norlander, Ashley Farley, Jevin West, Stefanie Haustein
-**Year**: 2018
-**Title**: [The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles](zotero://open-pdf/library/items/GJVW8FEC)
-**Kind**: Article
-**Journal**: *PeerJ*
-**Date read**: 27 May 2021
-**Tags**: #publishing #OpenAccess #scientificpaper
-**Take-home message**: There has been an strong growth in the amount of OA papers. Published-OA (new papers) are driven by Gold and Hybrid modes of OA, and Made-OA (older papers) are driven mostly by Bronze OA, an unofficial, 'shadow OA' mode (i.e., publishers give it for free without an explicit OA license)
-[[the proportion of OA papers has been progressively increasing since the 2000s]]
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Piwowar, Priem, Larivière, Alperin, Matthias, Norlander, Farley, West, Haustein     | 
+| **Year**				| 		2018	 | 
+| **Title**				| 	'The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles'		 | 
+| **Kind**				| Article | 
+| **Journal/Publisher**				| 	*PeerJ*		 | 
+| **Date read**				| 	27 May 2021	 | 
+| **Weblink**				| 			 | 
+
+**Take-home message**: There has been an strong growth in the amount of OA papers and [[the proportion of OA papers has been progressively increasing since the 2000s]]. Published-OA (new papers) are driven by Gold and Hybrid modes of OA, and Made-OA (older papers) are driven mostly by Bronze OA, an unofficial, 'shadow OA' mode (i.e., publishers give it for free without an explicit OA license)
+
 
 ---
 

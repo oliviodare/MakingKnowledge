@@ -2,22 +2,23 @@
 #readingnote 
 
 
-
 ## Metadata
 
-**Authors**: Robin
-**Year**: 2011
-**Title**: [The rise of the idea of biodiversity: crises, responses and expertise](zotero://open-pdf/library/items/MTCITMM2)
-**Kind**: Article
-**Journal**: *Quaderni. Communication, technologies, pouvoir*
-**Date read**: Feb 2021
-**Tags**: #biodiveristy #environmentalscience #conservationbiology 
-**Take-home message**:  Need to be re-read, seems to give a great summary of the politics of conservation biology.
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Robin     | 
+| **Year**				| 		2011	 | 
+| **Title**				| 	'The rise of the idea of biodiversity: crises, responses and expertise'		 | 
+| **Kind**				| Article	 | 
+| **Journal/Publisher**				| 	*Quaderni. Communication, technologies, pouvoir*		 | 
+| **Date read**				| 	Feb 2021	 | 
+| **Weblink**				| 			 | 
 
+**Take-home message**:
 
 ---
 
-# Highlight and Notes
+## Reading notes
 
 > "Biodiversity is a fundamental concept in global environmental management today. It is usually regarded as an ecological idea, but it is also a political idea and a tool for managing non-human nature" ([Robin 2011:26](zotero://open-pdf/library/items/MTCITMM2?page=2))
 

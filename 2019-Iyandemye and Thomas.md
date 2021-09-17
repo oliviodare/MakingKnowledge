@@ -4,13 +4,16 @@
 
 ## Metadata
 
-**Authors**: Jonathan Iyandemye, Marshall P. Thomas
-**Year**:  2019
-**Title**:  [Low income countries have the highest percentages of open access publication: A systematic computational analysis of the biomedical literature](zotero://open-pdf/library/items/B2282TIS)
-**Kind**: Article
-**Journal**: *PLoS ONE*
-**Date read**: 29 May 2021
-**Tags**: #OpenAccess #publishing #journalpublishing 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Iyandemye and Thomas     | 
+| **Year**				| 		2019	 | 
+| **Title**				| 	'Low income countries have the highest percentages of open access publication: A systematic computational analysis of the biomedical '		 | 
+| **Kind**				| Article| 
+| **Journal/Publisher**				| 	*PLoS ONE*		 | 
+| **Date read**				| 	29 May 2021	 | 
+| **Weblink**				| 			 | 
+
 **Take-home message**: I would not want to take policy advice from this paper. It's hard to generalise as it provides with a very narrow notion of published literature. It provides data with a weak, not very thought-through explanation. It argues that it's just a matter of the researchers doing the right thing (publishing in OA) because they know how important it is, which does not take into account fee-waivers or other structural facilitatators of OA publishing. 
 
 ---

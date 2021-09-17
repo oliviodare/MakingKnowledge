@@ -1,16 +1,17 @@
-# 'Defining 'Biodiversity'; Asessing Biodiveristy'
+# Defining 'Biodiversity'; Asessing Biodiveristy
 #readingnote 
 
 ## Metadata
 
-**Authors**: Sarkar
-**Year**: 2002
-**Title**: 'Defining 'Biodiversity'; Asessing Biodiveristy'
-**Kind**: Article
-**Journal/Publisher**: *The Monist*
-**Date read**: Feb 2021
-**Zotero link**: [zotero](zotero://open-pdf/library/items/ILMRXW5S?)
-**Weblink**: 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Sarkar     | 
+| **Year**				| 	2002		 | 
+| **Title**				| 	'Defining 'Biodiversity'; Asessing Biodiveristy'		 | 
+| **Kind**				| Article | 
+| **Journal/Publisher**				| 	*The Monist*		 | 
+| **Date read**				| 	Feb 2021	 | 
+
 **Take-home message**: This seems to be one of the seminal conceptual papers on biodiversity. I apprecieate that  it is philosophically attentive, and in fact, quite dense at times. It marries conceptual clarification with the inherent practical (and sociopolitical, towards the end) implications of conservation biology. It proposes several ways of conceptualising and measuring diversity, with two main theoretical constructs: true surrogates of biodiversity, and estimator surrogates. 
 
 ---

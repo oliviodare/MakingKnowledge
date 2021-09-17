@@ -4,19 +4,22 @@
 
 ## Metadata
 
-**Authors**: Linquist, Varner, Newman
-**Year**: 2020
-**Title**: [Precis of defending biodiversity](zotero://select/items/1_5H8SFDKT)
-**Kind**: Book review
-**Journal**: *Biology & Philosophy*
-**Date read**: 2021-02-10
-**Tags**: #biodiveristy #environmentalscience #conservationbiology #environmentalphilosophy #instrumental-vs-intrinsic-arguments
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Linquist, Varner, Newman     | 
+| **Year**				| 	2020		 | 
+| **Title**				| 	'Precis of defending biodiversity'		 | 
+| **Kind**				| Book review|
+| **Journal/Publisher**				| 	*Biology & Philosophy*		 | 
+| **Date read**				| 	10 Feb 2021	 | 
+| **Weblink**				| 			 | 
+
 **Take-home message**: In this auto-review, the authors outline the arguments of their 2007 book, *Defending biodiversity: environmental science and ethics*. What I find it worth is is 1: the expected miscommunication and cherry-picking between environmental scientists and environmental philosophers; but more importantly, the book may serve as a good framework of the arguments for the defence of biodiversity to analyse historically. The arguments are divided in two: instrumental and instrinsic, which seems to be a major axis in the debate. Instrumental arguments are ecosystem stability and functioning, provision of food, fibers and medicines (bioprospecting), and nature-based tourism. Intrinsic arguments (which are less clear to me) are: animal rights and environmentalism, land-ethic eco-holism, and aesthetic values. 
 
 
 ---
 
-## Highlights and Notes
+## Reading Notes
 
 > "Defending Biodiversity (Newman et al. 2017) can be regarded as something of a brush-clearing exercise and is therefore bound to upset those who are satisfied with the current landscape in environmental science and philosophy, muddy and overgrown in places as it might be." ([Linquist et al 2020:14](zotero://open-pdf/library/items/EIFLFANT?page=1))
 

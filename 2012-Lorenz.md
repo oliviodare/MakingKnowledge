@@ -1,13 +1,17 @@
 # If You're So Smart, Why Are You under Surveillance? Universities, Neoliberalism, and New Public Management
+#readingnote 
+
 ## Metadata
 
-**Authors**: Lorenz 
-**Year**: 2012
-**Kind**: Article
-**Journal**: *Critical Inquiry*
-**Date read**: Mar 2021
-**Tags**: #capitalism #historyofscience #expertise #OpenScience #sociology 
-**Take-home message**: 
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| Lorenz     | 
+| **Year**				| 	2012		 | 
+| **Title**				| 	'If You're So Smart, Why Are You under Surveillance? Universities, Neoliberalism, and New Public Management'		 | 
+| **Kind**				| Article| 
+| **Book**				| 	*Critical Inquiry*		 | 
+| **Journal/Publisher**				| 	**		 | 
+| **Date read**				| 	Mar 2021	 | 
 
 ---
 
