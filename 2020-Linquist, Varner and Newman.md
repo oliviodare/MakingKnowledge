@@ -77,7 +77,7 @@ INTERESTING! ([note on p.17](zotero://open-pdf/library/items/EIFLFANT?page=4))
 
 > "The final argument we explore appeals to aesthetic values" ([Linquist et al 2020:17](zotero://open-pdf/library/items/EIFLFANT?page=4))
 
-To review, intrinsic arguments for defending biodiversity are: animal rights and environmentalism, land-ethic eco-holism, and aesthetic values.  ([note on p.17](zotero://open-pdf/library/items/EIFLFANT?page=4))
+To review, intrinsic arguments for defending biodiversity are: animal rights and environmentalism, land-ethic eco-holism, and aesthetic values. [what are the different ideal type approaches to Nature in conservation biology and related fields?](what%20are%20the%20different%20ideal%20type%20approaches%20to%20Nature%20in%20conservation%20biology%20and%20related%20fields?.md).  ([note on p.17](zotero://open-pdf/library/items/EIFLFANT?page=4))
 
 > "In a nutshell, our position on aesthetic value echoes the conclusion we arrive at for every other argument in our book: it provides a fairly strong defense of at least some species or regions, but is by no means a blanket defense for conserving biodiversity on the whole." ([Linquist et al 2020:17](zotero://open-pdf/library/items/EIFLFANT?page=4))
 
