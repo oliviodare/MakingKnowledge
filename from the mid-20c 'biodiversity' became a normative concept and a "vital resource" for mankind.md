@@ -12,3 +12,5 @@ The revalorisation of the concept of 'biodiversity' was tight together with new 
 
 
 
+Charles S. Elton was one of those who, already in the 1950s, conceptualised 'diversity' in the new light:
+> Elton's final chapter [in _The Ecology of Invasions by Animals and Plants_], "The Conservation of Variety", reveals his ecologist's slant on the world. He is not concerned with individual species, so much the fouc of conservation efforts then and later. Rather, he is interest in a forerunner of biodiversity, "ecological variety", which he treats as a concrete entity requiring our concern and protection. What counts is the dynamics of the ecological community, the innumerable complex interactions that keep systems stable. The ideal state of nature is diverse wilderness, epitomized by the tropic rain forest. (p.24, [1996-Takacs](1996-Takacs.md))

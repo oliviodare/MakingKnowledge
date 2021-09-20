@@ -105,7 +105,7 @@ For the most part, the preservation of biodiversity arises from a "pragmatic and
 
 > the prevalent attitude has become increasingly pragmatic.
 
-[[The has been a movement towards pragmatism in the history of environmentalism]].
+[[there has been a movement towards pragmatism in the history of environmentalism]].
 
 > While earlier conservation sensibilities responded to perceived perils, they were sustained by visions of material and moral progress. The global preoccupation with biocultural diversity, in contrast, embodies a sensibility that is saturated with endangerment.
 
