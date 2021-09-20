@@ -12,8 +12,3 @@ The scientific reflexivity, in this specific context is:
 2. the implementation of 'the good' crop threatens that diversity.
 
 
----
-
-Related notes
-- 
-

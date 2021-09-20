@@ -5,8 +5,6 @@ Given all my [case studies](biodiv--cases%20to%20study.md) under consideration, 
 
 The most interesting cases will be those that sit in the middel between **highly technical and scientific** on the one side and **purely affective** on the other.
 
-[short](1930-Weber.md)
-
 Parallelly, I may want to ask whether all my case studies cover *all* of the 'biodiversity' landscape, and whether my picked [ideal types](the%20'ideal%20type'%20is%20an%20analytical%20unit%20for%20comparative%20historical%20analysis.md) cases reflect a represenative sample (and if so, *which* sample).
 
 

@@ -5,8 +5,4 @@
 
 This insight from Renn's perspective on SNA and his theory for the history of knowledge evolution may shed some light onto my question of [what is the late-modern concept of 'reflexivity'?](what%20is%20the%20late-modern%20concept%20of%20'reflexivity'?.md).
 
----
-
-Related notes
-- 
 

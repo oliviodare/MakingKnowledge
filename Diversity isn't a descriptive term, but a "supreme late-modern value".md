@@ -8,8 +8,5 @@ From [2017-Vidal and Dias](2017-Vidal%20and%20Dias.md), where they argue that "d
 - another movement of late modern knowledge practices as being able to assess then risk and pose solutions to the loss of diversity (risk assessment).
 
 
----
 
-Related notes
-- 
 
