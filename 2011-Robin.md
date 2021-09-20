@@ -12,7 +12,7 @@
 | **Kind**				| Article	 | 
 | **Journal/Publisher**				| 	*Quaderni. Communication, technologies, pouvoir*		 | 
 | **Date read**				| 	Feb 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 	https://doi.org/10.4000/quaderni.92		 | 
 
 **Take-home message**:
 

@@ -11,7 +11,7 @@
 | **Kind**				| Article | 
 | **Journal/Publisher**				| 	*PeerJ*		 | 
 | **Date read**				| 	27 May 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 	https://doi.org/10.7717/peerj.4375		 | 
 
 **Take-home message**: There has been an strong growth in the amount of OA papers and [[the proportion of OA papers has been progressively increasing since the 2000s]]. Published-OA (new papers) are driven by Gold and Hybrid modes of OA, and Made-OA (older papers) are driven mostly by Bronze OA, an unofficial, 'shadow OA' mode (i.e., publishers give it for free without an explicit OA license)
 

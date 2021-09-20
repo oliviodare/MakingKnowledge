@@ -9,9 +9,9 @@
 | **Year**				| 		2019	 | 
 | **Title**				| 	'In Defence of Taxonomic Governance'		 | 
 | **Kind**				| Article| 
-| **Journal/Publisher**				| 	**		 | 
+| **Journal/Publisher**				| 	*Organisms Diversity & Evolution*		 | 
 | **Date read**				| 	Jan 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| https://doi.org/10.1007/s13127-019-00391-6			 | 
 
 **Take-home message**:
 

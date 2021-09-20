@@ -12,7 +12,7 @@
 | **Kind**				| Book review|
 | **Journal/Publisher**				| 	*Biology & Philosophy*		 | 
 | **Date read**				| 	10 Feb 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 	https://doi.org/10.1007/s10539-019-9722-y		 | 
 
 **Take-home message**: In this auto-review, the authors outline the arguments of their 2007 book, *Defending biodiversity: environmental science and ethics*. What I find it worth is is 1: the expected miscommunication and cherry-picking between environmental scientists and environmental philosophers; but more importantly, the book may serve as a good framework of the arguments for the defence of biodiversity to analyse historically. The arguments are divided in two: instrumental and instrinsic, which seems to be a major axis in the debate. Instrumental arguments are ecosystem stability and functioning, provision of food, fibers and medicines (bioprospecting), and nature-based tourism. Intrinsic arguments (which are less clear to me) are: animal rights and environmentalism, land-ethic eco-holism, and aesthetic values. 
 

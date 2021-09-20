@@ -12,7 +12,7 @@
 | **Kind**				| Article| 
 | **Journal/Publisher**				| 	*Open Divide. Critical Studies on Open Access*		 | 
 | **Date read**				| 	May 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 	https://portal.research.lu.se/portal/files/42547513/haider_openscience_2.pdf		 | 
 
 **Take-home message**: This article traces the history of the term 'open' through seminal pieces, manifestos, and reports about Open Access: the Budapest OA Initiatie (2001), Berlin Declaration (2003), the Finch report (2012), OA2020 Initiative (2015), and the European Commission’s 2016 publication on “Open innovation, open science, open to the world – a vision for Europe”. It traces several movements: 
 1. the **narrowing of the problem** that OA is trying to solve: from inequality in access to research to a reframing of the publishing bussiness model (i.e., establishing gold OA, forgetting diamond OA)

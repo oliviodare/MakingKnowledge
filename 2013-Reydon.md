@@ -11,7 +11,7 @@
 | **Kind**				| Book Review| 
 | **Journal/Publisher**				| 	*Acta Biotheoretica*		 | 
 | **Date read**				| 	Jan 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 	https://doi.org/10.1007/s10441-013-9198-0		 | 
 
 **Take-home message**: the debates in philosophy of biology, and specially, in regard to the #speciesproblem  are varied. In fact, [there is no one ‘species problem’ with a dichotomous solution](there%20is%20no%20one%20%E2%80%98species%20problem%E2%80%99%20with%20a%20dichotomous%20solution.md). There are at least two: the realism of species as a concept (is Nature ordered in species?) and the realism about a single definition of species (can we come up with a single definition of what counts as species?). The former seems to be more complex, of the latter, most people are pluralist.
 

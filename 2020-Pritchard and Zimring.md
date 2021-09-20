@@ -11,7 +11,7 @@
 | **Kind**				| Book|
 | **Journal/Publisher**				| 	Johns Hopkins University Press		 | 
 | **Date read**				| 	10 Mar 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 		https://jhupbooks.press.jhu.edu/title/technology-and-environment-history	 | 
 
 **Take-home message**: This is a thin, broad, and introductory texto to "environtech", a historical approach combining (mostly) both insights from the history of technoloy and environmental history. The words that resonate are "scale", the "interconnectivity" of human and non-human systems, the politics of naming things as "environmental", "natural", or "technological". What the authors emphasize strongly is that the boundaries between technology and nature are not only unclear, but ***porous***, drawing an attention not just to how classification is problematic, but towards the causal  action between one and the ohter: it's not just "more complicated than that", but actually making an effort in describing how, when, and which parts of nature and technology exactly interact. 
 

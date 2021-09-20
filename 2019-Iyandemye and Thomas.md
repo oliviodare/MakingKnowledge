@@ -12,7 +12,7 @@
 | **Kind**				| Article| 
 | **Journal/Publisher**				| 	*PLoS ONE*		 | 
 | **Date read**				| 	29 May 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 	  https://doi.org/10.1371/journal.pone.0220229 | 
 
 **Take-home message**: I would not want to take policy advice from this paper. It's hard to generalise as it provides with a very narrow notion of published literature. It provides data with a weak, not very thought-through explanation. It argues that it's just a matter of the researchers doing the right thing (publishing in OA) because they know how important it is, which does not take into account fee-waivers or other structural facilitatators of OA publishing. 
 

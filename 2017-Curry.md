@@ -12,7 +12,7 @@
 | **Kind**				| Article	 | 
 | **Journal**				| 	*Global Environment*		 | 
 | **Date read**				| 	31 Aug 2021	 | 
-| **Weblink**				| https://www.ingentaconnect.com/content/10.3197/ge.2017.100104		 | 
+| **Weblink**				| https://doi.org/10.3197/ge.2017.100104		 | 
 
 **Take-home message**: The history of seed banks tells the paradoxical position of plant breeders and scientists. Their concers of diminshing crop diversity emerged in the context of plans for furthering an industrial approach to agriculture. There is a phenomenon of social reflexivity going on (that helps answer the question of [what is the late-modern concept of 'reflexivity'?](what%20is%20the%20late-modern%20concept%20of%20'reflexivity'?.md)): scientists have knowledge about crop diversity, a kind of knowledge that helped them create higher-yield crops for use in industrial agriculture. This knowledge about diversity is also that which contributes to their understanding that the reliance on this higher-yield monoculture is risky and that itself contributes to a diminshed crop diversity. In a larger, institutional sense, we see that the field of conservation and the process of industrialisation are entangled in through a similar mechanism: the advancement of both (seed conservation & industrial agriculture) depended on each other (industrial agriculture depended of on conservation activities and tools, and conservation activities were funded in the context of projects that aimed at developing agricultural practice into an industrial approach).
 

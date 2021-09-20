@@ -12,7 +12,7 @@
 | **Kind**				| Manifesto| 
 | **Journal/Publisher**				| 	*Nature*		 | 
 | **Date read**				| 	May 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| https://doi.org/10.1038/520429a			 | 
 
 **Take-home message**: The Leiden manifesto: 10 rules known by bibliometricians about how to avoid misuse of metrics and to allow professional expertise and judgment lead evaluation rather than data.
 

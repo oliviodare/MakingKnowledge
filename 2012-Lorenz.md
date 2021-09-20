@@ -9,9 +9,9 @@
 | **Year**				| 	2012		 | 
 | **Title**				| 	'If You're So Smart, Why Are You under Surveillance? Universities, Neoliberalism, and New Public Management'		 | 
 | **Kind**				| Article| 
-| **Book**				| 	*Critical Inquiry*		 | 
-| **Journal/Publisher**				| 	**		 | 
+| **Journal/Publisher**				| 	*Critical Inquiry*		 | 
 | **Date read**				| 	Mar 2021	 | 
+| **Weblink**				| 	https://doi.org/10.1086/664553	 | 
 
 ---
 

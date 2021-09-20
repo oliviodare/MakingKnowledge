@@ -11,6 +11,7 @@
 | **Kind**				| Article | 
 | **Book**				| 	*Nature*		 | 
 | **Date read**				| 	Mar 2021	 | 
+| **Weblink** | https://doi.org/10.1038/35002501 |
 
 
 **Take-home message**: This paper has an overview of the hotspots throughout the world. It may be a good starting point to look for case-studies, perhaps by comparing the situation between non-hotspot to hotspot. It has a very specific and pragmatic understanding of biodiversity, being open about its connection to funding, and the need for prioritization

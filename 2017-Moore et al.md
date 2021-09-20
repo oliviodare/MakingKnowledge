@@ -12,7 +12,7 @@
 | **Kind**				| Article| 
 | **Journal/Publisher**				| 	*Palgrave Communications*		 | 
 | **Date read**				| 	11 Jun 2021	 | 
-| **Weblink**				| 			 | 
+| **Weblink**				| 	https://doi.org/10.1057/palcomms.2016.105	 | 
 
 **Take-home message**:
 
