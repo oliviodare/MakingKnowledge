@@ -65,7 +65,7 @@ In this case, there seems to be a *partial* mapping of Renns' and Takac's catego
 
 **Aldo Leopold (1887–1948)**
 
-<img style="float: left;" width="300" src="https://baynature.org/wp-content/uploads/2013/03/Aldo-Leopold-photo_2.jpg"> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![Aldo | 300](https://baynature.org/wp-content/uploads/2013/03/Aldo-Leopold-photo_2.jpg)
 
 > Aldo Leopold (1887-1948) was a forester, game manager, wild-life ecologist, hunter, philosopher, and writer.<sup>5</sup> Prominent environmental historians and philosophers have mined Leopold's writings, which offer a rich lode for (sometimes contradictory) exegesis.<sup>6</sup> (p. 11)
 
