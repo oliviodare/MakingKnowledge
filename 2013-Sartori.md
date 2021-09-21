@@ -1,5 +1,6 @@
 # Alien species – biodiversity’s ticking time bomb?
 #casestudies 
+#readingnote 
 
 
 ## Metadata
@@ -52,7 +53,7 @@ Potential person of interest: Janez Potočnik.
 
 > About 10-15% of all alien species in Europe are indeed invasive, meaning that they establish, **spread and cause harm to the native biodiversity** and also to human health and our ecosystem services.
 
-This is the key worry: harming the 'native biodiversity', a concept that not only has the  [conceptual flexibility of *biodiversity*](where%20can%20conceptual%20ambiguity%20of%20'biodiveristy'%20come%20from?.md) but adds on another dimension of ambiguity: what counts as *native* biodiversity (i.e., what counts as *native* species). And a very interesting question: ['Do non-native species count as biodiversity?'](https://www.iucn.org/crossroads-blog/201812/do-non-native-species-count-biodiversity).
+This is the key worry: harming the 'native biodiversity', a concept that not only has the  [conceptual flexibility of *biodiversity*](where%20can%20conceptual%20ambiguity%20of%20'biodiveristy'%20come%20from?.md) but adds on another dimension of ambiguity: what counts as *native* biodiversity (i.e., what counts as *native* species). And a very interesting question: ['Do non-native species count as biodiversity?'](2018-Simberloff.md).
 
 > ”Invasive Alien Species know no boundaries”, the Commissioner stated and suggested that Europe needs guiding principles to solve the problem.
 
@@ -75,7 +76,7 @@ And odd link to 'citizen science' – how can individual people "in their home" 
 
 A powerful representation of 'invasive species':
 
-![AltText | 450](https://www.birdlife.org/sites/default/files/styles/full_1140x550/public/john_anderson_gannet_mink_rspbjpg_1_0_0.jpg?itok=DFkY8MNu)
+![A powerful representation of 'invasive species' | 750](https://www.birdlife.org/sites/default/files/styles/full_1140x550/public/john_anderson_gannet_mink_rspbjpg_1_0_0.jpg?itok=DFkY8MNu)
 
 
 From [BirdLife](https://www.birdlife.org/invasive-species)
