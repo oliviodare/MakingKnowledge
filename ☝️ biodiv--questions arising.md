@@ -7,7 +7,7 @@
 ### Biodiversity
 - [are all 'biodiversity' cases worthwhile studying?](are%20all%20'biodiversity'%20cases%20worthwhile%20studying?.md)
 - [how does the temporal dimension mediate understandings of biodiversity?](how%20does%20the%20temporal%20dimension%20mediate%20understandings%20of%20biodiversity?.md)
-- [where can conceptual flexibility of 'biodiveristy' come from?](where%20can%20conceptual%20flexibility%20of%20'biodiveristy'%20come%20from?.md)
+- [where can conceptual ambiguity of 'biodiveristy' come from?](where%20can%20conceptual%20ambiguity%20of%20'biodiveristy'%20come%20from?.md)
 
 ### Classification and red lists
 - [how are classification systems used, by who?](how%20are%20classification%20systems%20used,%20by%20who?.md)
@@ -49,6 +49,7 @@ According to [1989-Koselleck](1989-Koselleck.md), in the context of doing concep
 
 ### Late modern concepts
 - [what is the late-modern concept of 'reflexivity'?](what%20is%20the%20late-modern%20concept%20of%20'reflexivity'?.md)
+- [what is the late-modern concept of 'risk'?](what%20is%20the%20late-modern%20concept%20of%20'risk'?.md)
 
 
 

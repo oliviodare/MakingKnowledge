@@ -11,5 +11,5 @@ Philogenetic Species Concept: this is a diachronic definiton of species, that sp
 ---
 
 Related notes
-- [where can conceptual flexibility of 'biodiveristy' come from?](where%20can%20conceptual%20flexibility%20of%20'biodiveristy'%20come%20from?.md)
+- [where can conceptual ambiguity of 'biodiveristy' come from?](where%20can%20conceptual%20ambiguity%20of%20'biodiveristy'%20come%20from?.md)
 

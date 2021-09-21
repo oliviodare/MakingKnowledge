@@ -1,4 +1,4 @@
-# where can conceptual flexibility of 'biodiveristy' come from?
+# where can conceptual ambiguity of 'biodiveristy' come from?
 #conceptnote 
 
 Biodiversity both means different things and is measured in different ways. This flexibility can come from:

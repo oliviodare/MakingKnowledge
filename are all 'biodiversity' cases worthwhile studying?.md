@@ -1,7 +1,7 @@
 # are all 'biodiversity' cases worthwhile studying?
 #conceptnote
 
-Given all my [case studies](biodiv--cases%20to%20study.md) under consideration, I may need to think about whether all cases where they talk about 'biodiversity' are interesting. The concept is used for marketting and political reasons in ways in which researching it may be poorly informative. It may be important setting a limit to the kind of cases I use, trying to exclude those where 'biodiversity' is used in a purely affective manner. Therfore there may be some [ideal types of 'biodiversity'](biodiv--ideal%20types%20of%20case-studies.md) that are not productive. 
+Given all my [case studies](🌱%20biodiv--cases%20to%20study.md) under consideration, I may need to think about whether all cases where they talk about 'biodiversity' are interesting. The concept is used for marketting and political reasons in ways in which researching it may be poorly informative. It may be important setting a limit to the kind of cases I use, trying to exclude those where 'biodiversity' is used in a purely affective manner. Therfore there may be some [ideal types of 'biodiversity'](🌱%20biodiv--ideal%20types%20of%20case-studies.md) that are not productive. 
 
 The most interesting cases will be those that sit in the middel between **highly technical and scientific** on the one side and **purely affective** on the other.
 
