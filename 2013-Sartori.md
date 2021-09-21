@@ -74,12 +74,10 @@ And odd link to 'citizen science' – how can individual people "in their home" 
 ---
 
 A powerful representation of 'invasive species':
+![Ehrenfeld | 300](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwhitepineprograms.org%2Fwp-content%2Fuploads%2F2020%2F01%2FJoan-and-David-300x300.png&f=1&nofb=1)
+
 
 ![AltText | 750](https://www.birdlife.org/sites/default/files/styles/full_1140x550/public/john_anderson_gannet_mink_rspbjpg_1_0_0.jpg?itok=DFkY8MNu)
-
-
-<img title="a title" alt="Alt text" src="https://www.birdlife.org/sites/default/files/styles/full_1140x550/public/john_anderson_gannet_mink_rspbjpg_1_0_0.jpg?itok=DFkY8MNu">
-
 
 
 From [BirdLife](https://www.birdlife.org/invasive-species)
