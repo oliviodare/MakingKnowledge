@@ -50,7 +50,7 @@ According to [1989-Koselleck](1989-Koselleck.md), in the context of doing concep
 ### Late modern concepts
 - [what is the late-modern concept of 'reflexivity'?](what%20is%20the%20late-modern%20concept%20of%20'reflexivity'?.md)
 - [what is the late-modern concept of 'risk'?](what%20is%20the%20late-modern%20concept%20of%20'risk'?.md)
-
+- [what is weakly vs strongly contextualized knowledge?](what%20is%20weakly%20vs%20strongly%20contextualized%20knowledge?.md) (from chapters in *Rethinking science : knowledge and the public in an age of uncertainty*)
 
 
 

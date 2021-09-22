@@ -15,6 +15,7 @@ The disciplines that contributed to this new lense on 'extinction' were:
 
 This new view on 'biodiversity' contributed to the rise of the '[endangerment sensibility](endangerment%20sensibility)'. See more about the larger cultural context in: [the second half of the twentieth century was unique in a rise in the collective environmental reflexivity and sensibility](the%20second%20half%20of%20the%20twentieth%20century%20was%20unique%20in%20a%20rise%20in%20the%20collective%20environmental%20reflexivity%20and%20sensibility.md).
 
+Major titles in ecology seem to support Sepkoski's thesis: Norman Myers's *The Sinking Ark: A New Look at the Problem of Disappearing Species* and Paul and Anne Ehrlich's *Extincition: The Causes and Consequences of the Dissappearance of Species*.
 
 ## A seeming contradiction.
 

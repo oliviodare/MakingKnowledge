@@ -10,7 +10,7 @@ The legal "culmination" of biologists and concerned public pushing for the recog
 
 ## 1986, National Forum on BioDiversity
 Sometimes called the "first conference on biodiversity" ([[2016-Sepkoski]]).
-24 September 1986, forum held in Washington, D.C. and organised by Walter G. Rosen and E.O. Wilson.
+21-24 September 1986, forum held in Washington, D.C., organised by Walter G. Rosen and E.O. Wilson, and sponsored by the Smithsonian Institution and the National Academy of Sciences ([1996-Takacs](1996-Takacs.md), p. 35). See [A section on the history of the Washington conference on BioDiversity](1996-Takacs.md#A%20section%20on%20the%20history%20of%20the%20Washington%20conference%20on%20BioDiversity). Attended by about 14,000 people ([1996-Takacs](1996-Takacs.md), 38).
 
 According to [2002-Sarkar](2002-Sarkar.md), Rosen coined the neologism 'biodiversity'. By Sarkar's account, this forum marked the beginning of the new interdisciplinary field "dedicated to the conservation of biological diversity", and also tied to the 1985 "manifesto" of the discipline by Soulé ([1985-Soulé](1985-Soulé.md)).
 

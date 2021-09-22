@@ -1,12 +1,18 @@
 # biodiversity is not an analytic concept but a political motivation
 #conceptnote 
 
-- What do I mean by analytic concept?
-- What do I mean by 'political'?
+The idea is quite obvious when looking at the historical actors themselves. In [1996-Takacs](1996-Takacs.md) (p. 38) we see that Dan Janzen, one of the attendees of the [1986 National Forum on BioDiversity](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1986%20National%20Forum%20on%20BioDiversity), recalls that event as "an explicit political event, explicitly designed to make Congresss aware of this complexity of species that we're losing."
 
-In the context of the 1980s environmental crisis, 'biodiversity' arose 
+## Some clarifications
+### What do I mean by 'analytic concept'?
+- Analysis understood as a value-free descriptive tool, here refering grossly to 'science'. See [the value of 'biodiversity' is not given by science](the%20value%20of%20'biodiversity'%20is%20not%20given%20by%20science.md).
 
-While the title of this note is true, we must take into account the shifting changes in meaning. It seems as though [diversity is at the core of conservation biology but its meanings have changed](diversity%20is%20at%20the%20core%20of%20conservation%20biology%20but%20its%20meanings%20have%20changed.md), and that there has been a shift from seeing 'biodiversity' as an unjustifiable preference towards seeing it as a scientific concept.
+### What do I mean by 'political'?
+- 'Political' both as understdood by the historical actors themselves (see below, Janzen) and as an analytic category ('politics' as the practice of managing resources for and in a population)
+
+
+
+
 
 
 
