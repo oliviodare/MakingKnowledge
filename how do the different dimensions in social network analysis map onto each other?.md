@@ -1,7 +1,7 @@
 # how do the different dimensions in social network analysis map onto each other?
 #conceptnote
 
-Taking SNA as a method to analyse epistemic networks ([social network analysis draws relations between different levels of analysis in historically-changing systems](social%20network%20analysis%20draws%20relations%20between%20different%20levels%20of%20analysis%20in%20historically-changing%20systems.md)), there is one question that arose when I drew a graphic representations of [2020b-Renn](2020b-Renn.md)'s description of the SNA method.
+Taking SNA as a method to analyse epistemic networks ([social network analysis draws relations between different levels of analysis in historically-changing systems](social%20network%20analysis%20draws%20relations%20between%20different%20levels%20of%20analysis%20in%20historically-changing%20systems.md)), there is one question that arose when I drew a graphic representations of [2020-Renn](2020-Renn.md)'s description of the SNA method.
 
 For instance, is the shape of the network the same in all dimensions? In my representation, I assumed that it is, keeping the same general shape at the different dimensions, altering only the number of nodes at position, and sometimes even representing no node:
 

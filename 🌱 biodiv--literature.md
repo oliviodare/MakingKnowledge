@@ -10,6 +10,10 @@ Philosophy of nature. [Course at Exeter](https://twitter.com/PeterSjostedtH/stat
 
 2. Christine von Weizsäcker, "Competing notions of biodiversity", in W. Sachs, ed., Global Ecology, pp. 117-130.
 
+Environmental history, the work of Joan Martínez Alier:
+- *Varieties of Environmentalism: Essays North and South*. With Ramachandra Guha. Earthscan, London, 1997 and Oxford U.P. Delhi, 1998. (Trans. Spanish, Portuguese).
+- *The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation*. Edward Elgar, Cheltenham, 2002; Oxford U.P. Delhi, 2005. (Trans. French, Spanish, Portuguese, Italian: Ecologia dei Poveri. La lotta per la giustizia ambientale. Jaca Book, Milano, 2009).
+
 ### Orgs and people
 [BIOSEC](https://twitter.com/biosec_erc/status/1430888430624411658).
 
