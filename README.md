@@ -19,15 +19,18 @@ I am using a (not very refined) Zettelkasten method to take notes, making my not
  </svg> 
 Blue: reading note  
 
+
 <svg width="17" height="18">
  <circle cx="7" cy="11" r="7" fill=#d65c5c /> 
  </svg> 
 Red: concept note  
 
+
 <svg width="17" height="18">
  <circle cx="7" cy="11" r="7" fill=#5BD65C /> 
  </svg> 
 Green: nursing note   
+
 
 ![](Pasted%20image%2020210917132805.png)
 
