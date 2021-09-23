@@ -15,21 +15,19 @@ I am using a (not very refined) Zettelkasten method to take notes, making my not
 ***Reference***
 
 <svg width="17" height="18">
- <circle cx="7" cy="11" r="7" fill=#538CEA /> 
+ <circle cx="7" cy="11" r="7" fill=#538CEA />  
  </svg> 
-Blue: reading note  
-
+Blue: reading note <br>
 
 <svg width="17" height="18">
  <circle cx="7" cy="11" r="7" fill=#d65c5c /> 
  </svg> 
-Red: concept note  
-
+Red: concept note <br>
 
 <svg width="17" height="18">
  <circle cx="7" cy="11" r="7" fill=#5BD65C /> 
  </svg> 
-Green: nursing note   
+Green: nursing note  <br>
 
 
 ![](Pasted%20image%2020210917132805.png)
