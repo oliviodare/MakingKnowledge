@@ -23,7 +23,7 @@
 
 > Endangered Species Act (ESA) in 1973
 
-[1973 Endangered Species ACT ESA](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1973%20Endangered%20Species%20ACT%20ESA). The legal "culmination" of biologists and concerned public pushing for the recognition of endangered species.
+[1973 Endangered Species Act ESA](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1973%20Endangered%20Species%20Act%20ESA). The legal "culmination" of biologists and concerned public pushing for the recognition of endangered species.
 
 > meeting in Washington, DC of the National Forum on BioDiversity,
 

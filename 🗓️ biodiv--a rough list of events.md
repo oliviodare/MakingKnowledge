@@ -5,7 +5,7 @@
 ## 1962, Rachel Carson's *Silent Spring*
 A classic that is often mentioned as an example of the Cold War mindset of the environment: the effect of man-made technology (specially nuclear) in altering the environment. 
 
-## 1973, Endangered Species ACT (ESA)
+## 1973, Endangered Species Act (ESA)
 The legal "culmination" of biologists and concerned public pushing for the recognition of endangered species.
 
 ## 1986, National Forum on BioDiversity
@@ -14,7 +14,7 @@ Sometimes called the "first conference on biodiversity" ([[2016-Sepkoski]]).
 
 According to [2002-Sarkar](2002-Sarkar.md), Rosen coined the neologism 'biodiversity'. By Sarkar's account, this forum marked the beginning of the new interdisciplinary field "dedicated to the conservation of biological diversity", and also tied to the 1985 "manifesto" of the discipline by Soulé ([1985-Soulé](1985-Soulé.md)).
 
-According to [2016-Sepkoski](2016-Sepkoski.md), together with the [1973 Endangered Species ACT ESA](#1973%20Endangered%20Species%20ACT%20ESA), these two events were key in establishing the [endangerment sensibility](endangerment%20sensibility).
+According to [2016-Sepkoski](2016-Sepkoski.md), together with the [1973 Endangered Species Act ESA](#1973%20Endangered%20Species%20Act%20ESA), these two events were key in establishing the [endangerment sensibility](endangerment%20sensibility).
 
 ## 1987, World Commission on Environment and Development
 Early calls for thinking of 'sustainable development'.

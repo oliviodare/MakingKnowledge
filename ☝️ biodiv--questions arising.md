@@ -8,6 +8,7 @@
 - [are all 'biodiversity' cases worthwhile studying?](are%20all%20'biodiversity'%20cases%20worthwhile%20studying?.md)
 - [how does the temporal dimension mediate understandings of biodiversity?](how%20does%20the%20temporal%20dimension%20mediate%20understandings%20of%20biodiversity?.md)
 - [where can conceptual ambiguity of 'biodiveristy' come from?](where%20can%20conceptual%20ambiguity%20of%20'biodiveristy'%20come%20from?.md)
+- Has therer been change with respect to abandoning a 'red list' approach to nature conservation and focusing more in 'biodiversity'? It seems as though the concept of biodiversity united a lot of scientists in the late 90s and early 2000s, so why are we still using 'red lists'? Or putting it differently, how do we put the 'biodiversity' framework ([1996-Takacs](1996-Takacs.md)) into action? Is 'ecosystem management', 'bioregionalism' (p. 71 in Takacs) one of those approaches? Is the problem that 'ecosystems' and 'habitats' are not well-defined entities (p. 72 in Takacs)?
 
 ### Classification and red lists
 - [how are classification systems used, by who?](how%20are%20classification%20systems%20used,%20by%20who?.md)
@@ -52,5 +53,5 @@ According to [1989-Koselleck](1989-Koselleck.md), in the context of doing concep
 - [what is the late-modern concept of 'risk'?](what%20is%20the%20late-modern%20concept%20of%20'risk'?.md)
 - [what is weakly vs strongly contextualized knowledge?](what%20is%20weakly%20vs%20strongly%20contextualized%20knowledge?.md) (from chapters in *Rethinking science : knowledge and the public in an age of uncertainty*)
 
-
-
+### Spanish environmental history
+- [is there something like the USA's Endangered Species Act of 1973 at the national level in Spain or the international level in Europe?](is%20there%20something%20like%20the%20USA's%20Endangered%20Species%20Act%20of%201973%20at%20the%20national%20level%20in%20Spain%20or%20the%20international%20level%20in%20Europe?.md) 
