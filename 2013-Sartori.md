@@ -15,7 +15,7 @@
 | **Date read**				| 	21 Sep 2021	 | 
 | **Weblink**				| 	https://www.birdlife.org/europe-and-central-asia/news/alien-species-%E2%80%93-biodiversity%E2%80%99s-ticking-time-bomb-0		 | 
 
-**Take-home message**: This may be a potential good lead for a [case study](🌱%20biodiv--potential%20'ideal%20type'%20cases%20to%20study.md): what about when 'biodiversity' isn't a good value in itself? Several points to work with:
+**Take-home message**: This may be a potential good lead for a [case study](·%20biodiv--potential%20'ideal%20type'%20cases%20to%20study.md): what about when 'biodiversity' isn't a good value in itself? Several points to work with:
 - Interesting the framing as an 'invasion' and the ambiguous relation of national boundaries with 'native biodiversity'. See below for a commentary on the two dimensions causing conceptual ambiguity. 
 - Risk management seems to be one of the mechanisms of dealing with the biodiversity crisis.  
 - People to look at: 

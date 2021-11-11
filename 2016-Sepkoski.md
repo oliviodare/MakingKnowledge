@@ -23,7 +23,7 @@
 
 > Endangered Species Act (ESA) in 1973
 
-[1973 Endangered Species Act ESA](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1973%20Endangered%20Species%20Act%20ESA). The legal "culmination" of biologists and concerned public pushing for the recognition of endangered species.
+[1973 Endangered Species Act ESA](·%20%20biodiv--a%20rough%20list%20of%20events.md#1973%20Endangered%20Species%20Act%20ESA). The legal "culmination" of biologists and concerned public pushing for the recognition of endangered species.
 
 > meeting in Washington, DC of the National Forum on BioDiversity,
 
@@ -162,7 +162,7 @@ Changing the kind of diversity (from coarse to fine) in the history of life.
 
 > It was at the height of the scientific and public interest in mass extinctions that, in 1986, the biodiversity movement formally began. There were certainly earlier contributing factors – a long history of conservation efforts focused on preserving individual endangered species, for example (Barrow 2009; Farnham 2007).6 But there was something genuinely new about the way the major proponents of biodiversity – people like Wilson and Norman Myers – mobilized interest in protecting not one or a few individual species or habitats, but the entire diverse global ecosystem itself. Biodiversity, in other words, helped make diversity a normative value.
 
-1986, the 'biodiversity movement' *formally began*, refering to the [1986 National Forum on BioDiversity](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1986%20National%20Forum%20on%20BioDiversity).
+1986, the 'biodiversity movement' *formally began*, refering to the [1986 National Forum on BioDiversity](·%20%20biodiv--a%20rough%20list%20of%20events.md#1986%20National%20Forum%20on%20BioDiversity).
 
 > The reasons for this are many and complex, but I will point to a few:
 
@@ -190,17 +190,17 @@ The attention of scientists to BIOdiversity and its framing as something necessa
 > One of the clearest examples of the overlap between valuations of biological and cultural diversity is in the rhetoric used by the United Nations and UNESCO to promote these ideals. A few years after the initial biodiversity conference was held in Washington, an “Earth Summit” was held in Rio de Janeiro where 150 nations signed the United Nations’ “Convention on Biological Diversity,” which explicitly called attention to “the intrinsic value of biological diversity” (UN 1992, 1). A decade later, UNESCO produced the “Universal Declaration on Cultural Diversity,” which framed cultural diversity in the same language of “resource” in which biological diversity was being presented: “The Declaration aims both to preserve cultural diversity as a living, and thus renewable treasure that must not be perceived as being unchanging but as a process guaranteeing the survival of humanity”
 
 
-1992, United Nations "Earth Summit" in Rio de Janeiro, where 150 nations signed the UN 'Convention on Biological Diversity' which framed biodiversity as a good in itself "the intrinsic value of biological diversity". [1992 United Nations Earth Summit](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1992%20United%20Nations%20Earth%20Summit).
+1992, United Nations "Earth Summit" in Rio de Janeiro, where 150 nations signed the UN 'Convention on Biological Diversity' which framed biodiversity as a good in itself "the intrinsic value of biological diversity". [1992 United Nations Earth Summit](·%20%20biodiv--a%20rough%20list%20of%20events.md#1992%20United%20Nations%20Earth%20Summit).
   
-year? UNESCO produces the "Universal Declaration on Cultural Diversity" which also framed cultural diversity as a "resource" [2001 UNESCO Universal Declaration on Cultural Diversity](🗓️%20biodiv--a%20rough%20list%20of%20events.md#2001%20UNESCO%20Universal%20Declaration%20on%20Cultural%20Diversity).
+year? UNESCO produces the "Universal Declaration on Cultural Diversity" which also framed cultural diversity as a "resource" [2001 UNESCO Universal Declaration on Cultural Diversity](·%20%20biodiv--a%20rough%20list%20of%20events.md#2001%20UNESCO%20Universal%20Declaration%20on%20Cultural%20Diversity).
 
 > new term – “biocultural diversity” – at around the same time. The term seems to have been first coined at a 1996 conference held in Berkeley that was jointly sponsored by UNESCO, the World Wildlife Fund, and the newly founded organization Terralingua (which is devoted to preservation of endangered languages) on “Endangered Languages, Endangered Knowledge, Endangered Environments” (Maffi 2001b). Papers from the conference were published in a volume titled *On Biocultural Diversity*, and reflect the way in which key elements of the biological understanding of extinction and diversity influenced discussions of cultural and linguistic endangerment. A
 
-1996 Conference where the term "biocultural diversity was coined". [1996 Conference Endangered Languages Endangered Knowledge Endangered Environments](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1996%20Conference%20Endangered%20Languages%20Endangered%20Knowledge%20Endangered%20Environments).
+1996 Conference where the term "biocultural diversity was coined". [1996 Conference Endangered Languages Endangered Knowledge Endangered Environments](·%20%20biodiv--a%20rough%20list%20of%20events.md#1996%20Conference%20Endangered%20Languages%20Endangered%20Knowledge%20Endangered%20Environments).
 
 > This conflation of biological and cultural diversity is nowhere more evident than in a UNESCO booklet published in 2003 titled Sharing a World of Difference: The Earth’s Linguistic, Cultural, and Biological Diversity. This document defines biocultural diversity as “interlinkages between linguistic, cultural, and biological diversity,” and asserts that “the diversity of life on Earth is formed not only by the variety of plant and animal species and ecosystems found in nature (biodiversity), but also by the variety of cultures and languages in human society (cultural and linguistic diversity)” (Skutnabb-Kangas et al. 2003, 9).
 
-[2003 UNESCO booklet Sharing a World of Difference The Earth’s Linguistic Cultural and Biological Diversity](🗓️%20biodiv--a%20rough%20list%20of%20events.md#2003%20UNESCO%20booklet%20Sharing%20a%20World%20of%20Difference%20The%20Earth’s%20Linguistic%20Cultural%20and%20Biological%20Diversity).
+[2003 UNESCO booklet Sharing a World of Difference The Earth’s Linguistic Cultural and Biological Diversity](·%20%20biodiv--a%20rough%20list%20of%20events.md#2003%20UNESCO%20booklet%20Sharing%20a%20World%20of%20Difference%20The%20Earth’s%20Linguistic%20Cultural%20and%20Biological%20Diversity).
 
 > a basic pattern is clear: during the 19th century, at a time when naturalists understood nature to be an essentially endlessly renewable resource, diversity was taken for granted, and extinction was not perceived as a threat to the economy of nature, and diversity per se did not have normative value. Rather, extinction was understood to be nature’s way of strengthening and improving itself by weeding out the unfit, and competition was celebrated as the source of natural progress. This view, of course, supported Victorian ideologies of social progress and imperial expansion, and justified a lack of concern about the inevitable victims of progress (combined with, at most, romantic nostalgia for cultures that passed away). When competition is natural, extinction is inevitable, and not to be resisted.
 

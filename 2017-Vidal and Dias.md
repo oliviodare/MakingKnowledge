@@ -60,11 +60,11 @@ a prime example of how culture and nature interact both as causes of endangermen
 
 > In 1987, the World Commission on Environment and Development (known as the Brundtland Commission) called for making development “sustainable.”
 
-Early calls for thinking of 'sustainable development'. [1987 World Commission on Environment and Development](🗓️%20biodiv--a%20rough%20list%20of%20events#1987%20World%20Commission%20on%20Environment%20and%20Development)
+Early calls for thinking of 'sustainable development'. [1987 World Commission on Environment and Development](·%20%20biodiv--a%20rough%20list%20of%20events.md#1987%20World%20Commission%20on%20Environment%20and%20Development)
 
 > Convention on Biological Diversity signed at the 1992 Rio de Janeiro Earth Summit.
 
-an important moment, the first Convention of Biological Diversity. [1992 Convention of Biological Diversity](🗓️%20biodiv--a%20rough%20list%20of%20events#1992%20Convention%20of%20Biological%20Diversity).
+an important moment, the first Convention of Biological Diversity. [1992 Convention of Biological Diversity](·%20%20biodiv--a%20rough%20list%20of%20events.md#1992%20Convention%20of%20Biological%20Diversity).
 
 > Terralingua, an NGO that works “to sustain the biocultural diversity of life” (www.terralingua.org).
 
@@ -76,13 +76,13 @@ looking beyond 'indigenous': looking at the urban
 
 > Declaration of Belem.
 
-important moment for the interconection between biological and cultural diversity [1988 Declaration of Belem](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1988%20Declaration%20of%20Belem).
+important moment for the interconection between biological and cultural diversity [1988 Declaration of Belem](·%20%20biodiv--a%20rough%20list%20of%20events.md#1988%20Declaration%20of%20Belem).
 
 > Palangka Raya Declaration on Deforestation and the Rights of Forest Peoples.
 
 > Rachel Carson’s 1962 *Silent Spring*.
 
-A classic that is often mentioned as an example of the Cold War mindset of the environment: the effect of man-made technology (specially nuclear) in altering the environment. [1962 Rachel Carson's *Silent Spring*](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1962%20Rachel%20Carson's%20Silent%20Spring).
+A classic that is often mentioned as an example of the Cold War mindset of the environment: the effect of man-made technology (specially nuclear) in altering the environment. [1962 Rachel Carson's *Silent Spring*](·%20%20biodiv--a%20rough%20list%20of%20events.md#1962%20Rachel%20Carson's%20Silent%20Spring).
 
 ## Continuation of the reading
 

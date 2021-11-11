@@ -22,7 +22,7 @@
 
 > The neologism 'biodiversity' was coined by Walter G. Rosen at some point during the organization of the 21-24 September 1986 "National Forum on BioDiversity" held in Washington, D.C., under the auspices of 2 the U.S. National Academy of Sciences and the Smithsonian Institution. The new term was intended as nothing more than a shorthand for "biological diversity" for use in internal paperwork during the organization of that forum.
 
-The bird of ‘biodiversity’ as a neologism in 1986. #timeline:[1986 National Forum on BioDiversity](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1986%20National%20Forum%20on%20BioDiversity).
+The bird of ‘biodiversity’ as a neologism in 1986. [1986 National Forum on BioDiversity](·%20%20biodiv--a%20rough%20list%20of%20events.md#1986%20National%20Forum%20on%20BioDiversity).
 
 
 > The Washington forum was held only shortly after the founding of the U.S. Society for Conservation Biology in 1985 which, sociologically, marked the formation of a new inter-disciplinary field dedicated to the conservation of biological diversity.

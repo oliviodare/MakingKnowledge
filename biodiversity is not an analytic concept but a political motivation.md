@@ -1,7 +1,7 @@
 # biodiversity is not an analytic concept but a political motivation
 #conceptnote 
 
-The idea is quite obvious when looking at the historical actors themselves. In [1996-Takacs](1996-Takacs.md) (p. 38) we see that Dan Janzen, one of the attendees of the [1986 National Forum on BioDiversity](🗓️%20biodiv--a%20rough%20list%20of%20events.md#1986%20National%20Forum%20on%20BioDiversity), recalls that event as "an explicit political event, explicitly designed to make Congresss aware of this complexity of species that we're losing."
+The idea is quite obvious when looking at the historical actors themselves. In [1996-Takacs](1996-Takacs.md) (p. 38) we see that Dan Janzen, one of the attendees of the [1986 National Forum on BioDiversity](·%20%20biodiv--a%20rough%20list%20of%20events.md#1986%20National%20Forum%20on%20BioDiversity), recalls that event as "an explicit political event, explicitly designed to make Congresss aware of this complexity of species that we're losing."
 
 ## Some clarifications
 ### What do I mean by 'analytic concept'?

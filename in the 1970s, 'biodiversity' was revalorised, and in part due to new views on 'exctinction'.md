@@ -18,13 +18,16 @@ This new view on 'biodiversity' contributed to the rise of the '[endangerment se
 Major titles in ecology seem to support Sepkoski's thesis: Norman Myers's *The Sinking Ark: A New Look at the Problem of Disappearing Species* and Paul and Anne Ehrlich's *Extincition: The Causes and Consequences of the Dissappearance of Species*.
 
 ## A seeming contradiction.
-
 While [2016-Sepkoski](2016-Sepkoski.md) claims that the new concept of 'exctinction' influenced a new valorisation of 'biodiversity', it does appear to be the oppossite, as in the graphs that he shows, 'biodiversity' mentions have grown slowly since the 1950s, and 'mass exctinction' only sharply since the 1980s. This seems to (partially) contradict his argument.
 ![](Google%20n-grams%20'diversity'%20(Sepkoski%202016).jpg)
 
 
----
+## A nuance coming from Takacs
+[1996-Takacs](1996-Takacs.md) would perhaps claim that the concept of biodiversity trancends some of the conceptual limits of framing environmental issues as a matter of extinction. He claims that framing of environmental issues on endangered species is a "narrow focus", and that the framing of biodiversity has a bigger "breadth [that] resolves (at least temporarily) a number of tricky problems." (p. 52)
 
-Related notes
-- 
+As one of the evidence Takacs brings forward, he reports on the contemporary debates about the evidence supporting the idea that the rate of extinction has gone up. He also argues that by shifting to explain the environmental problem in the 'biodiversity' frame, "the switch to a strategy based on biodiversity can make species counts superfluous; instead, conservation comes to focus on pattern, process, and multiple hierarchical levels." (p. 53)
+
+He also argues that the biodiversity approach does not rely on blurry definiton of what counts as 'species' (p. 53) and provides evidence of how *biodiversity* has a "bigger breath" than species-by-species conservation (p. 54-57), and how *given* uncertain knowledge, we can still argue for conservation. 
+
+
 

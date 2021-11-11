@@ -14,4 +14,7 @@ Biodiversity both means different things and is measured in different ways. This
 - Locality (also talked about in [2002-Sarkar](2002-Sarkar.md))
 
 
+There is also an ontological dimension to *biodiversity*'s ambiguity: [biodiversity, as conceptualized by scientists is already an ambiguous concept tied to different ontological commitments](biodiversity,%20as%20conceptualized%20by%20scientists%20is%20already%20an%20ambiguous%20concept%20tied%20to%20different%20ontological%20commitments.md)
+
+
 Despite the flexibily that these categories introduce, we should also pay attention to the temporal changes in the meanings of diversity: [diversity is at the core of conservation biology but its meanings have changed](diversity%20is%20at%20the%20core%20of%20conservation%20biology%20but%20its%20meanings%20have%20changed.md). 
