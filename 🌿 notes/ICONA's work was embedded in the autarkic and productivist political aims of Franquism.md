@@ -1,0 +1,4 @@
+# ICONA's work was embedded in the autarkic and productivist political aims of Franquism
+#conceptnote #T-ICONA 
+
+The ICONA was not an insulated institution: its mission was embedded in the autarkic and productivist political aims of Franquism. It is thus not a surprise that [ICONA had a variety of tasks in paper, but in practice they were centered around forest management and making nature productive](ICONA%20had%20a%20variety%20of%20tasks%20in%20paper,%20but%20in%20practice%20they%20were%20centered%20around%20forest%20management%20and%20making%20nature%20productive.md). After all, several organisations, like the "Dirección General de Obras Hidráulicas, el Instituto Nacional de Colonización (luego IRYDA), o el Patrimonio Forestal del Estado (luego ICONA)" ([2006-Ramos Gorostiza](2006-Ramos%20Gorostiza.md), p. 128) not only ICONA, were tasked with making nature productive.

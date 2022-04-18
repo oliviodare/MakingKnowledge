@@ -1,0 +1,6 @@
+# rastrear el origen de las semillas era importante para los ingenieros forestales al menos desde 1966
+#conceptnote #T-huertossemilleros #T-ICONA 
+
+Antes de la llegada de los biólogos en el ICONA, e incluso antes del ICONA mismo, los ingenieros de montes reconocían la importancia de conocer las "características de la semilla" y de conocer el "lugar donde se han utilizado las plantas nacidas", es decir, el origen y el destino de las semillas. Así se recoge en una circular de 1966 de la DGM ([▵ Circular Nº4](▵%20Circular%20Nº4.%20Dando%20normas%20para%20determinar%20el%20origen%20de%20las%20semillas%20empleadas%20en%20las%20repoblaciones.md)). 
+
+Tanto en esta circular cómo dos décadas despúes durante el [proyecto de los huertos semilleros](▵%20Informe%20sobre%20la%20puesta%20en%20marcha%20del%20estudio%20de%20un%20Plan%20Nacional%20de%20Huertos%20Semilleros%20de%20especies%20forestales.md), esta importancia estaba ligada a" recomendaciones de organismos internacionales" o normativas, como el caso de [las legislaciones de la CEE de los años 60](varias%20legislaciones%20de%20la%20CEE%20empezaron%20a%20regular%20la%20comercialización%20de%20semillas%20desde%20final%20de%20los%20años%2060.md).

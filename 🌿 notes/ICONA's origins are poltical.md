@@ -1,0 +1,5 @@
+# ICONA's origins are political
+#conceptnote #T-ICONA 
+
+
+ICONA was created by Royal Decree ([▵ Decreto-ley 17-1971](▵%20Decreto-ley%2017-1971.md)). It's emergence was fast, and its origin were political, specifically linked to the regime's ambition of ending the international isolation of Spain and fostering economical betterment through industrial development ([2006-Ramos Gorostiza](2006-Ramos%20Gorostiza.md), p. 126). This is not a surprise, as it is clear that [the field of conservation is entangled with the phenomena of idustrialisation](the%20field%20of%20conservation%20is%20entangled%20with%20the%20phenomena%20of%20idustrialisation.md). On a historiographical note, and within the framework of [biodiversity is not an analytic concept but a political motivation](biodiversity%20is%20not%20an%20analytic%20concept%20but%20a%20political%20motivation.md), we can use this notion of ICONA as a scientific/industrial/political entity to investigate the concept of 'biodiversity', and the precise entaglement it had in the Spanish case.

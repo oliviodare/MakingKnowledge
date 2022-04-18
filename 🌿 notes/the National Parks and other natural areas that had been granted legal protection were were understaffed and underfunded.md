@@ -1,0 +1,4 @@
+# The National Parks and other natural areas that had been granted legal protection were were understaffed and underfunded
+#conceptnote #T-ICONA 
+
+[ICONA had a variety of tasks in paper, but in practice they were centered around forest management and making nature productive](ICONA%20had%20a%20variety%20of%20tasks%20in%20paper,%20but%20in%20practice%20they%20were%20centered%20around%20forest%20management%20and%20making%20nature%20productive.md). One of those tasks, that of managing the National Parks [▵ Ley 15-1975](▵%20Ley%2015-1975.md), but as claimed in [2006-Ramos Gorostiza](2006-Ramos%20Gorostiza.md), "las declaraciones de nuevos espacios protegidos en esta etapa fueron en realidad puramente nominales, pues no iban acompañadas de recursos financieros, técnicos y de personal": in the management of National Parks, ICONA was understaffed. 
