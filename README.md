@@ -30,6 +30,6 @@ Red: concept note <br>
 Green: nursing note  <br>
 
 
-![](Pasted%20image%2020210917132805.png)
+![Pasted image 20210917132805.png](Pasted%20image%2020210917132805.png)
 
-![](Pasted%20image%2020210917132821.png)
+![Pasted image 20210917132821.png](Pasted%20image%2020210917132821.png)
