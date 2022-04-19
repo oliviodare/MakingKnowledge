@@ -2,7 +2,7 @@
 ### Welcome to my attempt of making my process of research transparent and open (and in the future, *useful* and *participative*)
 
 
-### _Currently (2022) on hold__
+### _Currently (2022) on hold_
 
 See the [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) section on my site for a few lines on my PhD project itself. (I've only started in September 2021, so there's not much to say for the moment in terms of content...).
 
