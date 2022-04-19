@@ -1,6 +1,9 @@
 # Open Humanities Lab Book
 ### Welcome to my attempt of making my process of research transparent and open (and in the future, *useful* and *participative*)
 
+
+### _Currently (2022) on hold__
+
 See the [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) section on my site for a few lines on my PhD project itself. (I've only started in September 2021, so there's not much to say for the moment in terms of content...).
 
 One of my aims during my PhD is to make my research process transparent and open. Open Science has made the rounds as the new research ethos of the natural sciences and has especially been taken up by those working in quantitative and experimental fields (with highly normative banners such as "Open Science is just science done right!"). Despite my reservations about Open Science being overly focused on methods, I want to contribute to making the humanities more open too –not in the same way, of course, but reappropriating tools and ideas from the natural sciences and fitting them to my needs. 
